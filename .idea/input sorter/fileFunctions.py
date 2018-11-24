@@ -19,7 +19,8 @@ def find_pdfs(inDir):
 
 def get_cwd():
     cwd = os.getcwd()
-    return out
+    return cwd
+
 
 
 

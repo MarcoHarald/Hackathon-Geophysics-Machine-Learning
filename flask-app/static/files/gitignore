@@ -1,5 +1,0 @@
-# Exclude all PDFs and TIFFs from the repository
-*.pdf
-*.tif
-*.tiff
-

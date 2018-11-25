@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Company Info{% endblock %}
+{% block content %}
+<h1>Search results for {{ query }}</h1>
+<br />
+<ol>
+    {% for (score, file) in results %}
+    <li>Score: {{ score }}, from file {{ file }}</li>
+    {% endfor %}
+</ol>
+{% endblock %}

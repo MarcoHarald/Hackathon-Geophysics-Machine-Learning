@@ -72,14 +72,18 @@
   <!-- Page body -->
   <body>
   <!-- Content inside Bootstrap class container -->
-  <div class="container-fluid row" style="justify-content: center">
-    <div id="logo" style="margin: auto;">
-        <img src="static/woogle.png" />
+  <div class="container-fluid row" style="justify-content: center; width: 100%">
+    <div style="width: 100%">
+        <div id="logo" style="margin-left: 300px; margin-right: 300px; justify-content: center">
+            <img src="static/woogle.png" />
+        </div>
     </div>
-      <div style="margin: auto" id="drop_zone" ondrop="dropHandler(event);" ondragover="dragOverHandler(event);">
+    <div style="width: 100%">
+      <div style="margin: auto; width: 60%" id="drop_zone" ondrop="dropHandler(event);" ondragover="dragOverHandler(event);">
         <p>Drag your file here to start ...</p>
       </div>
-      <div id="content">
+    </div>
+      <div id="content" style="width: 60%; justify-content: center; text-align: left">
 
          {% block content %}{% endblock %}
 

@@ -1,0 +1,10833 @@
+ 
+
+ 
+
+. + MOBIL NORTH SEA LIMITED.
+
+WELL-: 26/8-1 5
+
+DIPMETER PROCESSING AND INTERPRETATION
+
+interval 6690 - 10032 ft.
+
+NOVEMBER, 1992
+
+ 
+
+ 
+
+ 
+
+ 
+
+F
+t
+
+ 
+
+ 
+
+BNDIOM
+
+‘NOILV9O1
+2) AY¥Vual]
+
+a1ald NOlLWHONdxXa d3aLiIWN
+VaS HLYON TIGOW HOs 1LAceo0l
+"0699 IVAH3LNI NOILVLAddHSLNI
+GNV ONISSSOOUd YALAWdIG
+
+(y)2' 1-8/9 SM
+
+O6£68 L0000
+
+scan A
+
+ 
+
+ 
+
+ 
+
+ 
+
+oy ce ay ie ra
+
+ 
+
+UIT LIT ies tech vcopetinites
+
+ 
+
+  
+
+ 
+ 
+
+ 
+
+ 
+
+MOBIL NORTH SEA LIMITED
+WELL : 26/8-1
+DIPMETER PROCESSING AND INTERPRETATION
+interval 6690 - 10032 ft.
+
+NOVEMBER, 1992
+
+ 
+
+[ines tech Eucope limited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+i
+
+i
+
+Y
+
+|
+
+; |
+
+MOBIL NORTH SEA LIMITED
+
+WELL : 26/8-1
+
+DIPMETER PROCESSING AND INTERPRETATION
+
+| Interval 6690 - 10032 ft.
+
+| TABLE OF CONTENTS
+SUMMARY 2.00... ee een ee eee 1
+DIPMETER DATA BASE ................. De ee eee 2
+DATA QUALITY AND CORRECTIONS ...... 0... 0c eee ee ees . .. 2
+DIP COMPUTATIONS ......... Neen eben eee beeen eneenen 3
+RESULTS) AND INTERPRETATION .. 0... ccc eee eee ees 4
+DISCUSSION OF RESULTS 2.0.0... cece eect eect e ete e eee “6
+Figure 1: bip Azimuth Vector Plot - Interval 6690 - 10032 ft..............00. 7
+Figure 2: Equal Area (Schmidt) Plot of Poles - 6690 - 10032 ft. ...........0.. 8
+Figure 3: Equal Area (Schmidt) Plot of Poles - 6690 - 9085 ft. ............ : .. 9
+Figure 4: Equal Area (Schmidt) Plot of Poles - 9085 - 9590 ft. ............05 10
+Figure 5: Equal Area (Schmidt) Plot of Poles - 9590 - 9810 ft. .............. 11
+
+Figure 6: Equal Area (Schmidt) Plot of Poles - 9810 - 10032 ft. ............. 12
+
+|
+{
+I
+|
+
+[AnesTech Europe limited —
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+LISTINGS
+
+4 ft. x 2 ft. x 60° Correlation Results Listing
+
+ENCLOSURES
+ENCLOSURE 1: Depth-indexed Composite Arrow Log, 1:200 depth scale
+ENCLOSURE 2: Depth-indexed Composite Arrow Log, 1:500 depth scale
+ENCLOSURE 3: Depth-indexed Raw Data Playback Log, 1:200 depth scale
+ENCLOSURE 4: Dip Azimuth Vector Plot
+ADDITIONAL PRODUCTS: 1-  UlS-format results tape
+[Anes Tech Europe limited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+MOBIL NORTH SEA LIMITED
+WELL: 26/8-1 |
+DIPMETER PROCESSING AND INTERPRETATION
+
+Interval 6690 - 10032 ft. |
+
+SUMMARY
+
+Dipmeter processing for structural interpretation was performed over the interval 6690 -
+10032 ft. on Well 26/8-1, U.K.C.S. One main logging pass and a short repeat interval
+were recorded with a Schlumberger SHDT dipmeter tool. The correlation parameters used
+for final processing were 4.0 ft. x 2.0 ft. x 60° oriented with respect to the borehole.
+These parameters appear to give excellent results for structural interpretation as well as
+an indication of many stratigraphic features.
+
+High quality results were obtained throughout the logged interval, revealing a general
+structural dip of roughly 7° to the southeast. Several intervals exhibit slight variations in
+dip azimuth and/or magnitude; the structural dip of each of these individual intervals has
+been evaluated.
+
+The high quality of the data and the appearance of numerous’ sedimentary dip patterns
+within the individual sands suggest channel orientation and sediment transport direction
+could probably be derived from a finer-resolution stratigraphic processing and structural dip
+removal. Also, borehole elipticity is noted in several of the lower sands which could be
+borehole breakout resulting from differential horizontal stresses. If so, a breakout-
+orientation plot could provide useful data on the orientation of tectonic stresses.
+
+[nes Tech Europe limited.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+DIPMETER DATA BASE ~
+
+The digital data used for this project consisted of a Schlumberger CSU field tape of SHDT
+data; no other data or information was made available. The main logging pass covered the
+interval 6676 - 10032 ft. with a repeat section. Only data from the main logging run was
+used in this study.
+
+DATA QUALITY AND CORRECTIONS
+
+The studied section of the 26/8-1 well was drilled with a conductive seawater-polymer
+mud and an 8.5" bit. The wellbore is nearly vertical, being deviated ta the northwest at
+2 degrees at the top of the logged interval, building to nearly 6 degrees at 9700 ft.
+
+Above 8080 ft. the borehole is in-gauge in the sand intervals and shows some minor
+washout in the shales. The dipmeter calipers show severe borehole enlargement and
+
+_elipticity between 8080 and 9130 ft. The borehole improves below 9130 ft. but still
+
+exhibits a number of thin wash-outs. There is also some evidence of tectonically-oriented
+borehole breakout in the sands below 9485 ft. Despite the intervals of borehole
+eniargement and rugosity, the dipmeter pads appeared to maintain goad electrical contact
+with the formation, resulting in good-quality data even in the intervals of enlarged borehole.
+
+Cable tension was fairly consistent and there is no evidence of significant tool sticking.
+
+.Accelerometer corrections were applied to the data prior to dip correlation. A magnetic
+
+declination of 5.867° W was applied during ResTech processing. The dipmeter sonde did
+not rotate during the logging run. ‘
+
+2
+
+| (ines Tech europetimited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+DIP COMPUTATIONS
+
+Dipmeter correlations are accomplished by digitally correlating a specified depth interval,
+(“correlation interval") of resistivity data around the well bore between each of the
+orientated electrode measurements. A plane is fixed by these correlations and reoriented
+in space by subtracting the tool deviation and direction vectors.
+
+During the correlation process, the distance up and down the borehole that is searched for
+correlations at each depth interval is controlled by a specified "search angle". After
+correlations are completed at one depth level, the data is indexed or stepped a certain
+depth increment ("step distance”), and another round of correlations is then made.
+
+Mathematically, a minimum of three displacement correlations is sufficient to determine a
+plane. From a geologic perspective, however, all data pair correlations can be used to
+construct a plane. In this interpretation, the plane that gives rise to the maximum total
+correlation when all possible pairs are considered is used. This best fit plane may or may
+not pass through the actual peaks on the individual correlation curves, especially when the
+detected events relate to a non-planar surface. The logic is to construct a correlation
+surface with the axes being the shifts in all directions for all pads correlated, and the tilt
+of the surface is the highest total correlation coefficient of each discrete shift along all
+axes.
+
+When tools with four or more electrodes are used, all possible correlations are considered.
+The correlations fram the 8 electrode SHDT are computed and are searched for the plane
+that gives rise to the maximum total correlation when all possible electrode pairs are
+considered.
+
+A quality coefficient is assigned to each computed dip plane that is related to both the
+planarity of the event and the similarity of resistivity response (likeness) of each electrode:
+
+Degree of planarity and likeness Quality
+coefficient
+Good - excellent 0.6 - 1.0
+Fair . 0.3 - 0.6
+Poor < 0.3
+
+It shouid be noted that no form of pooling, averaging or clustering is made to the computed
+dip results. “This means that the results show all correlatable events, including those of a
+short depth duration (e.g. fracture planes, crossbeds, slumps etc.).
+
+3
+
+Anestech Evopetimited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Processing parameters for the 26/8-1 weil were selected after examining a playback of the
+raw dipmeter data. As no supporting geologic information was available for use in
+selecting correlation parameters, a relatively large search angle of 60° was used in the
+event that high-angle structural dips were present. The correlation parameters used for
+final processing were 4.0 ft x 2.0 ft x 60°, with the search angle oriented with respect to
+the borehole. These parameters appear to give excellent results for structural interpretation
+as well as an indication of many stratigraphic features.
+
+No filtering of "mathematical" dips (dips which are artifacts of the processing technique
+and have magnitudes near the maximum search angle} was deemed necessary and all
+computed dips with correlation coefficients greater than 0.30 have been included in the
+various plots and interpretations.
+
+RESULTS AND INTERPRETATION
+
+To aid interpretation, results are presented in several formats:
+
+{. 1:200 Depth-Indexed Composite Arrow Log (Enclosure 1)
+1:500 Depth-Indexed Composite Arrow Log (Enclosure 2)
+1:200 Depth-Indexed Raw Data Playback Log (Enclosure 3)
+
+The Composite Arrow plot displays tool and borehole orientation data in Track 1,
+gamma ray and X-Y caliper curves in Track 2, computed dip arrows and rose
+diagrams in Track 3, and the eight micro-resistivity traces in Track 4.
+
+Wl. Dip Azimuth Vector Plot: Interval 6690 - 10032 ft.
+(Figure 1 and Enciosure 4)
+
+The Dip Azimuth Vector or "DAV" plot is a continuous vector plot of the azimuth
+data from successive correlations of decreasing depth. The DAV is generated by
+adding each azimuth vector to the subsequent vector on a horizontal plane.
+Although the vector addition is for azimuth only (no dip magnitude), the resultant
+plot can highlight structural changes such as faults and unconformities, as well as
+depositional breaks and flow directions. The Dip Azimuth Vector plot (Enclosure 4
+and Figure 1) for the entire studied interval of 6690 - 10032 ft. shows several slight
+changes in dip direction. These occur at depths of approximately 9085, 9590, and
+9810 ft. The structural and/or mean dip of the four intervals bounded by these DAV
+breaks is quantified statistically using Schmidt polar plot analyses.
+
+4
+
+[FResTech Eviopetimited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+Equal Area (Schmidt) plot of poles for Structural Dip Interpretation:
+
+Interval 6690 - 10032 ft. (Figure 2) - Entire logged interval
+Interval 6690 - 9085 ft. (Figure 3)
+
+Interval 9085 - 9590 ft. (Figure 4)
+
+Interval 9590 - 9810 ft. (Figure 5)
+
+Interval 9810 - 10032 ft. (Figure 6)
+
+Structural dip may be interpreted from a statistical analysis of the data. After an
+initial study of the tadpole plots and the Dip Azimuth Vector plot, Schmidt polar
+plots were constructed for each of the intervals listed above. A first iteration mean
+dip computation is performed for each interval. A second iteration mean dip
+computation is then made using only the data points that lie within a specified cone
+angie of the first-iteration mean dip. The result of this second iteration in low- |
+energy sediments is interpreted as the best estimate of mean structural dip.
+
+For Well 26/8-1 this procedure was followed using all dips with a correlation
+coefficient above 0.3 and second iteration cones of 5°. This gives apparent
+structural dips of:
+
+Interval ' Mean Dip . Azimuth
+6690 - 10032 ft. 7.2° @ “137°
+6690 - 9085 ft. 7.5° @ 138°
+9085 - 9590 ft. 7.0° -@ 128°
+9590 - 9810 ft. 6.9° @ 163°
+9810 - 10032 ft. 5.7° @ 138°
+5
+[nesTechEuopetimited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+DISCUSSION OF RESULTS
+
+Traditionally, structural dip is interpreted from the minimum consistent dip in low-energy |
+sediments that are assumed to have been deposited with horizontal bedding and not to
+have undergone any soft-sediment deformation. However, since much of the studied
+interval appears to consist of either channel-type sandstone or shales in close vertical
+proximity to channel-type sands, sedimentary dips in the sandstones and drape features
+in the overlying shales may. figure prominently in the apparent structural dip. For this
+reason, a Statistical approach has been used to interpret structural dip, using Schmidt polar
+plots to define an iterative mean dip in selected intervals of the logged section.
+
+The relatively coarse 4 ft. x 2 ft. structural processing reveals numerous clear “red” (dip .
+increasing with depth) and “blue“ (dip decreasing with depth) patterns within the various
+
+sand bodies. These sedimentary dip patterns are likely to be the product of channel fill and
+
+current bedding features. A finer-resolution stratigraphic processing, coupled with
+
+structural dip removal should provide good insight into the orientation of fluvial channel
+
+axes and sediment transport directions. .
+
+Breakout-orientation plots (directionally-oriented differential calipers) from multi-arm
+calipers have long been used in the Carboniferous fields in the Southern North Sea and
+onshore Northern Europe to determine the orientation of the local horizontal tectonic stress.
+As there appears to be differential breakout in the sands in the lower section of the studied
+interval, such a plot is recommended.
+
+6
+
+[Anes Tech Europe limited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1:
+
+ 
+
+Dip Azimuth Vector Plot - Interval 6690 - 10,032 ft.
+
+Pines tech Evropetimited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ ;
+EQUAL AREA (SCHMIOT) PLOT OF POLES SCALE AT PERIPHERY = 30 DEGREES
+
+Z0NE FROM 10032.00.TO 6890.00
+MEAN O[P (FIRST ITERATION 30.0 DEG.) :7.4 AT 137-8 + 1474 SAMPLES
+MEAN OP (SECOND [TERATION S.O DEG.) 27.2 AT 137.3 : 777 SAMPLES
+
+Figure 2: Equal Area (Schmidt) Plot of Poles - 6690 - 10032 ft.
+
+8
+
+ 
+
+[AnesTech Europe limited
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EQUAL AREA (SCHNIOT) PLOT OF POLES SCALE AT PERIPHERY = 30 OEGREES
+
+ZONE FROM 9085.00 TO 6690-00
+MEAN DIP (FIRST [TERATION 30.0 DEG.) :7.9 AT 137.8 : 1065 SAMPLES
+MEAN OIP (SECOND [TERATION S.O0 OEG.) 17-5 AT 137.9 # 529 SAMPLES
+
+Figure 3: Equal Area (Schmidt) Plot of Poles - 6690 - 9085 ft.
+
+9
+
+Panestech Europe limited
+
+ 
+
+ad
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+S
+EQUAL AREA (SCHMIOT) PLOT OF POLES SCALE AT PERIPHERY = 30 DEGREES
+
+ZONE FROM 9590.00 TO 9085.00
+MEAN DIP (FIRST ITERATION 30.0 O£G.) 16.9 AT 123.3 1 225 SAMPLES
+MEAN OIP (SECOND [TERATION S.0 OEO.} 37.0 AT 128.2 : 153 SAMPLES
+
+Figure 4: Equal Area (Schmidt) Plot of Poles - 9085 - 9590 ft.
+
+10
+
+ 
+
+ 
+
+ 
+
+Pinertech Europe limited
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EQUAL AREA (SCHMIDT) PLOT OF POLES SCALE AT PERIPHERY = 30 DEGREES
+
+ZONE FROM 9810.00 TO 9590.c0_ :
+MEAN OLP (FIRST ITERATION 30.0 D&G.) :7.9 AT 168.6 +: 90 SAMPLES
+MEAN OIP (SECOND [TERATION 5-0 DEG.) #6.9 AT 163.2 1 44 SAMPLES
+
+Figure 5: Equal Area (Schmidt) Plot of Poles - 9590 - 9810 ft.
+
+11
+
+PAnesTech Eusopetimited
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+nn mom meee Ee mae Ee ewe elle Ce
+
+ 
+
+ 
+
+ 
+
+$ ;
+EQUAL ARER (SCHMIOT) PLOT OF POLES SCALE AT PERIPHERY = 30 DEGREES
+
+ZONE FROM 10032.00 TO 9810.00 . .
+MEAN DIP (FIRST ITERATION 30.0 DEG.) 15.2 AT 139.1 + 96 SAMPLES
+MEAN DIP (SECOND ITERATION S.O0 DEG.) :5.7 AT 138.1 : 62 SAMPLES
+
+Figure 6: Equal Area (Schmidt) Plot of Poles - 9810 - 10032 ft.
+
+12
+
+Ginestech Eurepelimited
+
+ 
+
+ 
+
+ 
+ 
+
++
+
+TIII NNN NN cccccc
+II NNNN NN CC CC
+11 NNNNN NN CC
+Il NNNNNNNN CC
+Il NN NNNNN CC
+II. NN NNNN CC CC
+IIIT NN NNN cCCcccce
+
+CORRELATION
+CREATED ON DATE:
+
+COMPANY t
+FIELD
+WELL
+RUN NO, :
+COUNTY t
+STATE t
+API WELL NO.
+LATITUDE
+
+LONGITUDE
+
+PERMANENT DATUM
+ELEVATION
+
+LOG MEASURED FROM
+ELEVATION :
+DRILLING FROM :
+DATE LOGGED z
+LOGGING CONTRACTOR:
+
+ 
+
+LL TITIIIO NNN NN EEEEEE
+
+LL Il NNNN NN EE EE
+
+LL Il NNNNN NN EE
+
+LL I! NNNNNNNN EEEE
+
+tL II NN NNNNN EE
+
+LL LE II NN NNNN EE EE
+II
+
+II NN NNN EEEEEE
+
+RESULTS LISTING
+92/11/26 TIME: 89:55:37
+
+MOBIL NORTH SEA LTD
+EXPLORATION
+26/8-1
+2
+OF FSHORE
+U.LK.C.S.
+
+56 DEG 44 MIN 53.285 SEC N
+@1 DEG 31 MIN 34.182 SEC W
+
+18 NOV 92
+SCHLUM.
+
+ 
+
+ 
+ 
+
+ 
+
+INCLINE DIPMETER ANALYSIS - COMPUTED RESULTS LISTING
+
+Daxter ete snose sass ce sess ses seesensesessccesesess
+
+CREATION DATE (DDMMYY) 5 26:11:92
+CREATION TIME CHHMMSS) = 9:55:49
+
+COMPANY :
+FIELD :
+WELL :
+RUN NO. :
+COUNTY :
+STATE :
+API WELL NO.
+
+LOCATION:
+
+LATITUGE
+
+ELEVATIONS:
+
+PERMANENT DATUM
+LOG MEASURED FROM
+DRILLING FROM
+
+MOBIL NORTH SEA LTD
+EXPLORATION
+
+26/8-1
+
+2
+
+OFFSHORE
+
+U.K.C.S.
+
+86 DEG 44 MIN 53.285 SEC N LONGITUDE
+
+PROCESSING AND GENERAL INFORMATION:
+
+DATE LOGGED :
+DEPTH LOGGER z
+OEPTH DRILLER
+CASING LOGGER
+CASING DRILLER
+BIT SIZE :
+LOGGING CONTRACTOR:
+
+ELEVATION 3
+
+ELEVATION :
+
+18 NOV 92 DATE PROCESSED 2
+
+18834. 882 BOTTOM LOG INT. :
+
+18835 . 882 TOP LOG INT.
+
+6675 .888 BOTTOM PROCESSED
+
+TOP PROCESSED INT.:
+
+8.588 CORRELATION LENGTH:
+
+SCHLUM, REPEAT STEP t
+
+SEARCH ANGLE AND REFERENCE DATUM:
+
+SEARCH ANGLE t
+
+62.88 WITH REFERENCE TO BOREHOLE
+
+MAXIMUM PERMITTED SEARCH WRT. BOREHOLE: 75.8
+
+81 DEG 31 MIN 34.182 SEC W
+
+23/11/92
+18232 . 228
+6676 .229
+182834 .22
+6698.22
+4.88
+2.88
+
+ 
+ 
+
+CORRELATION LISTING
+
+START DEPTH 18834.88 FEET
+END DEPTH 6698.88 FEET
+CORRELATION INTERVAL 4.88 FEET
+CORRELATION STEP 2.88 FEET
+
+SHORT TERM AVERAGE OVER 4 CONSECUTIVE POINTS
+SEARCH ANGLE 68.8 DEGREES RELATIVE TO BOREHOLE
+
+DEPTH OF INVESTIGATION &.9 INCHES
+
+MAGNETIC DECLINATION w*** DEGREES WEST
+CORRELATION FILE CREATED: DATE 23:11:92
+TIME 9:29:17
+
+TRUE VERTICAL DEPTH TIE POINT IS DEFAULTED TO THE TOP OF THE INTERVAL PROCESSED
+
+PAGE
+
+a
+
+ 
+
+ 
+ 
+
+ 
+
+6698.98
+6692.98
+6694.92
+6696.68
+6698.92
+6788.89
+6722.88
+6784.98
+6786.99
+6788.89
+6718.82
+6712.88
+6714.88
+6716.98
+6718.98
+6728.98
+6722.82
+6724.98
+6726.99
+6728.89
+6738.28
+6732.88
+6734.88
+6736.99
+6738.29
+6748.88
+- 6742.28
+6744.28
+6746.89
+6748.89
+6758.88
+- 6752.88
+6754.88
+6756.89
+6758.88
+6768.86
+6762.88
+6764.68
+6766.88
+6768.99
+6779.88
+6772.88
+6774.98
+6776.89
+6778.68
+6788.88
+6782.88
+6784.88
+
+ee
+AaTguwnRVaQus
+
+_ meen
+
+_~
+
+ENADaWANWON DSW anne
+BN NON DH HR WRE WE TDONNEWOE DWN TENDON ENRON NOD RE RUTH WAND
+
+Ne wee eee
+
+eH Wen
+BQANNCTEARNOTNARWORUIHWeE UN ae
+
+COMPUTED
+
+AZ
+
+eae
+DARNWENWHE eee Ww
+QwengrnwQove yen
+
+137
+135
+128
+122
+122
+
+123
+128
+127
+125
+131
+126
+128
+
+QUAL
+
+COEFF
+
+Sootassessogenseresserasssess
+
+2.596
+2.389
+8.528
+8.719
+8.688
+2.419
+8.711
+£.987
+B.946
+2.749
+8.881
+8.936
+2.895
+8.935
+8.694
+2.675
+8.894
+8.861
+
+B.8t4
+B.779
+B.619
+2.622
+8.648
+2.679
+8.863
+8.884
+2.623
+B.484
+2.589
+&.973
+2.872
+2.781
+
+9.851
+
+2.868
+2.827
+2.599
+B.654
+.488
+2.882
+9.921
+
+8.889
+8.838
+@.666
+8.746
+8.698
+8.861
+
+B.917
+8.915
+
+SHIFT SHIFT
+
+DRRWVWe Ve OHTA AIH~T
+
+'
+TAAODYUHAWeE Ne QWWY AY
+
+ee ee
+
+DODODMDOMDMWENNN Hee ewe
+ee ee
+
+1
+DOODMWE NN He eee ee
+
+RQRNAVAEHRROMNWWOWN
+
+MH RRNOUNETORWNINTTEONNOWWYUON OD
+
+1
+
+MRRRE“RARRR--RRVQyngny
+BB OT OT TO GGT GT TTT) 0 eT DO od
+
+RRWN NNN EE WEE EER REN RRWNTRQE EE ee
+
+tet
+tie
+
+RQMReee Qe re gg
+
+HE RNEK DENNER ORWOOWURRROR
+
+1
+Qoem
+I
+
+SQV RQ RAR wane a
+
+NWOWRATWERNSRQROWOE RENE NDWONNON EAM RRNA
+t t
+
+Re RRRANRR- NRW
+
+SPhboabaha bao eaeaeaaeaeaamrnNanunanysoo~y
+
+DANHWODONMODDHDHMDDNDDDODVDNDHMONDNDDODM
+ADDHOHOMDNIDHD DODO MDNODDBDHMOMNOMDNDOMANMNOD
+
+TOOL
+PAZ
+
+182
+181
+tB2
+183
+182
+
+99
+96
+92
+91
+
+183
+183
+182
+181
+182
+188
+121
+181
+181
+181
+121
+182
+182
+182
+182
+182
+183
+183
+
+TOOL
+RELB
+
+SSSSSRSSR ESS RSs ass esas esses essseesse essa sseenAs ees seasseasesseese
+
+eRe eee
+AAAAAKRAT
+NR annaan
+
+eee
+ana
+won
+
+189
+157
+157
+158
+161
+163
+165
+166
+166
+166
+167
+167
+167
+167
+168
+168
+168
+167
+166
+166
+165
+164
+163
+162
+162
+162
+162
+163
+163
+163
+164
+164
+164
+164
+164
+165
+165
+
+a
+
+-eN
+
+_
+
+”
+
+BRRERRRHRRRERREWOOODOWBOD
+
+NCTM aWNONYORWOE UNH Oe UTR RAN
+
+Noe ee ee
+
+RREERRRERET ERE R ERE RERRE
+mew meh
+
+QANNT ENON DR ORAHDWRONAD
+
+WN NON WHEE WR WERTNOVNEYOEDWNDNEN NONE YN RONDO REM ROR WROD
+
+NNNNNNANNNNNNNNN NNN NNN NNN NNN NN NNN NNN ee ee ee
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+128
+
+335
+389
+57
+93
+143
+156
+
+118
+$3
+16
+92
+
+132
+43
+
+1ge
+
+114
+
+116
+
+187
+
+119
+
+ 
+
+STRUCTURAL
+
+R
+RQ
+
+RRRRRRREER
+
+RRBQRVQRQOQRAAAHQARHRHRRAVHRLQE
+
+RRRARTRRALAVAV sl RAH VRVg a gga gaeaggrsee
+
+BRBRRTRRRRANHHVARVPRPRTPRRQLVLPRTAR VSR QRTLRRHOARARHLQAVWN
+
+RRRVHRRQRORVALHPRSPRHKKQHQHRGHDA
+ 
+
+DEPTH
+MEAS
+
+6786.98
+6788.08
+6798.88
+6792.88
+6794.88
+6796.88
+6798.88
+6888.88
+6882.88
+6804.88
+6886.88
+6898.20
+6818.88
+6812.02
+6814.88
+6816.88
+6818.88
+6828.88
+6822.08
+6824.88
+6826.88
+6828.28
+6832.88
+6832.88
+6834.88
+6836.08
+6838.80
+6840.88
+6842.88
+6844.88
+6846.08
+6848.89
+6859.88
+6852.08
+6854.88
+6856.88
+6858.89
+6869.89
+6862.88
+6864.88
+6866.88
+6868.89
+6878.02
+6872.80
+6874.88
+6876.02
+6878.08
+6888.08
+
+DEPTH
+
+6785.
+6787.
+6799.
+6791.
+6793.
+6795.
+6797.
+6799,
+6881.
+6883.
+6885.
+6887.
+6899.
+6811.
+6813.
+681s.
+6817.
+6819.
+682.
+6823.
+6825.
+6827.
+6829.
+6831.
+6833.
+6935.
+6837.
+6839.
+6841.
+6843.
+6845,
+6847.
+6849.
+6851.
+6853.
+6855.
+6857.
+6859.
+6861.
+6863.
+6865.
+6867.
+6869.
+6871.
+6873.
+6875.
+6877.
+6879.
+
+Tvo
+
+94
+94
+94
+34
+94
+94
+94
+94
+
+eet
+
+roe awe
+ND aMUAHUKDIVAHUYDOQDDOAAHATRWHWYRHQWOREMOVNN VR Ee VaNVES
+
+ee
+
+HK WRQWUTANRVEVODER TTA WRMWE WER ENRUNE DWH OREMNWTERRWOWE
+
+COMPUTED
+
+AZ
+
+15
+244
+119
+125
+139
+135
+181
+182
+
+89
+114
+114
+147
+161
+148
+141
+132
+193
+288
+134
+158
+256
+253
+154
+162
+119
+135
+122
+
+98
+163
+167
+164
+186
+
+Bo
+136
+148
+145
+142
+143
+143
+151
+149
+136
+131
+138
+138
+126
+138
+141
+
+RRARRRARHRRRVQHRRRRKVRRVRVQRRRRHAVRRQHKHQHVHHLHHSSQOQ
+
+QUAL
+COEFF
+
+RRet asso sess asssss ssc sess SASS
+
+749
++792
++838
+818
+-883
+
+SHIFT SHIFT
+
+NUN EUAN CONN OO DWE NY DW RENE DWORE VE MTUON DOE RE NWNHaWWnw
+
+AMNANOVVAGHINHATUNTNNUM Fo ePe ene headboaan bao hesUVNODuNoOowu
+
+sa
+MS RQ EEE ROE EE REE ERE ERE RENY
+
+ee ee te ee ee te et
+HK NNNWEK ENE RK RRRVE EEE EE
+
+RRRRARDRRBVTSRQVRANVANRRRVHVAH - QRQKKR HRN
+
+NON ENME TONY YOEK SEAHAM DEE WOREEWNWWNDVUUODMDMOH AW
+
+DOOD MDDMDOODMHODDNDHOHDDDDDDODDDDDDODMDDDDOHMANDNMMOMHNDONMUHOM
+NANHNOODYVNNNN DAA AAHAHMV SMAAK KATMATIAMKHANNNTTTONOWwsoOwWeou
+DHOODODDNDGODOMDHDDNDODDDDDOHOOODMDDDDDNDHDDDMHOMDNDBDMDNMMHOOM
+
+BRRBRARROKRRARRP Pere OH
+
+TOOL
+RELB
+
+Ree SS Te ee eS SOaS sa SRA ASA CEA ERE ERAN ASSAM SSMS SR ERS sess asa so
+
+165
+165
+166
+167
+167
+167
+168
+178
+172
+173
+173
+173
+173
+173
+173
+172
+172
+172
+173
+174
+175
+176
+177
+177
+177
+176
+175
+175
+175
+174
+172
+1728
+163
+168
+168
+168
+167
+166
+166
+166
+165
+165
+165
+166
+167
+168
+168
+166
+
+RRRRRRTRAEVSTRRTSRVRARRA TS AVVIAASSsAgaggQQagQgnaaggrere
+
+NNNNNNNNN NNN NNN NNN NN NNN NNN NNN NNN NNNN NNN NN NN NNN N
+
+WELL
+OIRN
+
+298
+298
+298
+298
+298
+298
+297
+297
+297
+298
+298
+298
+298
+298
+298
+298
+298
+298
+2398
+297
+2397
+298
+297
+298
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+297
+298
+298
+297
+298
+
+od eee ~
+
+ee
+
+eee -
+
+-
+NDS CTUTHAIHIAKASTOWROMODODAHHTRQNAWYR QQwWwwoMe VNNN Vee vena
+
+FE VRWUONRQWVAWDUTEMTETMNWRUOWE WRK KAN SUNE DWE VEE TWN RWOWR
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+15
+244
+119
+125
+139
+135
+
+131
+138
+138
+126
+138
+141
+
+STRUCTURAL
+
+RERERRRRRLT RTS RV PSP QQ gar gsFasaggasaa#wsAegnana
+
+BRRRABHRRKRHKVQRRRRKHRRRRRRRRSRTTSRVRRRVRHSVHHQROH VQ AReo agg
+RRRRRRRRRRQRRHRRRRHRRRKTARRRRVRAARRVRTRAPVRRQRQVTVFARKVQRRKHLS|
+ 
+
+RESULTS LISTING - PAGE 3
+
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS TVD DIP AZ COEFF = H13 H24 c13 C24 PAZ! RELB  DEVN DIRN DIP AZ DIP AZ
+noses sesenaesceseasosssssssesssesesascesss ssa sses sa essas eee o oe sessaseAsaresaauesesseesesoeeasuedsaesaseaens come eccemen eee
+
+6882.98 6881.89 7.9 136 «8.728 «6.9 2.7 8.7 8.6 183-166 2.8 297 7.9 136 o.8 a
+6884.88 6883.88 8.5 132 9.729 1.8 2.6 8.7 8.6 184 «166 2.8 298 8.5 132 o.B a
+6886.99 6885.88 7.2 14g 8.813 8.7 2.7 8.7 8.6 184 166 2.8 298 7.2 148 ge a
+6888.08 6887.88 7.8 135 9.759 #.9 2.6 8.7 8.6 195167 2.8 298 7.8 135 @.2 a
+6890.28 6889.88 6.9 138 9.716 2.8 a4 8.7 8.6 196 ©1168 2.8 298 6.9 138 @.8 a
+6892.98 6891.88 5.9 134 8.824 «8.6 a4 8.6 8.5 196 168 2.8 298 5.9 134 B.8 g
+6894.08 6893.88 6.6 124 8.987 8.8 8.3 8.6 8.5 186 168 2.8 298 6.6 124 8.8 g
+6896.08 6895.88 4.5 129 @.858 o.4 B.2 8.6 8.5 185 167 2.8 298 4.5 129 o.6 a
+6898.98 6897.88 3.6 135 8.796 B.2 0.2 8.6 8.6 185 166 2.8 299 3.6 135 g.a g
+6980.88 6899.88 5.9 116 9.853 8.7 1 8.6 8.6 185 166 2.8 299 5.9 116 g.8 a
+6982.88 6981.87 9.8 128 «9.983 1.1 2.6 8.5 8.5 185 166 2.8 299 9.0 128 #8 a
+6984.88 6993.87 9.2 131 9.885 t.1 2.6 8.5 8.5 195 166 2.8 299 9.2 131 o.8 a
+6986.88 6985.87 6.5 125 9.886 @.8 2.3 8.6 8.6 186 167 2.8 299 6.5 125 9.8 w
+6908.88 6987.87 8.4 128 «9.883 «1.1 g.5 8.7 8.7 198 ©6169 2.8 299 8.4 128 6.8 8
+6918.08 6989.87 8.6 132 9.824 «1.1 9.6 8.7 8.7 199 178 2.9 299 8.6 132 9.2 a
+6912.88 6911.87 9.2 144 9.888 «1.8 9.9 8.6 8.6 118171 2.6 299 9.2 144 g.8 a
+6914.98 6913.87 8.7 142 9.883 1.8 2.8 8.6 8.6 1g) (171 2.8 259 8.7 142 B.8 a
+6916.98 6915.87 7.8 134 9.878 2.8 a.5 8.6 8.6 1g 171 2.8 299 7.8 134 @.8 a
+6918.89 6917.86 6.9 134 8.853 9.8 a4 8.6 8.6 Ll} 172 2.8 299° 6.9 134 g.@ a
+6928.88 6919.86 3.5 132 8.863 8.2 @.2 8.5 a.5 112. 173 2.8 299 3.5 132 wg.8 g
+6922.98 6921.86 6.1 125 8.877 8.7 @.2 8.6 8.6 113. «174 2.8 299 6.1 125 g.8 g
+6924.98 6923.86 7.3 158 9.786 8.6 2.9 8.7 8.6 113. 174 2.8 299 7.3 158 8.8 g
+6926.88 6925.86 6.8 °175 6.735 6.2 1.8 8.6 8.5 114175 2.8 299 6.8 175 8.8 g
+6928.88 6927.86 3.8 312 8.618 -8.9 -£.2 8.5 8.4 115176 2.8 299 3.8 312 g.8 a
+6930.88 6929.86 3.1 133 8.654 9.2 g.1 8.5 a.4 11? 177 2.8 328 3.1 133 gia a
+6932.88 6931.86 6.4 127. 8.895 9.8 8.2 8.5 8.4 119 179 2.8 398 6.4 127 o.B a
+6934.88 6933.85 3.2 133 9.818 8.2 a. 8.5 8.4 121181 2.8 398 3.2 133 °o.8 a
+6936.88 6935.85 3.8 161 9.875 @.1 B.4 8.5 8.4 122 182 2.6 398 3.8 161 8.8 a
+6938.98 6937.85 3.3 172 9.882 8.2 g.5 8.4 B.4 121 182 2.9 299 3.3 172 g.8 g
+6940.98 6939.85 3.6 158 8.617 @.1 g.4 8.4 8.4 119 «18g 2.8 299 3.6 158 g.a a
+6942.98 6941.85 5.1 146 8.785 B.A a4 8.5 8.4 117 «178. 2.8 299 5.1 146 6.8 a
+6944.98 6943.85 3.7 148 8.862 8.2 2.3 8.5 8.5 115176 2.8 299 3.7 148 @.8 a
+6946.88 6945.85 3.8 152 9.768 #.2 a.4 8.6 8.6 114.175 2.@ 299 3.8 152 g.9 a
+6948.98 6947.85 7.8 148 8.537 8.9. @.6 8.6 8.6 114 175 2.8 299 7.8 148 #.8 a
+6950.08 6949.84 7.9 119 9.795 1.1 B.1 8.6 8.6 115 175 2.8 388 7.9 119 o.8 g
+6952.88 6951.84 7.9 125 8.855 1.1 B.2 8.6 8.5 115 175 2.0 398 7.9 125 g.8 2g
+6954.98 6953.84_ 5.6 133 8.672 B.6 9.3 8.5 8.5 114174 2.8 388 5.6 133 8.9 a
+6956.98 6955.84 6.8 135 48.777 8.6 a.4 8.5 8.5 112 173 2.8 299 6.8 135 g.9 g
+6958.98 6957.84 5.9 147, 8.713 8.5 8.6 8.6 8.6 118 «17H 2.8 3298 5.9 147 o.8 g
+6960.88 6959.84 4.8 161 8.417 8.2 0.6 8.8 8.7 189 168 2.8 391 4.8 161 2.9 g
+6962.88 6961.84 29.1 158 8.584 4.8 3.8 8.7 8.7 189 168 2.0 381 29.1 158 gf a
+6964.08 6963.84 20.1 198 9.698 9.3 3.7 8.6 8.6 118 («178 2.6 388 28.1 199 of a
+6966.08 6965.83 17.8 189 «8.855 8.4 3.8 8.5 8.4 112 172 2.8 388 17.8 189 o.f a
+6968.98 6967.83 39.3 71 8.418 5.7 -5.6 8.4 8.4 113° 173 2.8 388 39.3 71 «9.8 a
+6970.88 6969.83 14.2 298 «8.918 -3.8 g.1 8.4 8.4 113 173 2.8 388 14.2 299 B.e a
+6972.00 6971.83 13.6 286 «98.843 -2.8 g.2 8.4 8.4 113172 2.8 381 13.6 286 o.8 a
+6974.08 6973.83 21.4 168 8.595 2.3 2.9 8.4 8.4 11200«4172 2.8 381 21.4 168 9o.9 a
+6976.88 6975.83 19.7 154 8.645 2.3 2.4 a.4 8.4 lll 172 2.8 398 19.7 154 o.8 a
+
+ 
+ 
+
+DEPTH
+MEAS
+
+6978.88
+698F. 88
+6982.88
+6984.98
+6986.89
+6988.98
+6998.99
+6992.88
+6994.88
+6996.98
+6998.80
+7888.28
+7BH2.8
+7284.88
+7886.28
+7888.28
+71S. BE
+7812. 88
+7814.88
+7816.68
+7018.98
+7828.88
+7822.88
+7824.88
+7826.88
+7828 BE
+7832.88
+7832.88
+7834.88
+7836.88
+7838.88
+7848.88
+7842.88
+7O44. OB
+7846.88
+7848.88
+7858.88
+7852.88
+7854.88
+7856.88
+7858.88
+7268 98
+7262.98
+7864.88
+7866.88
+7868.88
+7878.88
+7872.82
+
+DEPTH
+
+6977.
+6979.
+6981.
+6983.
+6985.
+6987.
+6989.
+-82
+6993.
+
+6991
+6995
+
+6997.
+6999.
+7881.
+7883.
+7885.
+7887.
+7889.
+7HBiL.
+78123.
+7815.
+7817.
+7219.
+7821.
+7823.
+7825.
+7827.
+7829,
+
+7831
+
+7833.
+7835.
+7837.
+7839.
+7841.
+7843.
+7945.
+7847.
+7849.
+7051.
+7853.
+7055.
+7857.
+7959.
+7861.
+7263.
+7865.
+7867.
+7869.
+7871.
+
+Tvo
+
+mos Sasseseeoessssesse
+
+83
+83
+83
+82
+82
+82
+82
+
+82
+82
+82
+81
+81
+81
+81
+
+77
+77
+77
+
+nn
+DAM UVUANUORN WAMU Qe
+
+NI te et ee
+
+ae
+
+Oe
+NOHNROVDOLDDUNADU DO DWOHOOURDUUOANAN
+
+DeNWOMNKHMNWRHOMAHVRSYVTRVQQVREe MANNY WOVN-QuywnnaeRannne
+
+rs
+
+Nom
+
+COMPUTED
+
+AZ
+
+135
+128
+382
+284
+
+RBBRRRBRRBRRRHRRRKHKHRRKQBRRHWSRVRRKTHKRKRHKRHSRRVRKHRRRRKRKRHRKRHVE
+
+QUAL
+COEFF
+
+~644
++915
+962
++947
+915
++883
+-928
+928
+-684
++678
++726
+-546
++427
+»298
+-367
+-662
+-637
++587
++776
+-626
+~332
+-176
+526
+-487
+488
+427
+-248
++426
++369
+
+553
+
+$79
+635
+737
+758
+524
+«782
++815
+
+SHIFT SHIFT
+
+vo
+
+'
+RRQ
+nn
+
+WOAGRESEVORWUN EE BE WR REN TRUM NVITWDH QRWOTROONHOHWWNN
+
+BM RRENNRRNNY QE NQNWNNE RW
+
+aa
+fe eI ee
+DA-VHNORNDOHMNINRH
+
+-
+nN
+me
+
+t
+DAGCTAIAGORRREROQHVRVNQVWIHWVOVAHUNA AE EERDEeR EAR EERE EE
+
+DeEIQNVAIMNM ENN ANWH DUDODWUWWE PR AWERMOVNUN aE He VE ARNNQRAeM
+Bee eee ee eee
+KWROHUM AOA
+
+RRP Kee QQRRQHVQwee ee we
+
+Oe
+NAHAINRVROODOROOMNHNDT DU DWOOUMADUNNOAMND~Y
+
+ho
+RRRR QRQH oe RRRKOVRHRRHRSLMRRRSRRHEMHEC WANNER BE
+
+>
+
+NNN Nee ee RR RRERRRERREERSRETSRERRRERQAERRRERARRERE
+
+No
+
+DAO OMODMWOUWTOWWUDDNWUH OO NDDODNOONDDNDDONDNODHONDODDOHNMOM MOOD
+AMNTMAAKHDRVWWNWNODENSYHVORWNNTME AR Re RRR ERR EERE
+DOODDOHOMDAHOWOCCOUOWOUNDOUUDODODDODHNODDODMDHODDDNANMAMDNMMDDMONOAD
+NNN NNANNNNNNNN NNN NNN NN NNN NN NNN NNN NNN NNN NANNY NNN NAD
+DEeNWUATWENODHWRaNE OBVERNRE ER UNNWO Ee eUVOMeQnnne
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+136
+214
+218
+179
+169
+141
+142
+141
+166
+125
+128
+183
+
+89
+142
+133
+137
+138
+134
+125
+145
+135
+127
+124
+246
+236
+134
+141
+145
+
+28
+
+28
+
+35
+136
+139
+148
+161
+124
+132
+142
+144
+
+ 
+
+STRUCTURAL
+
+REEHAROHPESESLPRRRRRRRRRVAVVRVTSTHVHTTLRRRH HH QOH SRARRE
+BREBQRRRRRKTRRVLSTVSHRORSRRRSHSTRRAHHHQVAHHQRRAHKRVHRHRARVQTD
+BRQVQRRRKR RRA STCSPV AR RRHVRPRRSPRARKHK STP RVHRSVHVQHNNOHRRKLE
+ 
+
+DEPTH
+MEAS
+
+7874.88
+7876.88
+7878.88
+7088.88
+7882.88
+7884.88
+7886.28
+7288.28
+7898.88
+7892.88
+7294.88
+7896.88
+7898.88
+7188.88
+7182.89
+7184.88
+7186.88
+7188.88
+7118.88
+7112.88
+7114.88
+7116.88
+7118.89
+7128.88
+7122.88
+7124.88
+7126.88
+7128.88
+7132.88
+7132.88
+7134.88
+7136.88
+7138.88
+7148.08
+7142.88
+7144.88
+7146.88
+7148.88
+7158.82
+7152.88
+7154.28
+7156.88
+7158.88
+7168.98
+7162.88
+7164.88
+7166.88
+7168.88
+
+DEPTH
+
+7873.77
+
+7875
+7877
+7879
+7881
+7883
+7285
+7887
+7889
+7291
+7293
+7895
+7897
+7899
+7181
+7183
+7185
+
+~ eN
+
+QROVaGrHAywwoouMHH 8TH
+
+-
+
+orem
+
+DWUGHED aN NUWKDUNDAANWWTOINK NWO WE DN
+
+DNANGON eee
+
+WO mee
+
+NAWDUNAWN RNIN ADO DOV HON eTOVURQ Te PRQvOe Nea avenRoea
+
+nan
+
+COMPUTED
+
+AZ
+
+189
+289
+211
+327
+358
+
+121
+138
+149
+146
+239
+247
+258
+2428
+188
+232
+125
+131
+139
+
+82
+
+97
+
+96
+
+RREKRAHST SS ASRYPRLARRH RVR VVTWT VR TH GH OVO SHV HLAAHAHRHALS
+
+QUAL
+COEFF
+
+PROD OSS SS TSS SSS ee see See RE SEEGER Ase see eee eae Aseateces
+
+683
+511
+188
+486
+821
+«363
+-328
+716
+928
+- 888
++813
+-867
+-938
+964
+-969
+«971
+916
+534
++838
+884
+«941
+336
+-665
+783
++823
+798
+«761
+295
+
+242
+
+-683
++567
+-321
+381
+768
+938
+984
+-841
+-934
++817
+984
+-967
+752
+754
+865
++485
++376
+647
+-861
+
+SHIFT SHIFT
+
+Hee eee
+
+TUAIARNRaAHy
+Se ee ee NNN NVN NN ENN
+
+TMROBRNAARWH
+
+Db bemee
+Hen Ww QRRRRRe-- He NQSQRQaQRQQyQagengag
+
+maitre
+DWAR ENE EEN Nee Ree ee ROE RANE KN ae
+
+DR ere eee ek tk te te ee kt ee tee ee ee ee ee et
+
+i.7
+
+DORVK-OhaAbaADEa a ERE AMUNDVOTNNMaaeaMeaeeeiun
+
+mat
+t
+RREWRRRAQSRRe KRY
+
+WWWUEEDARNHWDAHDQ KON Naa DURARNWHOWWWN WUT
+
+PE NNWOOTDUNANT a SR aNMRMMANHTNUTNMHTOS NNN eR ReBaNTUTNnND Qe @
+
+RAHARARQRWAENNKRAHH
+
+WOWDWOODHDDOGHHDODDAOVDBODDONDDDDDODMDNDDNDDDMOMDNDNDOMDHDHDMOMOWWA
+
+ENAQDNDARHONE BWWTHNNWNYDW EV ANNDUIANENEMTWOWNE Re NRO ww
+DGHOOGOHHHHGODOODNDODHGDONDNDODDNDNHDHONDDNHADHMOOMNDDHOMDMONDMUWWW
+
+TOOL
+PAZ!
+
+AN DODONWNWW EMT OOOO DW Qe eRe QQ ee
+
+99
+
+TOOL
+RELB
+
+Sea moos Sone assesses sone seeasAResesses
+
+188
+148g
+179
+
+_178
+
+177
+178
+189
+181
+18g
+182
+18g
+179
+179
+178
+177
+177
+177
+177
+176
+175
+174
+174
+173
+172
+172
+171
+172
+175
+177
+177
+175
+171
+164
+158
+151
+146
+141
+136
+138
+125
+128
+115
+112
+188
+lea
+121
+
+38
+
+95
+
+NAN NN ANN NNNN NNN NNN NNN N NNN NNN NNN NNN NNN NNN RNN NNN
+Nee Re eNNNNA NN NNN NN NN NNN NN NNN ee eee NE Eee ee ee ND
+
+WELL
+DIRN
+
+321
+381
+382
+382
+382
+382
+381
+381
+321
+381
+321
+382
+381
+381
+381
+381
+322
+381
+381
+391
+381
+381
+321
+32%
+381
+381
+381
+381
+321
+381
+381
+381
+381
+321
+381
+321
+381
+381
+382
+382
+382
+382
+382
+382
+382
+382
+382
+382
+
+=n
+
+-
+
+_
+
+eee
+
+QWYTUAN HK NOHNaARYVORQRWWATNHAVWUVD WHA
+Nee Ne TAN URE Te SRQWOANPAaWeENERe om
+
+NDOT OTIS ee
+nN
+
+mn
+RH
+©
+
+“Ware
+
+NAWBCONRWONQNNHAODS
+
+ne
+WHWHUOHSDaAReNDVWWND
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED STRUCTURAL
+
+AZ
+
+Sascessssseaseesases
+
+133
+142
+155
+
+248
+188
+232
+125
+131
+139
+82
+97
+96
+
+ 
+
+BEERESRR
+&
+
+RREQVRRQRQARVARSRRHRL SV RRSTVRRHRQRRHVRRHRRRVRHHVHHRQHRROAVIAH
+
+RBBRRBRQQVWQRQRVSHQVNAQ HN RPV VUAPRSVSHLRORHVBRRVRHUHRPVHRHNLLLQ
+RRRRRKLVRVHSVPATASVHRVMRQRAWTLRSQRHVQAHHLANRKVRSPR VR A RRBRRRRAQH
+ 
+
+DEPTH
+
+7169.
+7171.
+7173.
+7175.
+7177,
+7179.
+7181.
+7183.
+7188.
+7187.
+7189,
+7191,
+7193,
+7195.
+7197.
+7199,
+7281,
+7283.
+7285.
+7287.
+7269,
+72th.
+7213.
+7215.
+7217.
+7219,
+7221.
+7223,
+7225,
+7227.
+7229.
+7231.
+7233.
+7235.
+7237.
+7239.
+7241.
+7243.
+7245.
+7247.
+7249,
+7251.
+7253.
+7255,
+7257,
+7259.
+7261.
+7263.
+
+Tvd
+
+78
+72
+78
+69
+69
+69
+69
+69
+69
+69
+68
+68
+68
+68
+68
+68
+68
+67
+67
+67
+67
+67
+67
+67
+
+ 
+
+~
+
+oa erererey
+
+RNNENUNAHWIAHANVWYNTODaENWOUOAQOCTUNONMOT EV ONE ORnwue wwe
+
+tee
+NORUONDRRDAHAORQRVWUNE RK TENNWNN DY RETHAHVRAUTEARDOONWNNWN
+
+n
+
+Ne ee ee
+
+COMPUTED
+
+AZ
+
+168
+178
+289
+168
+263
+122
+134
+154
+176
+179
+165
+128
+184
+85
+74
+328
+338
+284
+277
+352
+347
+348
+342
+327
+6
+349
+283
+245
+189
+147
+143
+144
+153
+154
+158
+137
+139
+171
+177
+169
+215
+184
+245
+323
+158
+157
+162
+182
+
+QUAL
+
+COEFF
+
+paeeserasnossasesecs
+
+2.985
+2.814
+2.754
+B.784
+8.927
+8.956
+8.938
+8.888
+2.892
+2.897
+2.853
+8.772
+2.648
+@.789
+8.763
+2.447
+8.569
+9.737
+8.863
+2.685
+9.628
+8.616
+8.783
+2.891
+2.873
+8.925
+8.733
+8.698
+2.894
+2.763
+2.884
+2.889
+2.898
+8.911
+8.933
+8.891
+8.589
+8.427
+8.899
+8.957
+8.965
+2.767
+2.676
+2.681
+9.893
+3.948
+8.956
+2.878
+
+SHIFT S$
+H13
+
+“2.3
+~8.5
+-3.3
+-8.9
+~8.7
+
+8.8
+“2.3
+-2.9
+~B.6
+-@.6
+
+be
+RRR
+N
+
+RRQUNKH§HNOBDREUMNWOHDONSaWUUNDEWHWNAHNWOe
+
+t Prev ter arrrrreo
+NER RRER RK Re TARR Ke RReVQVHRRVeE- BRR
+
+ta
+
+ 
+
+Peer rtovevrares
+RBRQBRRROKEKKQEKVWHENNRQARHRHe Ke’
+SPEAR REANUNWVWRARERRSAUUUNLUUA REE ERR AUNAAASeRAREN
+
+PRNEKDUODWOHSANHDE NH THN HVAT RRONWRENNN SRE QOW
+
+-
+
+eee NRRRRAMTEKONNNE EN
+DYNO ODOGOHOOMDDOID9 GOOD DONO DNDDDODODDOHDONDDDDODNDMDONOMDDONDNMDHOM
+
+ADIANOOWMOODHMDODWMODDDDMDDMDDDDDDDNHDDDDMOMOMDDMNMDONDMNDDOMOMA
+ANMKAAAAHNAMKHAGHeAIKHNTITITKIOKIHOMNTMANAMTOTTek eNO
+
+TOOL
+PAZ1
+
+34
+33
+32
+31
+31
+38
+31
+32
+
+TOOL
+RELB
+
+93
+91
+98
+98
+89
+89
+89
+38
+92
+93
+93
+92
+98
+89
+88
+87
+88
+88
+88
+
+ee IN ee NN NNN NNW WN
+
+NANANNNNNNNNNNNNNNNNNANNN NNN NNN NNNANNNNN NNN NNNATY
+
+WELL
+DIRN
+
+321
+382
+382
+381
+382
+381
+382
+322
+302
+382
+382
+381
+322
+381
+381
+382
+381
+382
+381
+382
+381
+382
+382
+381
+381
+391
+381
+321
+381
+381
+382
+381
+381
+382
+381
+382
+381
+381
+381
+381
+382
+381
+382
+382
+382
+382
+382
+382
+
+ray
+
+orerores
+
+ee ee ee ee a
+ADSORVWNA- HK VENNWONN| DOORS VAMNHVARARMRARDOVWOWNON
+
+n
+RNNENUNTHOTUAHNVNMAHENWNORUNTWNON GWOT NAME QUAnwue wwe
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+“AZ
+
+162
+178
+289
+168
+283
+122
+134
+154
+176
+179
+165
+128
+184
+85
+74
+328
+332
+284
+277
+352
+347
+348
+342
+327
+6
+349
+253
+245
+189
+147
+143
+144
+153
+154
+158
+137
+139
+171
+177
+169
+215
+184
+245
+323
+188
+157
+i6g
+182
+
+ 
+
+STRUCTURAL
+
+RRRTRRTTAEHRRATAAAsARVa gaan say RQ gas gg aagggnRaagee
+
+BRVVVQVA{QGaRBSWKQQSTARHHVVQKHVRTRRSHRHRRRRRKRRTPTHRRHRBRRRS
+BRRRRVRRRRRSPHRRRVARPOVQRRRRARRVRSHRQNNMNHVNOARHNRVDRHRLAKA
+ 
+
+DEPTH
+MEAS
+
+7266.88
+7268.88
+7278.88
+7272.88
+7274.88
+7276.88
+7278.88
+7288.08
+7282.88
+7284.99
+7286.08
+7288.88
+7298.88
+7292.88
+7294.98
+7296.88
+7298.88
+7382.88
+7382.29
+7384.88
+7386.88
+7388.02
+7318.88
+7312.88
+7314.88
+7316.88
+7318.88
+7328.88
+7322.88
+7324.88
+7326.88
+7328.08
+7338.88
+7332.88
+7334.88
+7336.88
+7338.88
+7348.88
+7342.82
+7344.82
+7346.88
+7348.88
+7352.88
+7352.88
+7354.88
+7356.88
+7358.98
+7368.88
+
+DEPTH
+
+7265.
+7267.
+7269.
+-63
+
+7271
+
+7273.
+7275.
+7277.
+7279.
+7281.
+7283.
+7285.
+7287.
+7289.
+7291.
+7293.
+7295.
+7297.
+7299.
+7381.
+7383.
+7395.
+7387.
+7389.
+7311.
+7313.
+7315.
+7317.
+7319.
+7321.
+7323.
+7325.
+7327.
+7329.
+
+7331
+
+7333.
+7335.
+7337.
+7339.
+7341.
+7343.
+7345,
+7347,
+7349,
+7351.
+7353.
+7355.
+7357.
+7359.
+
+TVD
+
+63
+63
+63
+
+63
+63
+62
+62
+62
+62
+
+NN ey
+
+ee
+
+ee
+
+DWBNWUNTO RoOQevyv08MHIn-w
+ANWNKWVEWEWANANE- WAMNODAN
+
+ONAN Awe
+NUH
+eee
+
+_
+or
+w
+
+nN
+a
+>
+
+te
+
+WADVDONWODYRH NOH ERNE MO
+
+nt ee ee ee
+DROVNNTaHGHAH Oooh ge
+
+COMPUTED
+
+AZ
+
+185
+144
+134
+182
+187
+136
+139
+131
+178
+168
+138
+113
+121i
+127
+279
+282
+144
+115
+
+86
+
+82
+137
+425
+126
+
+QUAL
+
+COEFF
+
+SS SRR SSS SSO SSAC ORAS SSS SSSA SSS SOS RSS SSS EE EAE eee SSRN S ANS SST Aes EERE ee Se SS SEBO Sass eAeeEeANeDos
+
+2.845
+2.937
+2.768
+@.795
+8.752
+8.657
+8.694
+2.254
+8.627
+8.821
+B.844
+8.821
+8.711
+2.678
+2.763
+8.864
+2.827
+2.766
+B.824
+8.488
+%.323
+8.688
+2.619
+8.741
+g.448
+8.868
+8.878
+2.549
+9.763
+B.869
+8.921
+8.867
+9.927
+2.943
+8.943
+.924
+2.874
+8.447
+9.459
+2.348
+2.752
+8.611
+B.751
+#.832
+2.845
+8.788
+8.982
+8.953
+
+ta
+RH RRRNVNEN RSE RSANNYNRRNRNNRY
+
+s
+
+2.8
+
+1
+gy
+~“
+
+mHSNRQRBHRARR- “BRAN
+
+tin
+
+DEN SAHAWONWDWE RE NUNWE NE NRaNeWWOVvONTNO RK aaWwoOeeadem
+
+HIF
+H13
+
+NON MWRINRaANH OM
+
+ty
+
+RRANERRRRAN PE RR PER EE QE eRe
+
+t
+' - -
+
+GAHAKAAATCMNAATGKTGIATAI OMA KHTHKHTIGHAAITUHAyAnnAnOWaMoo TUE
+
+PRESSES AU RESEDA DERE EDAREAUNNANUTUINMN a Dana eho
+
+4
+
+Ree Ke REQ ne QVree nny
+
+DOHONDOHDHAGHGHHOOMDTGHDDODHDDHDDDDHDDDMDDOHDMDNMDNONMNDHNOMOMDMDOMMO
+DONGHADGHGHBOONDHGOH9ODDDONGDDODONDDODONDDHDODONMDDDHOHMOMONDNDOMOAD
+
+RON ROWE ORR VNONNWHWN TE WONT RYEaN RON
+
+TOOL
+PAZ1
+
+36
+36
+36
+36
+36
+36
+35
+35
+36
+36
+36
+35
+35
+37
+38
+38
+38
+38
+38
+39
+33
+39
+48
+4g
+4)
+41
+41
+41
+42
+42
+43
+43
+44
+44
+44
+43
+43
+44
+45
+48
+52
+$7
+6g
+62
+64
+66
+68
+69
+
+TOOL
+RELB
+
+34
+94
+95
+95
+95
+94
+94
+94
+94
+94
+94
+93
+94
+95
+96
+97
+36
+96
+97
+97
+
+Neen
+
+ee
+
+me
+
+WONWUTDROoawnw anew
+VN EH WEB WODANWONWOR
+
+wee
+
+nue
+nn
+an
+
+n
+a
+~
+
+ean
+Aunwo
+Pore
+
+eee
+
+Meee ee
+HROVINTaHonAHAH DowowaRQe
+
+NN NANNNNNNNNNNNNNNNNNNNANNNNNNN NNN NNN NNNNNNWNNND
+=
+
+WAU DONWOUN OVUM RAN ee MoO
+
+ 
+
+RESULTS LISTING - PAGE
+" CORRECTED
+
+AZ
+
+195
+144
+134
+198
+187
+136
+139
+131
+178
+168
+138
+113
+121
+127
+279
+282
+144
+115
+
+86
+
+82
+137
+£25
+126
+185
+261
+138
+153
+152
+328
+
+68
+
+ 
+
+STRUCTURAL
+
+RQ
+eg
+
+SE RARRRRHTEERLVRs’ VS BAAR LslS SSS QanssgQgnggege ga gage
+RRAQVARRRRWQNYRQHVSRVAVSIRVH SST SIORR HS VRHT RHQLHLHRA®
+
+RRBQBRRRVRVRAQVTHFRHRRSPRRRARARRRMRVQRTSRVRRSRRHRLNHRRKTHRKAQ
+ 
+
+DEPTH
+MEAS
+
+7362.
+7364.
+7366.
+7368.
+7378.
+
+7372
+7374
+7376
+7378
+
+7382.
+
+7382
+7384
+7386
+7388
+
+7398.
+
+7392
+7394
+7396
+7398
+
+7488.
+7482.
+7484,
+7486.
+7488,
+7418.
+7412.
+7414,
+7416.
+7418,
+7428,
+7422,
+7424,
+7426,
+7428.
+74328.
+7432.
+7434,
+7436,
+7438,
+7448,
+7442,
+7444,
+7446.
+7448.
+74528.
+7452.
+7454,
+7456.
+
+BB
+BB
+BE
+a2
+92
+
+BB,
+
+22
+Bo
+BE
+BB
+BB
+BB
+BR
+BR
+BB
+BB
+88
+
+DEPTH
+
+7361.
+7363.
+7365.
+7367.
+7369.
+7371,
+7373.
+7375.
+7377.
+7379.
+7381.
+7383.
+7385.
+7387.
+7389.
+7391.
+7393.
+7395.
+7397.
+7399.
+7481.
+7483.
+7425.
+7487,
+7489,
+7411.
+7413.
+7415.
+7417.
+7419,
+7421.
+7423.
+7425.
+7427.
+7429.
+7431.
+7433.
+7435,
+7437.
+7439.
+7441,
+7443,
+7445.
+7447.
+7449,
+748k.
+7483.
+7455.
+
+TvD
+
+Baesesscsssssoonssecos
+
+56
+56
+56
+56
+S6
+56
+56
+$6
+55
+55
+55
+55
+55
+55
+$5
+$4
+54
+54
+54
+54
+S4
+54
+54
+$3
+
+ 
+
+KH OUN RE eee ENE ENE
+
+MH DWWWE WLRAVN EDRs VE NNW NODE OOWRNNWONORMWAOANT a WOU
+
+ee
+
+Hee ene
+
+foray
+
+5
+7
+2
+6
+7
+2
+1
+g
+1
+2
+3
+2
+4
+1
+5
+7
+6.
+5.
+3.
+7.
+4
+8.
+9.
+1
+2
+g.
+1
+3
+1.
+4
+6
+1
+7
+1
+4
+6
+4
+8
+6.
+6.
+7.
+7.
+3.
+1.
+6.
+6.
+8.
+5.
+
+BSRQRVAQTRESRSRSPRRKRHRRQRRVRRSHLTLARVVARARHHETRARVNARBRNVH
+
+NN
+
+QUAL
+COEFF
+
+Sau so0Sessessecn5snesasases
+
+884
+7778
++847
++698
++521
++529
+-538
+«725
++727
++835
++938
++811
++272
+219
++243
+-489
++687
+«683
+
+554
+
+732
+835
+819
+-628
++919
+948
+874
+916
+-913
+
+826
+
++691
+289
++483
+- 688
+-983
+984
+-689
+733
+849
+866
+-852
+-821
+-586
++634
++761
+«781
++325
+487
+697
+
+nN
+
+Neer eee Ww Beaeage
+
+l
+rey
+
+BRB eK QRRRRANA- WHEE EE NNNNWNE
+
+DOONDOHDMODGDOOVPMDODDOOD HHO OOD DHODHDDOMDMOOMMODDOUWUODDOMOODHOM
+
+KHADOVRSEOANHVNE OMT ERO EME DROVIOHOTVYMERHNUONGBSPAWNHOVNWVOH
+
+4
+
+le
+mie
+WNRKQe
+
+Hd
+WHWORDe- RQRRHRSPVRBRANN REN + HRQVRVQVROQQean
+
+HONKHMNAAKHMMNHTFIGTMKTMHATMAIATTGTHGCATMNOOMONNWNOOUOCINMOTUOwE
+
+NRRRRNKRRQ-NWNY
+ODNKHNE SUN SUUANUE Dae eRe RERE EE RA REEVE ENNYVE Ee RAI oA
+
+NERNN SK RaW SEMAN EUOWHK ENNHNYN TEDW RNUWIONDMNWH QRAHOHW
+DAINO OOO OO GHONDODDODDHNODDNDHOMOO ODDO DHODUDUNODMONMMNDMHMHHOMWO
+
+TOOL
+PAZ1
+
+Sasanases
+
+69
+78
+78
+71
+72
+72
+73
+74
+78
+76
+76
+74
+71
+69
+78
+71
+71
+72
+74
+77
+79
+8a
+73
+79
+79
+ae
+82
+85
+38
+35
+99
+183
+187
+
+-
+=
+c~}
+
+Re ee ee ee ee
+ee
+NOAANYN DOWN NS
+
+ 
+
+BOUIN ee eee NN mee
+
+eee et ee
+AQAA ONIN AKHDa Hae NE NaK WEAN EOD aVNWUHNN  aNWN eR RENNOAN NOT
+
+FO ee mee ee te et tee ee ee ee te ee ete ND ND IND pe te eee te te ee pet
+
+me
+
+NNANNNNNANNNNNNPNNNANNNANNNNVNNANNNNNVNNNNNNNNNNNNAD
+POUWOWE WORRWE DE YEN NNWNNNWOU RE DBUWUNWIWDONDRNVORNVAWDUM
+
+NN
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED STRUCTURAL
+
+AZ
+
+Bases tteseestseee essen geese ease eee seeSssasS
+
+- 188
+
+149
+147
+146
+145
+286
+287
+115
+116
+128
+121
+123
+192
+133
+357
+127
+126
+112
+
+89
+133
+
+ 
+
+2
+RQ
+
+RARVHS AAR ARRRRARH OHHH |S QVSQVQRH TSS VRARKRKRLTTARIOSLLA
+
+BWRVQPRATRRRRHARRRQRKRRRRARARRTRHRRRVQKHOVTRLAHHRHSQRQRVHA
+RRMNOQRRAAARATRRHORVERTRRRSERLRRRHAROLKVRFSVRKRMNRRRHOOH
+ra
+
+ee
+
+ee
+NPQe AMV aN OUUNEDNUANNNDONYODNONODNWADONDVYRTWWERDOWOD
+
+NAUYN EN WN DN WROWNWUGVOUNARANVNDUDWUODORNWOYVUONQERRNQE
+
+—
+
+ 
+
+COMPUTED
+
+AZ
+
+4g
+41
+146
+i69
+114
+118
+79
+356
+324
+151
+185
+82
+1128
+t24
+145
+159
+131
+134
+136
+138
+123
+185
+115
+115
+131
+123
+127
+137
+149
+131
+28
+25
+118
+115
+118
+187
+187
+118
+88
+136
+134
+191
+175
+178
+138
+143
+319
+399
+
+QUAL
+
+COEFF
+
+REBUN Ssersesass oS SS SERA RRR SHAS
+
+8.693
+8.781
+#.655
+2.685
+@.778
+8.897
+2.798
+2.578
+2.987
+8.849
+8.615
+8.451
+B.A76
+@.483
+@.395
+8.381
+8.717
+8.895
+9.948
+9.867
+9.839
+B.914
+8.874
+8.875
+2.78f
+2.868
+2.934
+2.890
+8.787
+8.899
+9.868
+8.983
+£.699
+B.573
+2.818
+884
+2.675
+8.623
+2.526
+8.746
+8.633
+2.628
+2.818
+8.849
+3.698
+2.676
+2.787
+8.764
+
+SHIFT SHIFT
+
+HERA RNA?
+
+’
+
+'
+RRRANRQRRE eK
+
+MOQNNDWON SEH PE RNANN EN QTUVNE NNN OO HDTV Hea NNWRNE One
+
+ta
+oo
+
+RRRRQRHRRQH- Qe K-QRR-- VRQ - ARARKKRRVQRHKHAQAQVQLA
+
+ANIATORYTHHMHYVOWRRVRREST NTMI ANUDQRReH KEK OHnUMMOMMNEH
+
+NWR AWNN BOE TE BUOANKE RK DN RENAN ON RN VRE TENE We VQ NUT Qe
+1
+DNGOGODOWDDDNDODKOKODHODHDDDMDDODODDDDOMDUNWNKOKOOODNDODNDDOMOD
+AMAUAIOSWRAAHVREV ONTINKTUNHNTE ROTO AANAODORRNNWHAUVU CUOMO OT
+DNODDOAOOWDDTGDMODOODODNDONOODDNDOODMDUWDKDOUDDDONDMONOOD
+
+PNR PR RRRRR ARCH RAK HARQr KK KON Aer RH He QRRHeK®
+
+TOOL
+PAZ1
+
+Do et nee tet ee ee ke tt
+
+QeennNeeee
+NODRRONNA
+
+192
+
+Sgaaseessaase
+
+ee
+
+are
+
+ee
+
+= -
+NDR UNWeVYOUONSE DYNITIANYNRQRONVAHYNONDOHNWEANMOWANWWROWWO
+
+NRNNNNNNNNNNNNA NNN NNANN NNN NN NNR NNN NNNNNANANN NN NNN NNN
+-
+
+NANT NWONOANUOROWNWUONVONANANVIWUDWOVENUYVUON Rea Ug
+
+ 
+
+RESULTS LISTING - PAGE
+
+CORRECTED STRUCTURAL
+AZ
+
+ 
+
+131
+123
+127
+137
+148
+131
+
+28
+
+25
+118
+115
+11g
+157
+157
+118
+
+88
+136
+134
+191
+175
+178
+138
+143
+319
+389
+
+ 
+
+RRQNMNRRHRRRHNRRRPRRHRQRRRKRRKRRRRRRVRHRRKRRRRVRHVHTQVRRA
+BRQRRRRRHHQRARHRRRRRHRRHORMQHRARRRHORLARARVPRLNQQNKQVKTLTA
+RRRRNHRRVARHRRPRHRDQPOHRLROVPARHRPPRRVRSRRFPRSHRQHRRHRRRKRVRR
+RESULTS LISTING - PAGE 18
+
+DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS DIP AZ COEFF H13 H24 C13 c24 PAZI RELB DEVN DIRN DIP AZ DIP AZ
+
+monnosesacesoos SSM eae sas oR SSS RNAS SAS SSS BASH SARS S SSAA SSSA SSS SSE SSAA RAS SSE ANS HASSE EGA SSSR
+
+7554.89
+7556.88
+7558.88
+7568.88
+7562.88
+7564.88
+7566.08
+7568.88
+7578.88
+7572.88
+7574.88
+7576.88
+7578.00
+7588.68
+7582.08
+7584.88
+7586.89
+7588.88
+7598.88
+7592.88
+7594.88
+7596.09
+7598.08
+7682.88
+7682.88
+7684.88
+7686.88
+7688.80
+7618.98
+7612.88
+7614.88
+7616.88
+7618.88
+7628.88
+7622.08
+7624.08
+7626.88
+7628.88
+7638.28
+7632.80
+7634.88
+7636.88
+7638.88
+7648.88
+7642.88
+7644.98
+7646.88
+7648.88
+
+389 %.793
+85 3.989
+137 8.768
+135 2.755
+188 2.918
+35 8.9558
+154 2.935
+117 2.945
+182 2.858
+91 2.786
+87 2.615
+115 2.778
+i18 2.825
+$3 2.783
+88 2.815
+118 9.548
+131 2.588
+193 8.354
+138 8.328
+124 H.411
+141 2.584
+221 8.585
+126 2.688
+149 2.528
+93 2.687
+98 2.587
+161 @.457
+149 %.528
+131 8.688
+146 #.899
+2.986
+
+#.891
+
+8.815
+
+#.854
+
+2.778
+2.899
+2.828
+2.937
+2.973
+2.816
+2.913
+8.823
+2.778
+
+2.745
+
+8.985
+2.948
+8.946
+.788
+
+'
+-
+(
+zg
+
+124 189
+188
+186
+184
+182
+188
+178
+178
+173
+188
+179
+177
+174
+171
+169
+168
+166
+165
+164
+164
+164
+168
+174
+182
+187
+192
+192
+193
+193
+193
+193
+194
+
+295
+295
+295
+235
+295
+294
+294
+294
+294
+294
+294
+293
+294
+293
+293
+293
+293
+293
+293
+293
+294
+293
+293
+292
+293
+293
++293
+293
+293
+292
+293
+293
+293
+293
+292
+233
+293
+
+389
+85
+137
+135
+198
+35
+154
+117
+192
+91
+87
+115
+118
+53
+58
+115
+131
+/193
+132
+124
+141
+221
+126
+149
+93
+98
+161
+149
+131
+146
+
+i
+t ta t
+_
+-
+Nn
+w
+—
+®
+&
+
+Peewee
+'
+
+Re ee Ree EN
+WEeWNNS NW
+eee
+
+Ss
+
+RRSRVBPQMAST ST QIVRAARQQRRVVRRQVQ aggre gseyaaasaguaggagn
+
+ADAMI AAKTTINN D OOO COU UO mm Re NNN eH ROE NH OMT HAAMAMHMMM
+
+N
+nN
+
+~ wee
+Rvwuvvvsgedsey
+HONNOWEN Sw
+
+Re QBS RRRKRH - K- VRRVRARR RRQ WNQVQN RAVVVRSQVQRQRVRVWHKLAK
+
+DOAN TaN RE ENS Ne Re TIWWWK DWE AR OONERNE ONE ME OYUOeE eR HUN ON
+
+WON WE RaMWOVNRHRVREENTEVWVENDONWOUOYNORODHY DODWWENNDEN We
+
+~
+
+96
+57
+56
+196
+198
+188
+161
+131
+97
+92
+
+tig
+tu
+NYNNANNNNNNNNNNNNNNNANNNNNN SP ee eee ee eee ee ee eee
+
+AAAHAKAHITVOAHAATMUTNT Dee NWR ON Ww Ut
+
+RANN FRE NARRRRRQEE KH QRH K- QRQVQN MOHRHOQQH Pe NNQBVWANNVD
+
+pore
+te
+tt
+ee
+
+WON WS Qa MIwIvnQvBPeenagageCcaenOrnvowywy AOA DoOWWWeE TN IWENWRwW
+
+eenn
+DOTS OUT EWN RE WNNOWRQRDIDOYNNDO OHH WYN ME DAWRUENDWWUORNOMON
+
+eenn
+TNOMPOWONE WN EWN OWRODOONYVODUENE WYNNE NAWENENDWWUONNROY
+
+UNN Se WNRQRERAMNNRK WN QEVNTDQVITDAN ENO HE NAHE HK YVOVUNEaWODS
+DOOD GDODODONDNOOMOODMMOMODMDOWWDNOWNUDUNOUU DUNN ODOODNMDDOOMHOAO
+NAUNNNNNNNNNNANANNNNNNNNNN NA NAN NNN NAY NNANANNNNANNANN
+RRBRRSRRVQVAQRVRRQRVRRRQSRRRVRARRARRRRHRK HQ RVVRRKSSLRHQQQAKQH
+RBBRRRARRURRRAVQRNRARVQVIRARARHTRKHVRLKARTVRRARVAQHRRKQTRARNKY
+
+ODDDDHDDDDNDNDDOMBDODDMMOWNNWWUWU Ww
+
+ 
+
+ 
+ 
+
+ 
+
+nm HHH HHH HHH HE HE HE HF HE HH EH
+
+RESULTS LISTING - PAGE 11
+
+   
+
+    
+
+ 
+
+DEPTH DEPTH COMPUTED QUAL. SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS TV DIP AZ COEFF 13 H24 C13 C24 = PAZI RE RN DIP Az DIP AZ :
+Sea on seceseeenessesseseeescoscesessaseseesseseecscaegesssaasaeeneeerssanacessaaae 2s anes secesessscascagascesas
+
+7658.88 7649.37 19.4 9 8.647 -1.2 -1.6 8.5 8.5 124-192 2.2 292 198.4 9 8.8 g
+7652.88 7651.36 9.8 67 @.557) 8.7 ~1.3 8.5 8.5 128 =«188 2.2 292 9.8 67 8. g
+7654.88 7653.36 12.6 67 8.673 8.9 -1.4 8.5 8.5 115 183 2.2 292 18.6 67 8.8 g
+7656.28 7655.36 44.9 295 8.381 -11.1  ~.8 8.5 8.5 118179 2.2 291 44.9 295 gig g
+7658.88 7657.36 34.6 217) «8.296 -3.9 6.6 8.5 8.5 1g5 «174 2.2 291 34.6 217 ge g
+7668.88 7659.36 6.2 281 98.916 -1.5 -8.1 8.5 8.5 99168 2.2 291 6.2 281 g.e g
+7662.88 7661.36 22.6 144 8.839 2.8 2.9 8.5 8.5 93 161 2.2 292 20.6 144 @.6 a
+7664.88 7663.36 4.7 134 8.876 8.2 8.5 8.5 8.6 88 156 2.2 292 4.7 134 Bo B
+7666.88 7665.35 5.2 137 8.837) 8.2 9.6 8.9 8.9 86 «154 2.2 292 $.2 137 9.8 g
+7668.88 7667.35 5.5 192 8.653 -9.7 2.8 9.2 9.2 ° 85 153 2.2 292 5.5 192 g.o g
+7678.88 7669.35 4.5 156 8.688 -@.1 8.6 9.5 9.3 85 «183 2.2 292 4.5 156 o.f a
+7672.88 7671.35 6.2 1320 «8.798 «8.5 8.7 9.5 9.3 85 153 2.2 292 6.2 132 8.9 g
+7674.88 7673.35 7.2 143° «8.8220 8.4 1.8 9.3 9.3 B6 «154 2.2 292 7.2 143 Bug 8
+7676.88 7675.35 7.8 144 9.689 8.4 1.1 9.3 9.4 88 155 2.2 293 7.8 144 9.8 g
+7678.88 7677.35 45.5 55 68.533 8.8 -6.4 9.3 9.4 89 «155 2.2 294 45.5 55 8.8 g
+7688.88 7679.34 39.6 62 8.586 7.6 -4.3 9.2 9.3 89 156 2.2 293 39.6 62 8.8 g
+7682.08 7681.34 9.1 129° 8.733 1.68 9.1 9.2 89 «155 2.3 294 9.1 129 9.8 g
+7684.88 (7683.34 3.5 127. 8.359 .1 8.2 8.9 9.8 8B 54 2.3 294 3.5 127 #.8 6
+7686.89 7685.34 36.9 332 8.448 -3.6 -7.6 8.6 8.7 85 151 2.3 294 36.9 332 g.2 8
+7688.99 7687.34 11.6 149° «8.541 8.5 1.7 8.7 8.8 83 «£48 2.3 295 11.6 149 o.6 g
+7698.88 7689.34 11.3 137 8.956 8.8 1.6 8.9 9.8 79° «145 2.3 294 11.3 137 o.8 g
+7692.88 7691.33 11.6 134 8.926 8.8 1.6 8.9 9.8 76 142 2.3 294 11.6 134 g.9 g
+7694.88 7693.33 8.5 142 8.844 8.3 1.2 8.7 8.7 75 1482.3 295 8.5 142 g.8 8
+7696.88 7695.33 3.9 161 8.981 -8.3 B.4 8.5 8.5 74 139 2.3 295 3.9 161 2.8 g
+7698.88 7697.33 23.8 126 8.821 2.3 3.3 8.5 8.5 73138 2.3 295 23.8 126 @.9 g
+7788.88 7699.33 24.2 126 8.921 2.3 3.4 8.5 8.6 71-136 2.3 295 24.2 126 g.8 g
+7782.88 7781.33 22.5 123 «8.988 = 2.2 3.1 8.4 8.6 78 135 2.3 295 22.5 123 g.9 g
+7784.88 7783.32 18.6 61 9.823 1.6 -8.5 B.4 8.5 69 133 2.3 296 18.6 61 a. g
+7786.88 7785.32 9.8 43° 8.822 1.3 -1.@ 8.4 8.5 66 138 2.4 296 9.8 4300 8.8 g
+7788.88 7787.32 4.9 133 2.492 8.8 8.5 8.4 8.6 63 127 2.4 296 4.9 133 8.8 g
+7718.88 7789.32 9.9 124 8.858 8.6 1.3 8.8 8.9 59 124 2.4 295 9.5 124 8.8 a
+7712.88 7711.32 9.3 119 9.796 8.6 1.2 9.2 9.4 56 128 2.4 296 9.3 119 of g
+7714.88 7713.32 8.4 118 8.526 8.7 1.8 9.3 9.6 53.117 2.4 296 8.4 118 8.8 g
+7716.88 7715.31 6.2 134 «9.588 -@.1 g.8 9.4 9.6 5a 14 2.4 296 6.2 134 9.8 a
+7718.88 7717.31 8.8 123 @.629 8.2 1.3 9.4 9.5 46 «118 2.4 296 8.8 123 B18 g
+7728.88 7719.31 9.8 11300 W711 O05 1.4 9.3 9.5 42 187 2.4 295 9.8 113 8.8 g
+7722.88 7721.31 6.7 182 6.768 8.5 8.7 9.8 9.2 41 185 2.4 296 6.7 182 #.6 g
+7724.88 7723.31 8.7 68 8.937 1.3 8.3 8.7 8.7 41 185 2.4 296 8.7 68 8.8 g
+7726.88 7725.31 17.3 143, 8.841 -8.8 2.7 8.5 8.5 41 186 2.4 295 17.3 143 oe a
+7728.88 7727.38 20.1 148 «8.693 -1.2 3.2 8.5 8.5 42 186 2.4 296 28.1 148 og g
+7738.88 7729.38 17.2 152. 8.931 -1.3 2.5 8.4 8.5 4. 185 2.4 296 17.2 182 ao.g g
+7732.88 7731.38 14.7 137 8.828 -6.5 2.2 8.4 8.5 33° (184 2.4 295 14.7 137 gig g
+7734.88 7733.38 16.8 131 8.978 -8.2 2.7 8.4 8.5 39183 2.4 296 16.8 131: o.g g
+7736.82 7735.38 11.7 132 8.978 -8.2 1.7 8.4 8.5 38 «183 2.4 295 11.7 132 gig g
+7738.88 7737.29 19.3 148 «8.854 -8.8 3.1 8.4 8.5 38 «183 2.4 295 19.3 148 o.@ g
+7748.88 7739.29 9.8 273. «8.688 -1.1 -1.9 8.4 8.5 37-182 2.4 295 9.8 273 o.a a
+7742.88 7741.29 15.6 387 8.638 BB - 3.3 8.4 8.5 35 188 2.4 295 15.6 387 2.8 g
+7744.08 7743.29 19.9 138 8.843 -8.6 3.2 a.4 8.5 32 96 2.4 296 19.9 138 g.@ g
+
+ 
+ 
+
+DEPTH
+MEAS
+
+7746.88
+7748.88
+7758.88
+7752.88
+7754.88
+7756.88
+7758.98
+7768.88
+7762.88
+7764.88
+7766.88
+7768.88
+7772.28
+7772.68
+7774.88
+7776.88
+7778.88
+7788.68
+7782.88
+7784.98
+7786.38
+7788.22
+7798.88
+7792.88
+7794.88
+7796.88
+7798.88
+7822.88
+7882.88
+7884.88
+7886.89
+7888.82
+7818.88
+7812.88
+7814.28
+7816.28
+7818.88
+7828.98
+7822.28
+7824.88
+7826.88
+7828.88
+7838.88
+7832.88
+7834.88
+7836.88
+7838.88
+7848.88
+
+DEPTH
+
+7745.29
+7747.29
+7749.28
+
+775k
+7783
+7755
+
+7757.
+7759,
+7761.
+7763.
+7765.27
+7767.27
+7769.27
+7771.
+7773.
+7775.
+7777.
+7779.
+7781.
+7783.
+7785.
+7787.
+7789.
+7791.
+7793.
+7795.
+7797.
+7793.
+7801.
+7883.23
+7885.23
+
+7887
+7889
+
+7ai1i.
+7813.
+7815.
+
+7817
+
+7819.
+7821.
+
+7823
+
+7825.
+7827.
+7829,
+7831.
+7833.
+7835.
+7837.
+7839.
+
+meee
+
+Pee
+
+PeENMeN eee
+
+ANH DE RRWE DMO ONE WEENIE DUDE NNT GDNDVYONDORNE UHM ER DOYVRVOD
+NWOUEWDWONRENWWEDUYNTANRRQDOIHAN AW UA BWV ENONWOONE ON WON
+
+Rene Nhe NN
+
+COMPUTED
+
+AZ
+
+135
+153
+178
+139
+149
+146
+145
+139
+133
+145
+1798
+165
+155
+146
+148
+141
+118
+129
+148
+139
+133
+158
+
+98
+
+84
+126
+i28
+137:
+176
+133
+131
+116
+133
+168
+
+97
+138
+161
+
+89
+
+94
+
+61
+184
+185
+134
+114
+114
+125
+127
+
+89
+126
+
+RRBQVRRVRVRRQARHRRRRSHERARHRRRRRRRHRRHKRLRVVRRHRAHRKHRRRRRRKR|
+
+QUAL
+COEFF
+
+SOO SOS SoS REO EES SS SSA RAR AR SR STAT SEEN REE SSO ON NES SSS REE SESE R SS SSR R SS eee eseseSSssasss
+
+988
+984
+-835
+984
+
+884
+
++833
++783
+439
+525
+746
+-624
+485
+428
+7424
++583
+-433
++415
+-327
+-455
+-565
+-635
++572
+482
++548
+
+653
+
++678
++» 362
+-684
++719
+871
++714
+625
+-598
+782
+757
+-697
++833
++643
+671
+482
+484
+746
++715
+-551
+842
+-719
+578
+818
+
+SHIFT SHIFT
+H13
+
+-.1
+-1.8
+-2.7
+-1.8
+“2.9
+-#.9
+“1.8
+“8.5
+-8.5
+~2.7
+-2.4
+-1.7
+-2.4
+“1.3
+“1.3
+“8.9
+“8.5
+-8.6
+-8.8
+“8.7
+“8.4
+
+1
+is
+
+t
+
++
+R-RQRRRKRH RQ“ Re NRRKKVNRVRVOQ
+WAOVEENTBVNONMNOWEORWONWwwuag
+
+WU TENE RDA SWOUDREYNDUHUNDWVOTINENVONUYDOAHRNUINWINUNE VS
+mat
+
+HDNHDODNAODDDDNDONMOMODDDDOONYWDNUODUYUWUUNUNHHUYRRWUDDMOND
+
+RNWW EWE WWRRREKUNNWNNRRERRHRRHRe HK LHe He HAQRQRQee KW
+OHHOOONDOOADANGOHDODOMDMDDMNMDOUWOWWNOOUUWUUOUWDNWNUNULYUUW NOD OOE
+DAMMAM MTUHUNKAIAHANDH YO a&OKHOVUNRENHAHMRAMNAHOAKHTIWIARAHU
+
+AM LaNAHS aS SUV SAREE TDVONWRSaAWNWATTUTMTEREAEEAMNAMWOAUHUU
+
+TOOL
+PAZ1
+
+27
+23
+19
+16
+
+tt ee
+»
+
+Pee eee eee
+
+AAKHUMHENNNNWWWN WOW
+
+TOOL
+RELB
+
+92
+87
+83
+88
+78
+78
+73
+72
+74
+76
+77
+77
+76
+78
+756
+75
+75
+77
+77
+78
+78
+78
+78
+78
+79
+8
+82
+84
+87
+8g
+89
+88
+88
+87
+86
+86
+86
+86
+87
+87
+86
+86
+
+AADHKHMHAAAAAMKMMATTMAKANNATIAOKKHMVHOKHIKHInHnI abba bbb oeananana
+
+NNNANNNNNNANNNNNNNNRNNNNN NNN NNN NN NNN NNN NN NNN NANDA
+
+ 
+
+WELL
+OIRN
+
+295
+296
+296
+296
+296
+296
+236
+297
+297
+296
+296
+296
+297
+297
+297
+237
+297
+297
+298
+297
+297
+297
+297
+298
+2398
+294
+298
+298
+298
+298
+297
+298
+297
+297
+297
+297
+297
+297
+237
+297
+297
+297
+2397
+297
+297
+237
+297
+297
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED STRUCTURAL
+
+ee
+
+eee
+
+~
+
+BRT RERTTRRARAVAQRSSQRARRT STRAT LSA RASSEAESAAageaaa
+
+ee ee A ee
+WNE WE RRWEDDONEWENE DUN aA HAHN OVHNYONDORNK WHR DOVEVOO
+
+RRRRRRVAAARST SSH HT TSTTRHH SY APSF PRRRKRQTARLRARARHRSTHARLLIA
+
+RBRRRRTVRRRARHHHRRRHQSEQNRRHRQRKQHNRSRBONHMRVBANKRARRHRHHVSH
+
+me NeENNE ND
+ 
+
+DEPTH
+MEAS
+
+7842.98
+7844.82
+7846.98
+7848.88
+7858.88
+7852.88
+7854.88
+7856.28
+7858.98
+7868.89
+7862.88
+7864.98
+7866.99
+7868.88
+7878.88
+7872.88
+7874.88
+7876.88
+7878.88
+7882.28
+7882.88
+7884.99
+7886.99
+7888.88
+7899.28
+7892.88
+7894.98
+7896.88
+7898.98
+7988.88
+7982.88
+7984.88
+7926.88
+7988.28
+7918.28
+7912.88
+7914.88
+7916.89
+7918.88
+7928.88
+7922.88
+7924.88
+7926.88
+7928.89
+7938.88
+7932.88
+7934.88
+7936.98
+
+DEPTH
+
+7841.
+7843.
+7845.
+7847,
+7849,
+7851.
+7853.
+7855.
+7857.
+7859.
+7861.
+7863.
+7865.
+7867.
+7869.
+7871.
+7873.
+7875.
+7877.
+7879.
+7881.
+7883.
+7885.
+7887.
+
+7889
+
+7891.
+7893.
+7895.
+7897.
+* 7899.
+
+7981.
+7993.
+7995.
+
+7987
+
+7999.
+7911.
+7913.
+7915.
+7917.
+7919.
+7921.
+7923.
+7925.
+7927.
+7929.
+7931.
+7933.
+7935.
+
+Nem OOWaRWNHwWH
+
+NN
+Oe ROT Quwosw
+
+NN
+oe Hm ~
+NNANN
+
+RR Ree eR ee Ree ee
+ee
+
+DAAYYIYNYOOODNODNYWYW
+
+eee
+AH
+EWh
+
+COR WNNWN MD RWDUADRQWHAWUOE WWE Ue NWT me
+
+Ue eee
+
+eee
+
+rereree ty
+QW POUVUH DORN UTE WRENYOHREV NRW OURAN
+
+Dee ee eee ee ee ee
+QRReM Ere ENANNNNWOWWWWRARRUOUU
+
+e
+
+COMPUTED
+
+Az
+
+137
+138
+142
+
+99
+138
+145
+138
+119
+139
+188
+116
+
+85
+184
+118
+353
+351
+139
+138
+133
+136
+141
+272
+249
+239
+228
+171
+149
+144
+i26
+351
+348
+343
+159
+168
+128
+138
+122
+125
+122
+128
+123
+151
+147
+141
+
+96
+149
+138
+134
+
+RRRQVRORRSVRRVH HH QRPRARSPSRVRSERHRANHRHLKMHHTRHNVTVHVVARRKVNLES
+
+QUAL
+
+COEFF
+884
+759
+-668
+798
+851
+889
+~918
+-985
+962
+838
+-576
+- 888
+~937
+856
+641
+-St1
+-765
+-863
++741
+»968
+-958
+-663
+498
+-768
+646
+«727
+- 867
+857
++884
+~343
+-523
+
+881
+
+-873
++936
++924
+837
+483
+768
+
+939
+
+688
+-918
+-669
+938
+968
++635
+- 483
+-854
+-889
+
+SHIFT SHIFT
+H13
+
+~2.5
+-8.4
+-8.5
+
+B.1
+-8.5
+-8.8
+-8.2
+
+DAN WRAAHNAARAR
+
+RRREYRAQNVRHDR
+
+AAA AANAAHAHKAHAATAIUIAATIANKTIATHGWMNAATANHHTAHMNTTUAnAAMNDoRNR
+
+PaESMUASEMUTHUNTa ehh MNTTIIINONMTEUOTO Te OOOO Oe ee
+
+REENNN WEE EE EN NQRRWUNNE ERRQE Nee NE RK ONNNWEReH Rew QegQe
+
+PNARN DWE RUINWVRE Qe WUNRNYHaNWVEUHe SOHN ReQnnwe-Qwon
+
+DNOOVODDHDOODHAHDODDDOHDDHDDODDDDOMDDDODMODDNDNTDONDODBDOODTONDODNMDWWW
+DOODODODDOGODODDDODODNHODMDNDMOOODDHDMHGDNDDDNNDNDMHOMDODMOMNMWWO
+
+TOOL
+PAZ?
+
+31
+
+AHARVAUHKHAAANAAAARAAHHAMNHGHHHAAHAAHAAAMNHARHAAKHHHKHMMMGHTMU
+
+NNN NNANNN NNN NNAYNNNANNNNNNANNNNNNNYYNNNNNNNANNNNNANNAD
+
+WELL
+DIRN
+
+297
+298
+298
+297
+297
+298
+298
+298
+298
+298
+298
+298
+298
+298
+298
+298
+298
+298
+298
+299
+299
+299
+298
+298
+299
+299
+299
+299
+299
+299
+299
+299
+328
+299
+299
+299
+299
+299
+299
+388
+299
+299
+239
+320
+3288
+388
+388
+239
+
+-
+
+BREN Nee ie
+RW DOKNK Te AIT eROMNTRQoOnNa yo
+
+WN
+
+Nee ee
+
+WD AWNNUN DQRWOTOARWHWU DE WWE THE NWH RENNIN DOW ORWNWN
+
+eee
+
+Moe
+ROK FDONDOANUNEWReNuUMHRAv~y
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED STRUCTURAL
+
+AZ
+
+137
+138
+142
+99
+138
+145
+138
+119
+139
+189
+116
+85
+184
+118
+353
+351
+139
+138
+133
+136
+141
+272
+249
+239
+228
+171
+149
+144
+126
+351
+348
+343
+159
+168
+128
+13g
+122
+125
+122
+128
+123
+181
+147
+141
+
+149
+138
+134
+
+ 
+
+RRRRRKRRRRRRRTRTHRSVRHRHRLRSTRSR STRSQL RV TRV RTL RK VRAHRAR VR
+RRRRRRRHQRRRRRKRKATRRRRRRAVATVSVRARVVRRVAAKRH KL LSHRH VLA
+RRBRPRRRHRKVRKRARRHRRNVRARRRTARRRHHRRRVVROVRTPTRRRRRSRRRRRKHQ
+ 
+
+             
+
+mH HHeHhmHeeH Hmmm HmHmHE EE eel Ce
+RESULTS LISTING - PAGE 14
+
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+
+MEAS Tvo DIP AZ COEFF H13 H24 C13 C24 PAZ1 RELB DEVN OIRN DIP AZ bP AZ
+7938.28 7937.18 14.2 138 8.923 -@.8 2.8 8.4 8.5 38 98 2.6 388 14.2 138 2.8 g
+7948.88 7939.18 6.1 97 #.866 B.4 8.5 8.4 8.5 38 91 2.6 299 6.1 37 8.8 g
+7942.98 7941.18 8.8 123 8.782 -8.1 1.1 8.4 8.5 38 91 2.6 299 8.8 123 5.2 g
+7944.88 7943.89 7.5 32 2.792 1.4 “2.4 8.5 8.6 38 91 2.6 299 7.5 32 8.8 g
+7946.98 7945.89 14.7 134 8.819 -#.7 2.1 8.6 8.7 29 98 2.6 299 14.7 134 8.8 g
+7948.88 7947.89 11.8 138 8.724 -8.7 1.6 8.6 8.7 29 89 2.6 388 11.8 138 2.8 g
+7958.88 7949.89 11.9 137 8.717 -8.7 1.6 8.6 8.6 28 88 2.6 388 11.9 137 8.2 g
+7952.88 7951.89 22.2 146 8.998 -2.8 3.2 8.6 8.7 27 87 2.6 388 22.2 146 8.8 g
+7954.88 7953.88 18.8 162 8.956 -2.4 1.9 8.6 8.7 26 87 2.6 299 18.8 162 2.8 cs
+7956.88 7955.98 17.6 147 8.888 -1.6 2.4 8.6 8.7 27 * 87 2.6 388 17.6 147 BB g
+7958.98 7957.88 19.3 126 8.785 -B.6 3.1 8.7 8.8 27 87 2.6 388 19.3 126 2.8 g
+7968.88 7959.88 19.6 128 2.783 -8.8 3.2 8.8 8.8 26 86 2.6 388 19.6 128 2.2 a
+7962.98 7961.88 18.3 133 H.74b -1.8 2.8 8.7 8.7 24 84 2.6 388 18.3 133 2.2 g
+7964.88 7963.87 7.6 146 %.587 -8.7 %.7 8.6 8.7 22 82 2.6 388 7.6 146 2.8 g
+7966.88 7965.87 44.3 152 8.618 -6.6 7.4 8.9 9.4 28 73 2.6 321 44.3 1852 | 8.8 g
+7968.88 7967.87 44.4 151 B.82i -6.7 7.5 9.1. 9.5 28 78 2.5 382 44.4 151 8.8 g
+7978.88 7969.87 9.8 152 9.929 -1.8 8.8 9.8 9.1 20 78 2.5 3282 9.8 189 B.8 g
+7972.88 7971.87 7.5 151 9.968 -@.8 B.6 9.8 9.1 28 79 2.5 381 7.5 151 8.8 g
+7974.88 7973.86 7.1 154 #.974 -8.8 8.5 3.8 9.1 21° Bg 2.5 381 7.1 154 2.8 g
+7976.88 7975.86 11.8 159 #.799 -1.6 1.8 3.8 9.1 21 Se 2.5 381 11.8 159 2.8 g
+7978.88 7977.86 39.7 159 8.757 -1.3 g.8 8.9 9.8 21 79 2.5 382 9.7 159 2.8 g
+7988.08 7979.96 8.8 156 8.998 -1.8 2.6 8.6 8.7 21 /79 2.6 392 8.8 156 2.8 g
+7992.89 7981.86 3.5 136 8.911 ~-8.2 g.t 8.4 8.5 21 79 2.6 382 3.5 136 2.8 g
+7984.89 7983.85 3.6 148 8.928 -@.3 g.1 8.4 8.5 21 88 2.6 381 3.6 148 2.2 g
+7986.88 7985.85 11.5 19 8.832- 2.2 -2.6 8.4 8.5 22 81 2.6 381 11.5 19 5.8 g
+7988.88 7987.85 11.9 66 8.657 1.6 . 1.8 8.4 8.5 24 83 2.6 381 11.9 66 5.8 g
+7398.28 7989.85 16.2 15a @.877 -1.6 2.8 8.4 8.5 26 84 2.6 382 16.2 152 2.8 g
+7992.88 7991.85 18.6 152 #.888 -1.9 2.4 8.4 8.5 28 86 2.6 382 18.6 152 8.2 g
+7994.88 7993.84 3.4 89 8.959 8.3 G.1 8.4 8.5 28 87 2.6 381 3.4 89 2.8 B
+7996.88 7995.84 3.2 87 B.938 %.3 BB 8.5 8.6 29 88 2.6 381 3.2 87 8.8 g
+7998.82 7997.84 11.2 152 8.837 -1.8 1.3 8.5 8.6 38 a9 2.6 381 11.2 152 2.8 g
+8288.89 7999.84 7.8 147 H.326 -8.6 2.8 8.5 8.6 38 a9 2.6 381 7.8 147 8.8 a
+8862.89 8881.84 9.8 149 2.899 -B8.7 1.8 8.4 8.5 31 89 2.6 322 9.8 149 2.8 g
+8884.99 8283.93 18.3 144 8.683 ~-2.7 1.3 8.4 8.5 31 89 2.6 382 18.3 144 a.8 g
+8286.28 8905.83 18.3 148 #.773 -8.8 1.2 8.4 8.5 32 38 2.6 382 12.3 148 a8 g
+8288.88 ~ 8887.83 13.8 133 8.733 -8.5 2.8 8.4 8.5 33 91 2.6 382 13.8 133 8.8 g
+8812.99 8809.83 21.2 151 2.893 -1.8 3.1 8.4 a.5 34 92 2.6 382 21.2 151 2.2 gx
+8212.88 8811.83 21.4 152 8.892 -1.9 3.4 8.4 8.5 34 92 2.6 382 21.4 152 2.2 g
+8214.98 8813.82 18.5 123 9.838 2.8 1.4 8.4 8.5 35 92 2.6 383 18.5 123 2.8 g
+8216.98 8815.82 ig.s 123 2.838 g.2 1.4 8.4 8.5 35 92 2.6 383 18.5 123 2.2 g
+8218.82 8917.82 8.4 115 8.848 2.2 1.8 8.4 8.5 35 93 2.6 322 8.4 115 2.8 g
+8229.98 8819.82 18.2 188 9.925 8.7 1.2 8.4 8.5 35 92 2.6 323 18.2 128 a.8 g
+8822.98 8821.82 18.3 198 9.918 8.5 1.3 8.4 8.5 34 92 2.6 382 12.3 188 5.8 g
+8824.96 8823.81 18.8 188 8.869 B.5 1.4 8.4 8.5 33 91 2.6 382 18.8 188 2.2 g
+8826.08 8825.81 5.8 129 2.783 -H.1 3.6 8.4 8.5 32 98 2.6 382 5.8 129 2.2 g
+8828.88 8827.81 12.8 131 8.838 -8.3 1.7 8.4 8.5 33 98 2.6 383 12.8 131 8.8 g
+8930.88 8929.81 12.8 132 8.819 -8.3 1.7 8.4 8.5 34 91 2.6 383 12.8 132 4.2 g
+8232.088 8831.81 2.2 76 X.918 8.3 “8.2 8.5 8.6 36 33 2.6 383 2.2 76 5.8 g
+
+- °
+
+ 
+
+ 
+ 
+
+BEPTH
+MEAS
+
+8934.98
+8236.08
+8838.88
+8842.88
+8042.88
+8H44. 8
+8846.88
+8848.08
+8258.89
+8852.88
+8954.88
+8856.28
+8958.08
+88E8. 88
+8862.88
+8864.08
+8866.88
+8868.80
+8872.88
+8872.88
+8874.88
+8876.88
+8878.88
+8888.98
+8982.80
+8984.80
+8886.08
+8988.92
+8998.28
+8892.98
+8894.88
+8896.98
+8898.88
+8188.88
+8182.88
+8184.88
+8186.92
+8188.98
+8118.80
+8112.08
+8114.08
+8116.88
+8118.82
+8129.28
+8122.08
+8124.08
+8126.88
+8128.08
+
+DEPTH
+TVD
+
+8833.82
+8835.80
+8837.88
+8839.98
+BH41. 98
+8842.99
+8844.99
+8246.99
+8848.99
+8052.99
+8852.98
+8954.98
+8956.98
+8958.98
+8868.97
+8862.97
+8864.97
+8866.97
+8968.97
+8278.96
+8272.96
+8874.96
+8876.96
+8878.95
+8889.95
+8882.95
+8884.95
+8886.95
+8888.94
+8898.94
+8892.94
+8994.94
+9996.93
+8298.93
+8188.93
+8182.93
+8184.92
+8186.92
+8188.92
+8118.92
+8112.91
+8114.91
+
+COMPUTED
+
+DIP
+
+~
+
+UNN SWAN HW
+AeOMQDOH w
+
+Wnn
+
+32.8
+
+rer
+RUIWVAMWWH
+
+Renee ne
+ANN ANE RNOWWOTDH VOUS WOR ano
+
+ve
+
+WRRERQQNH$DWHTVeAR “HOM aANW WME ROWNRH
+
+AZ
+
+189
+127
+129
+25
+148
+149
+181
+151
+171
+166
+121
+169
+156
+111
+185
+129
+127
+
+Me NNN NN
+QW nnwaa
+
+QUAL
+
+COEFF
+
+Bosses assesssssesaae ase sa SS eee sass sess eseeas
+
+8.867
+2.887
+8.893
+8.911
+8.926
+8.968
+2.728
+2.792
+2.585
+8.537
+2.891
+2.848
+8.763
+8.871
+8.878
+8.957
+8.951
+B.976
+2.933
+8.772
+8.982
+8.831
+2.874
+2.688
+8.789
+2.652
+2.592
+2.548
+#.AS1
+@.678
+8.668
+8.546
+2.778
+2.693
+8.855
+H.842
+#.815
+8.785
+9.557
+2.698
+2.693
+8.779
+2.594
+B.411
+9.566
+8.781
+8.734
+8.821
+
+SHIFT SHIFT
+413
+
+Nee ORQUQRwoanwona Qe Qo
+
+RBREeNWRWN HK  QKRHag
+
+Prbotreeand
+MRRRRRANRR
+WAnMROne Eww
+
+-3.1
+-1.7
+-1.6
+
+2.8
+-2.6
+-8.3
+“8.3
+
+ER
+aR
+an
+
+ta
+QereBagyg
+
+NRWR UD
+
+WEaNUVNNDVDADHAHN Se NKONWUWRQREVNHAOHMIUTOOONOMOH NNUAL
+
+rere
+WUYWHLWUORNRHVOWWORRROMOOOVOOOGOHDVDDD ODDO MOODDMDMAOHHKRNDHONMDHOMOD
+
+ee
+
+NON THA RUQRDONNNN EOE WN WWWHWRHAUOOUS RRR ER RRETDHVNMUMUIAH
+
+BQWQBQOH | QHBVRVYHe Qe NV en P@BQe Vee a sn Wve sme anwar vga
+PEEK RRAR-“WUONNNN NAN RRRLERROGODDONODNDDDDDNDOAMODHOMMH OO
+
+De eee eee ee ee ee ee te ee a ee ee
+
+TOOL
+PAZ1L
+
+37
+38
+37
+36
+
+Pe ne ee ee bee ee et AAD
+WRBQHNER SEAN -RQNWWNUNE
+
+WWWWNNNNNNNNNANNNNNNN ANN NNN NNN NN NN NNNN YN NN NNN
+RRRQWWVUCVOCGCVDMDOONNNYNNN NSIS SEIS OOK TTAMH
+
+WELL
+DIRN
+
+Serecsom ass saa SHS SS Se Bese AAS se SESSA sees
+
+382
+323
+382
+382
+382
+382
+382
+383
+393
+383
+383
+323
+383
+383
+383
+383
+383
+383
+324
+383
+384
+324
+384
+385
+385
+384
+395
+3a4
+325
+385
+385
+304
+394
+383
+384
+324
+304
+384
+384
+384
+304
+385
+394
+385
+384
+384
+384
+384
+
+-
+
+=e NENNE WW
+RNWGQDDWWUDDBOWNUNNDYANHW
+
+—Ne
+
+WRRERRNK§DWDOENEHR HOHE WHK OU BWOWN RE RV Quevougnnew
+
+Re ee
+
+UNNODNEQVMOWUTATDVCRWUUR ATOM
+
+ee
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+189
+127
+129
+125
+148
+149
+151
+182
+171
+166
+121
+162
+156
+111
+185
+129
+127
+131
+133
+133
+
+Shh aT Pawnee
+WN DNA UN © Rw
+
+ 
+
+STRUCTURAL
+
+RQ
+a
+
+RBRRVRRRQRARRRVTRRVRRARVRQRHRFSTRARVKRVNRMNRMHRHHHVRHRRQRVD
+RRRRQRQRARVRRRKRHRRRRRRR KVR VASRASTRHVRRKRVQ HF HKHLRAROQARRKH
+RRRARRRVVRSPRVAVHRVRRAAAVTRVRSHRSRTHERLSHRKVNAOAQNRHRHPTSSERHVRVQN
+RESULTS LISTING - PAGE 16
+
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS Tvb DIP AZ COEFF H13 H24 C13 C24 PAZI RELB DEVN DIRN DIP AZ OIP AZ
+
+BESS SSR SOR ORR EN eee SASS Sees esses BOS SSHESRAORE NERS EAH SSS SESS SESS SESS aes esses sesso se sesaseess
+
+ 
+
+8138.88 8128.89 5.9 152 8.877 -8.7 B.2 9.7 11.2 9 6S 3.8 394 5.9 152 a.2 B
+8132.88 8138.89 6.1 153 B.779 8.7 2.2 9.6 11.2 tl 66 2.9 395 6.1 153 a.8 a
+8134.88 8132.89 6.4 132 O.545 -8.4 2.6 9.6 11.3 12 68 2.9 394 6.4 132 2.8 x
+8136.88 8134.89 8.6 134 B.68t -8.7 1.1 9.8 11.8 14 69 2.9 385 8.6 134 2B g
+8138.99 8136.88 9.4 134 2.584 -8,7 1.5 18.4 13.4 15 72 3.8 385 9.4 134 8.8 g
+8148.88 8138.88 z2.5 187 8.583 ~-#.3 -8.7 19.9 14.6 16 72 3.8 3e4 2.5 187 2.8 g
+8142.08 8148.88 5.8 169 2.568 -1.8 ~B.1 11.3 15.1 16 72 3.8 384 5.8 169 a.8 g
+8144.08 8142.88 2.7 54 B.422 8.7 ~2.4 11.6 15.8 16 72 3.8 304 2.7 54 5.8 g
+8146.08 8144.87 2.8 124 8.599 8.1 -8.3 11.3 185.6 17 73 3.8 384 2.8 124 B.8 g
+8148.08 8146.87 5.9 $21 8.825 -8.1 2.8 18.6 13.6 19 7S 3.8 384 5.9 121 2.8 g
+8159.08 8148.87 6.6 138 8.858 -8.3 g.8 18.2 13.8 19 76 3.8 383 6.6 13 g.8 g
+8152.88 8159.86 6.2 127 #.883 -8.3 8.8 18.4 13.4 19 75 3.8 304 6.2 127 8.8 g
+8154.88 8152.86 5.8 122 8.775 -#.1 B.7 18.3 12.3 18 74 3.1 384 S.8 122 3.8 g
+8156.88 8154.86 4.9 138 @.455 -8.3 B.3 18.2 12.8 16 73 3.2 383 4.9 138 G8 g
+8158.98 8156.85 4.6 145 2.388 -8.4 B41 18.3 13.1 14 78 3.2 304 4.6 145 a.8 g
+8168.98 8158.85 7.6 143 8.6411 ~-8.8 B.7 18.2 13.8 12 68 3.2 34 7.6 143 8.0 B
+8162.88 8169.85 8.8 124 8.577 -8.4 1.1 18.1 12.3. 11 67 3.3 384 8.8 124 8.8 g
+8164.88 8162.85 6.3 128 2.585 -8.3 g.7 18.4 13.1 12 68 3.3 304 6.3 125 B.8 g
+8166.88 8164.84 5.3 137 9.536 -@.4 B.4 18.7 13.8 13 69 3.3 384 5.3 137 g.2 g
+8168.00 8166.84 34.9 329 @.351 6.6 -8.5 18.5 13.4 13 69 73.3 394 34.9 329 g.2 g
+8178.88 8168.84 12.2 189 2.666 -2.4 “8.6 18.4 13.3 13 69 3.3 384 12.2 189 8.8 g
+8172.88 8172.83 13.6 183 2.646 -2.6 “8.2 12.3 12.6 12 69 3.2 303 13.6 183 o.8 g
+8174.88 8172.83 7.5 153 2.775 -1.8 8.4 18.8 11.6 12 68 3.2 3a4 7.5 153 8.8 g
+8176.80 8174.83 6.1 177 2.821 -1.8 -8.3 9.8 11.2 12 68 3.2 34 6.1 177 a.2 g
+8178.88 8176.82 6.8 2e1 8.464 -8.9 “2.9 9.7 11.8 12 68 3.2 384 6.8 281 o.8 g
+8188.08 8178.82 6.8 148 2.687 ~-8.5 B.4 9.6 12.9 12 68 3.3 3a4 6.8 149 2.8 g +
+8182.88 8188.82 7.1 142 #.633 -8.7 B.6 9.7 11.2 13 68 3.3 385 7.1 142 8.8 g
+8184.88 8182.81 8.9 144 8.447 -8.9 g.8 9.8 11.5 12 68 3.3 384 8.9 144 8.8 g
+8186.90 8184.81 9.7 358 9.498 2.2 -1.6 9.9 12.1 11 66 3.3 385 9.7 358 8.8 g
+8188.90 8186.81 8.6 4 #.632 2.1 -1.8 18.8 12.5 11 66 3.2 385 8.6 4 2.8 g
+8198.08 8188.89 2.4 184 8.578 -8.3 -8.6 18.1 12.9 15. 69 3.2 386 2.4 184 8.8 a
+8192.08 8199.89 51.2 64 #.382 11.2 12.4 11.1 13.7 19 73 3.2 386 $1.2 64 8.8 g
+8194.88 8192.8f 48.1 68 8.298 11.7 18.2 12.8 14.8 28 7S 3.2 395 48.1 6a 2.2 a
+8196.00 8194.79 6.8 133 #.59f -8.3 9.6 18.9 11.9 21 7S 3.2 396 6.8 133 2.8 g
+8198.80 8196.79 5.2 169 #.621 -8.7 ~B.1 9.5 18.1 22 76 3.2 326 5.2 169 9.8 g
+8288.88 8198.79 21.9 144 @.556 -2.1 3.3 9.3 9.7 24 74 3.2 386 21.9 144 8.8 &
+8282.88 8200.78 19.6 147 8.778 -1.9 2.8 9.3 9.6 25 79 3.3 386 19.6 147 8.8 g
+8284.88 — 8202.78 8.9 165 8.896 -1.2 2.5 9.1 9.5 24 79 3.3 385 8.9 165 5.8 g
+8286.88 8204.78 17.4 153 2.894 -2.8 1.9 8.7 9.8 23 78 3.3 385 17.4 183 £.8 g
+8288.48 8206.77 14.6 132 557 -8.7 1.9 8.5 8.7 23 78 3.4 385 14.6 132 &.2 g
+8218.88 8288.77 52.8 193 #.243 -12.5 1.4 8.5 8.6 22 77 3.4 385 52.8 193 8.2 w
+8212.88 8218.77 5.2 96 @.324 B.4 BA 8.8 9.3 2a 74 3.3 386 5.2 96 8.8 g
+8214.88 8212.76 4.9 124 8.689 -#.1 g.4 9.4 11.2 16 78 3.2 386 4.9 124 8.8 g
+8216.98 8214.76 4.5 132 2.689 -#.2 8.3 9.7 12.4 13 67 3.2 386 4.5 132 8.8 g
+8218.98 8216.76 4.4 138 2.498 ~-8.3 £.2 9.8 12.5 13 66 3.2 387 4.4 138 2.8 g
+8228.88 8218.75 4.7 143 2.585 -8.4 8.2 9.7 12.2 13 67 3.2 386 4.7 143 2 gS
+8222.89 8228.75 6.5 134 B.437 -O.4 2.7 9.6 12.2 16 69 3.1 396 6.5 134 5.8 g
+8224.88 8222.75 7.2 141 H.423 -8.6 £.8 18.3 13.7 18 71 3.1 387 7.2 141 5.8 g
+ 
+
+ 
+
+RESULTS LISTING - PAGE 17
+
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS TVD DIP AZ COEFF H13 H24 Cl3 C24 PAZ1 RELB DEVN DIRN OIP AZ DIP AZ
+
+Passsssssseserresr crea assesses ee Reese eee Resa essesss ee eee. ee eee eer
+
+    
+
+8226.99 8224.75 4.9 147 8.598 -@.4 8.3 12.9 14.1 23 76 3.2 387 4.9 147 B.2 g
+8228.99 8226.74 13.1 121 8.533 2.8 2.4 12.3 11.8 29 82 3.2 327 13.1 121 2.2 g
+8232.88 8228.74 18.5 1398 @.538 -8.2 1.4 9.1 9.5 32 85 3.2 387 18.5 13% B.2 g
+8232.98 8238.74 58.4 166 9.566 -11.0 18.7 8.5 8.6 31 85 3.2 386 $8.4 166 B.2 a
+8234.28 8232.73 2.7 143 9.597 -@.1 -B.1 8.5 8.6 31 85 3.3 386 2.7 143 2.2 g
+8236.98 8234.73 55.6 164 8.247 -9.7 9.7 8.5 8.6 38 85 3.3 385 $5.6 164 B.2 g
+8238.22 8236.73 49.6 121 8.518 -8.3 18.9 8.5 8.6 29 84 3.3 385 49.6 121 BB g
+8240.88 8238.72° 3 7.3 142 @.696 -8.5 2.6 8.5 8.6 29 83 3.3 386 7.3 142 2.8 @.
+8242.88 8248.72 7.9 154 2.887 -2.8 g.5 8.4 8.6 27 82 3.3 325 7.9 154 2.8 gS
+8244.88 8242.72 8.8 149 8.811 -2.8 8.7 8.4 8.6 24 78 3.3 326 8.8 149 BB B
+8246.88 8244.71 8.3 147 B.916 -#.7 8.6 8.4 8.6 28 74 3.3 386 8.3 147 8.2 g
+8248.98 8246.71 7.8 139 8.777 -2.6 g.7 8.4 8.6 16 78 3.2 396 7.8 139 B.8 &
+8252.88 8248.71 6.4 139 2.674 -8.5 g.4 8.6 8.9 12 65 3.2 387 6.4 139 2.8 Bg
+8252.08 8250.78 5.9 146 2.698 -8.5 B.2 8.8 9.3 9 62 3.2 387 5.9 146 8.8 g
+8254.88 8252.78 7.2 194 2.858 -8.8 8.2 8.7 9.3 6 59 3.2 387 7.2 154 B28 &
+8256.98 8254.78 12.5 148 8.865 -1.4 1.2 8.7 9.5 3 56 3.2 387 12.5 148 B.8 g
+8258.88 8256.69 12.9 145 8.818 -1.6 tel 9.8 18.1 1 54 3.2 387 12.9 145 8.8 g
+8262.08 8258.69 18.8 144 8.568 -1.3 g.9 9.3 18.8 1 54 3.2 387 18.8 144 5.8 g
+8262.88 8268.69 .8.3 184 %.S62 8. 1.3 9.7 11.7 3 S& 3.2 327 8.3 184 2.8 &
+8264.98 8262.69 8.3 96 @.442 #.3 1.4 9.9 12.3 4 57 3.2 387 8.3 96 8.8 g
+8266.88 8264.68 13.6 161 9.561 ~-2.2 8.7 18.8 12.5 4 57 3.2 387 13.6 161 5.8 g
+8268.89 8266.68 12.8 163 8.368 -2.8 g.4 18.5 13.3 4 57 3.3 387 12.8 163 5.2 g
+8272.08 8268.68 68.3 228 9.454 -16.3  -19.7 18.8 14.8 6 59 3.3 387 68.3 228 a.8 g
+8272.88 8278.67 51.9 18 8.276 16.7 2.4 18.8 14.4 9 62 3.3 387 $1.9 18 B.8 go
+8274.88 8272.67 13.2 98 @.514 g.9 3.8 11.9 14.9 11 64 3.3 327 13.2 98 3.8 g
+8276.89 8274.67 28.1 127 8.568 -2.7 6.9 11.4 14.9 1g 64 3.3 326 28.1° 127 8.8 g
+* 8278.28 8276.66 48.8 157 #.435 -11.6 7.7 11.3 14.4 7 61 3.3 326 48.08 157 2.8 gg
+8288.89 8278.66 9.4 145 8.568 -1.2 . 8.8 18.7 13.6 3 57 3.4 386 9.4 145 8.8 a
+8282.82 8288.66 9.8 144 8.815 -1.2 9.8 18.1 12.6 1 56 3.4 3aS 9.8 i44 g.8 g
+8284.89 $282.65 9.4 234 9.562 -8.8 “2.6 9.9 12.4 2 56 3.4 386 9.4 234 3.8 g
+8286.88 8284.65 6.8 213 2.729 -8.9 -1.6 18.1 12.7 4 58 3.4 386 6.8 213 3.8 g
+8288.89 8286.65 6.2 173 9.678 -8.9 ~B.4 18.1 12.9 6 61 3.5 325 6.2 173 9.8 g
+8298.88 8288.64 7.8 187 B.414 -8.9 Bt 18.3 13.5 7 62 3.5 395 7.8 157 5.8 g
+8292.88 8298.64 8.3 113 H.358 -H.2 1.3 18.2 13.8 6 61 3.5 385 8.3 113 2.2, g
+8294.00 8292.63 7.9 148 2.691 -8.8 2.6 18.8 13.3 4 59 3.5 385 7.9 148 B.2 B
+8296.88 8294.63 6.3 148 2.676 -8.6 B.4 18.2 13.7 5 59 3.6 386 6.3 148 5.8 g
+8298.08 8296.63 5.1 138 8.729 -#.2 8.3 18.6 14.1 7 61 3.6 386 5.1 138 8.8 g
+8382.88 8298.62 4.7 142 @.587 -8.3 a.2 18.7 14.2 7 61 3.6 386 4.7 142 2.8 g
+8382.00 8398.62 7.4 144 8.493 -8.8 8.5 18.8 14.3 6 6a 3.6 326 7.4 144 8.8 g
+8384.09 8382.62 5.8 138 2.298 -8.5 9.3 11.1 14.6 6 6a 3.6 386 5.8 138 9.8 x
+8396.98 8304.61 2.2 161 8.369 -8.1 -2.7 11.5 15.5 8 63 3.7 305 2.2 161 2.8 a
+8398.89 8306.61 12.3 193 B.446 -2.6 -1.2 11.9 16.2 11 66 3.7 395 12.3 193 2.8 g
+8318.88 8388.62 56.2 55 2.337 15.4 16.5 12.8 16.7 14 68 3.7 396 56.2 55 B.8 g
+8312.08 8318.68 13.2 351 8.417 3.4 “2.9 12.3 17.3 14 69 3.6 395 13.2 351 9.8 g
+8314.98 $312.59 13.2 162 8.616 -2.4 1.2 12.3 17.7 13 68 3.7 395 13.2 162 8.8 a
+8316.92 8314.59 13.2 168 8.546 -2.3 1.3 11.9 18.1 13 67 3.7 386 13.2 162 Be g
+8318.88 8316.59 36.8 98 #.355 2.6 12.5 12.8 17.6 9 64 3.7 385 36.8 98 a.8 g
+8328.88 8318.58 56.6 271 8.248 -8.7 -31.2 12.2 16.4 4 58 3.7 386 56.6 271 o.8 g
+
+ 
+ 
+
+ 
+
+RESULTS LISTING - PAGE 18
+
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS TvD DEP AZ COEFF H13 H24 Ci3 c24 PAZI RELB DEVN DIRN OIP AZ DIP AZ
+
+RE SSS SSS SS Oe Se SSeS SR ERAS SSSR SENS SOS SONS ARONA SSS SREB AS ESR RS PRE SROs ees eS See ee eases ss eesssseeeeses
+
+  
+
+8322.88 8328.58 8.8 138 @.722 -8.7 1.8 12.1 15.6 1 55 3.8 326 8.8 138 2.8 a
+8324.88 8322.57 7.8 138 H.912 -8.8 B.7 11.3 15.2 2 56 3.9 386 7.8 138 2.8 g
+8326.98 8324.57 6.8 78 #.841 g.9 B.7 11.2 18.6 4 58 3.9 396 6.8 738 5.8 g
+8328.88 8326.56 4.7 66 9.384 1.8 8.3 12.8 16.3 4 57 3.9 387 4.7 66 g.2 g
+8338.88 8328.56 54.5 118 %.232 -5.8 22.8 12.3 16.3 gu $3 4.8 387 54.5 118 5.8 g
+8332.88 8339.55 56.1 93 9.325 -1.9 23.7 12.2 16.3 356 4g 4.8 387 56.1 93 9.8 g
+8334.88 8332.55 39.9 135 B.31) -8.1 7.8 12.8 16.5 352 45 4.8 387 39.9 135 g.8 g
+8336.08 ~ 8334.54 12.2 212 H.519 -1.4 -3.7 12.2 17.8 347 41 4.8 386 12.2 212 3.8 g
+8338.80 8336.54 9.4 161 8.549 -1.6 ~8.6 12.7 17.2 345 38 4.1 387 9.4 161 8.8 g
+8342.8. 8338.54 7.7 156 #428 -1.2 “8.4 13.2 17.7 346 4g 4.1 386 7.7 156 2.2 g
+8342.8. 8348.53 7.4 143 B.484 -1.8 B.2 13.2 18.2 351 44 4.1 387 7.4 143 2.8 g
+8344.08 8342.53 9.2 137 8.§22 -1.1 g.9 12.8 18.2 356 5g 4.1 386 9.2 137 B.8 g
+8346.08 8344.52 17.9 159 B.413 -3.6 1.2 12.6 17.9 1 54 4.2 387 17.9 159 8.8 g
+8348.08 8346.51 28.8 178 9.569 -4.7 8.6 12.6 18.1 4 58 4.2 386 22.8 178 8.8 g
+8358.08 8348.51 18.3 127 B.478 -1.9 4.4 13.¢ 18.7 8 62 4.2 386 18.3 127 2B a
+8352.88 8358.58 57.8 18 8.288 25.5 5.8 13.6 19.6 8 63 4.2 385 57.8 18 2.8 g
+8354.08 8352.50 18.5 231 G.223 -1.4 -4.4 13.9 28.8 4 6a 4.3 384 18.5 231 2.8 g
+8356.80 8354.49 22.2 282 8.254 -5.2 -4.6 14,1 19.1 358 54 4.3 384 22.2 282 2.2 g
+8358.98 8356.49 29.9 193 8.255 -7.5 -4.8 13.7 17.6 353 49 4.3 384 29.9 193 8.8 g
+8362.08 8358.48 38.4 236 8.295 -2.8 -18.8 13.1 16.1 358 46 4.4 384 32.4 236 8.8 g
+8362.68 8368.48 6.8 144 8.488 -8.6 “8.1 12.3 15.2 349 44 4.4 385 6.8 144 2.2 g
+8364.88 8362.47 6.7 154 2.837 -8.8 ~B.4 11.5 14.5 347 42 4.4 325 6.7 154 2.8 g
+8366.00 8364.46 6.9 157 @.819 -8.8 -O.5 11.1 14.2 346 41 4.4 395 6.9 157 2.6 g
+8368.00 8366.46 16.7 161 B.668 -3.1 ~B.4 11.1 44.1 346 41 4.4 385 16.7 161 2.8 g
+8378.88 8368.45 18.4 165 8.649 -3.5 -8.6 11.8 13.8 347 42 4.5 385 18.4 165 2.8 g
+8372.88 (8378.45 18.9 173 8.549 -3.6 -1.1 18.8 13.4 358 45 4.5 395 18.9 173 3.8 g
+8374.98 8372.44 6.4 163 8.666 -#.7 -8.6 18.8 13.5 352 47 4.5 385 6.4 163 2.8 g
+8376.08 8374.43 7.8 163 2.594 -8.9 -B.6 19.9 13.7 352 47 4.4 305 7.2 163 2.8 &
+8378.00 8376.43 6.6 141 2.6094 -8.6 g.1 18.8 13.2 358 44 4.4 386 6.6 141 8.8 &
+8337.08 8378.42 11.2 167 2.883 -1.8 “8.7 18.8 12.6 347 48 4.3 387 11.2 167 8.8 B
+8382.88 8388.42 12.3 169 8.889 -2.8 -8.8 18.7 12.2 347 39 4.2 388 12.3 169 B.8- g
+8384.98 8382.41 9.3 128 8.771 -#8.8 B.8 18.6 11.8 358 42 4.2 388 9.3 128 2.2 g
+8386.89 8384.41 8.9 133 8.899 ~-8.8 2.6 18.5 11.4 354 46 4.2 388 -8.9 133 8.2 g
+8388.89 8386.48 7.1 168 @®.8f1 -8.9 “8.2 18.3 11.8 358 43 4.2 389 7.1 168 2.2 g
+8398.89 8388.4¢ 7.3 153 2.783 -8.8 a.g 18.2 18.8 gz 51 4.1 329 7.3 153 8.8 g
+8392.88 8398.39 26.2 156 M.617 -4.6 1.9 18.2 18.6 i $2 4.1 329 26.2 156 8.8 g
+8394.08 8392.38 18.5 14 8.678 2.6 ~2.2 9.8 18.5 3 $3 4.1 318 18.5 14 B.8 gw
+8396.80 8394.38 18.3 18 8.633 2.5 -B8.1 9.4 18.8 3 54 4.1 389 18.3 18 3.8 g
+8398.88 8396.38 18.8 228 9.599 -1.8 “2.1 8.9 9.2 3 54 4.1 389 18.8 228 a.2 g
+8480.88 8398.37 7.6 188 8.454 -#.7 8.2 8.8 9.1 2 52 4.0 318 7.6 182 £8 g
+8482.98 8488.37 7.5 133 @.495 -9.5 8.5 8.7 9.1 g 5a 4.2 318 7.5 133 Bo g
+8404.88 8482.36 3.3 187 2.896 -.1 -8.7 3.3 9.7 357 46 4.8 311 3.3 187 2.8 g
+8486.09 8404.36 6.8 257 H.911 B.4 -1.8 18.1 18.4 355 43 4.8 312 6.8 257 2.8 g
+8488.08 8486.35 18.6 288 2.934 1.2 -2.8 18.8 18.3 355 44 4.0 311 12.6 288 5.8 g
+8418.88 8498.35 5.1 156 B.597 -B.4 “8.2 9.5 9.9 357 45 3.9 312 5.1 156 3.8 g
+8412.88 8418.34 11.3 169 #.628 ~-1.7 “2.2 9.4 9.7 359 47 3.9 312 11.3 169 a.8 g
+8414.88 8412.34 15.6 182 8.572 -2.6 -8.6 9.5 9.8 2 58 3.9 312 15.6 182 2.8 g
+8416.28 8414.33 16.8 8.637 -2.6 -1.3 9.1 3.5 7 54 3.9 313 16.8 199 2.2 g
+
+ 
+
+ 
+ 
+
+DEPTH
+MEAS
+
+8418.89
+8428.98
+8422.88
+8424.98
+8426.98
+8428.29
+8438.99
+8432.98
+8434.82
+8436.88
+8438.98
+8448.99
+8442.99
+8444.88
+8446.80
+8448.88
+8459.08
+8452.99
+8454.98
+8456.98
+8458.99
+8468.88
+8462.88
+8464.98
+8466.89
+8468.08
+8478.89
+8472.08
+8474.99
+8476.95
+8478.99
+8488.99
+8482.99
+8484.29
+8486.08
+8488.99
+8498.88
+8492.98
+8494.29
+8496.88
+8498.88
+8588.29
+8522.98
+8584.98
+8586.88
+8508.98
+8518.28
+8512.88
+
+DEPTH
+
+gems tsesssssesssesssssueas
+
+Bale.
+8418.
+8428.
+8422.
+8424,
+8426.
+8428.
+8438.
+8432.
+8434.
+8436,
+8438.
+8448.
+8442.
+8444,
+8446.
+8448.
+8459,
+8452,
+8454,
+8456.
+8458.
+8468.
+8462.
+8464.
+8466.
+8468.
+8472.
+8472.
+8474,
+8476.
+8478.
+8488.
+8482.
+8484,
+8486.
+8488.
+8498,
+8492.
+8494,
+8496.
+8498.
+8528.
+8582.
+8584.
+8586.
+8528.
+85128.
+
+ 
+
+w a BO Pee ane
+
+ee
+
+Ne Neon
+NWE WU ODBONNN WHEN QO DUANE ME WNeVe Qi Vevenneanaunnne
+
+a
+
+Pre ROVNWRVVENTNUNDOVEaANE DONWON = THWUUWAU=DeeVwORewoRa
+
+Me Pe eR eee Hee eee
+ReEENNUWEhMTUAH VY IOMOW
+
+Qe one
+
+COMPUTED
+
+AZ
+
+192
+73
+S7
+
+242
+
+236
+
+229
+
+136
+
+117
+
+114
+
+136
+
+165
+
+158
+
+249
+
+145
+
+161
+
+138
+
+123
+
+278
+46
+78
+
+166
+
+169
+
+128
+
+188
+86
+
+119
+
+165
+
+166
+
+259
+
+232
+
+148
+
+136
+
+136
+62
+
+128
+
+128
+
+193
+
+288
+
+144
+
+132
+
+187
+
+134
+
+142
+64
+159
+123
+59
+
+RRRSORRHH TRH STRSEMHKLKHRARRRRLFORRHOHSRRRANRVQRRHRRHKAARAN
+
+QUAL
+COEFF
+
+SR RASSSSOSSSS SSA SPSS SSE HS SRS OANA SBR S SRS EOS SAREE POSS SSRs ase eA es essssssoeesass
+
+494
+843
+496
+586
+-6B9
+653
+
+824
+498
+
+796
+788
+528
+-348
+227
++376
+543
++636
+«445
+-518
++773
+816
+419
+
+344
+
+-655
+«758
+- 896
+-872
+-485
+398
++437
+«411
+512
++523
+588
++417
+
+764
+
++ 883
+~624
++297
+488
+-483
+288
+726
+-498
++225
+
+354
+
+-244
+314
+441
+
+SHIFT SHIFT
+
+teem 8
+
+BRRRBANNHEK ANN
+
+tb bee bo
+'
+ma
+
+14
+Pet tom
+
+pair vo
+wt
+WWRERNWARDUWDENNK DOUNNEaNN RE WHR ON RU RQeE EKA NON
+
+MMNOWOWOHNNDHOWDN ATS OP RR RNDORON HE ONWN VENER newonwn gD
+
+ppd
+’
+NNNON EK RNN YW DWN DWVRNARDTIONWNVYOUOYUHUINAHWOWeRWIMRRVEQe
+
+DEN ANRQRVRRRHWVRQW- HRWRQUNRRSQeRKRKe-- VQQgung
+
+w
+
+time
+n
+DUKEAWN- Qe Q- RAR QV NRRVVAHRVRRHLARH“ARRKTRVQAHQ wR
+
+DM eQyunwOn wr RvRan Dow wWnwn one UO. s DQWINNTION EH WE eBOROEA
+WWHOWVEWWWWEWEWDN EER MNNNNNN WWE WWWWOUNN NN HH BSQwanaon
+
+BOVWRRWVDNVDODHWANNNNWNANWUOTUMEAWWWWWNNNE EERE RUWUWWY
+
+ee ee ee et ee ee tt te et ge
+De NIN ee ee ee ee ee tee ee eee et ee gee ee ee ee ee ee te
+
+TOOL
+PAZ1
+
+12
+1s
+16
+17
+19
+22
+25
+27
+27
+26
+
+ee ee
+
+ee
+THRWWWORaVNDOVARVANNN WENA NW
+
+TOOL
+RELB
+
+89
+62
+63
+64
+66
+69
+72
+74
+74
+
+ 
+
+BPO Beane
+Be ReQDNWRVVENDNTN DON EVE DNWUN EH HWOUVET OR RVSR ROR
+
+fret et et et ae et bee a bet et bet ee ee
+un
+
+WWWWWWWWWWW WOW WW
+1) me WWE WW WW WWW WO
+
+wo
+
+NOK VODOYNNNWOENRVKTMHDNET ARUN eVaRQu wT qeanQagnaywange
+
+NNNNERRWRQEEK CHE ONNN HK EK RBRARNWUUDVUCLDDONHDDNDTMOGBWONOMD
+
+wee
+
+Ne ON
+
+Ne
+
+PARR EWEREADEDEE EERE EERE EERWWWWWWWWUWWWWWWWWWW WWW
+a
+
+WWW WWW WWW WWW WWW WWW WWW WWW
+ee ee ee ee te ee ee it et bt ee ee
+NNVWNNWE EERE SE EWWWRAEATTAU EW
+
+Ore ee
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+123
+
+a
+wo
+
+STRUCTURAL
+
+#2esoosses
+
+RERRRRRARRT TT TRARARRRRARVRAVS dS SSAasegawansagaaaaaae
+
+RRBQQQMNAHRRNRRRRRRHRREKRKRKRRRR HTT QRRHNRHKRRRSVVNRQHHANVKLKLYH
+RRBVRRRKRRNRRRARARRRRRRKRQRRKRRRHNRMDR RRVQVRRQQRHRVRVRRRQVMAAQI
+
+  
+ 
+
+DEPTH
+
+TVO
+
+8683.82
+8685.82
+
+e
+
+NN
+
+nan
+DNOOODNONANAVWOTDNE ROWOWSaYNAHWOHOWRVOOON DODD Y THRO
+
+me
+
+PUN DaROWNNT ENE DUNUADWOHAHWNH RAMNOWWHEKNOWURNUD RUD QU
+
+COMPUTED
+
+AZ
+
+122
+186
+128
+128
+136
+136
+173
+128
+129
+142
+94
+146
+141
+148
+138
+146
+162
+182
+153
+158
+148
+145
+139
+132
+131
+131
+127,
+139
+155
+152
+256
+256
+151
+181
+159
+157
+159
+139
+133
+14t
+149
+139
+138
+137
+136
+137
+135
+155
+
+RRRRRRRKARTLRRRPRRHHRHTHH ARRON HA ANTRARQQORHRRRAAK
+
+QUAL
+COEFF
+
+BUSES HS see ses Ser Sse SAAS HAAR SSS SSS SSS SSA Se esa See BABS HS sSSssesssssAssas
+
+553
+568
+-634
++789
+-653
++656
++264
+-513
+~516
++348
+669
+
+828
+
+«774
+898
+925
+
+SHIFT SHIFT
+H13
+
+“8.4
+
+8.2
+-8.3
+-2.2
+-1.7
+-2.3
+-6.8
+-B.2
+-2.3
+-8.8
+
+8.7
+~8.6
+-8.8
+-8.7
+-8.5
+~2.7
+-1.2
+-2.4
+
+-B.2
+
+RBRQee- RAAMRQQANVLAA
+
+SNWAARAMHSHOHE—- RRQ
+
+PRES
+
+1
+
+iat
+RRA
+oan
+
+-8.5
+-8.6
+-2.7
+“8.4
+-1.8
+
+RRRRERRRRRHeOLLLOVA BH BAT APAOHAAe Bee ee Re QQQNEVQNee
+
+NAWOHGHHNE EEN EMNWENDRON KE QVHWEVO-QWORENWEWNHVER ONDARY
+
+CALIPERS
+€13
+
+Ee ee tee eee ee te ee ne ee ee ee ee
+SMWNDNON MONA EE De SNWORMOANARHUWUNOWUMTWNHsAwW
+
+RWVUVYURRQe eK Ke Ree RARRANNRREKEEENWNHNW
+
+eee
+RRQQ
+PeaON
+
+18.4
+18.3
+19.2
+18.2
+18.3
+18.2
+18.2
+18.2
+
+eee ee
+NWWENK eH DUA
+
+Pee Re Re NE ee ONIN NR ON ON OUON NS
+WHWWWNN =
+WI ERAIRQHAY
+
+Te ee ee ee ee ee ee eee gee ee eee
+
+Hee tek ek et pe
+RWRRARARA
+WNNNN EN QRMWAHM EWE RK WHUOWHUVYDOQVOVWOWWUROVRVN RE Sangu
+
+&
+
+Peewee
+
+eee eee eee
+WWRNEARDW
+
+oe ee ee ee ee
+
+TOOL
+RELB
+
+$1
+52
+56
+58
+58
+61
+63
+63
+59
+57
+6a
+65
+71
+76
+81
+
+-
+
+WWWWWWWWWW
+
+ee ee
+
+RRRHK RK WVWWHW
+NV
+
+WWWWWWWWWwW
+Bee eee eee
+NNNEN eee ee
+
+Www
+ee
+NNN
+
+an
+DNODAODNANAKDDNWANYE RQROOWEPEANUAHVNDOWROOOOVNROAANYE AHO
+
+ee
+
+PSL SSWWHWWES SALEM ESATUOMERETMAHHIHTTS eh eWWWWNND
+PWN OL OWNNTENE DON NMNBDWONHWNE RODNDWWENDWUORNVYVUHRAOQ UH
+
+PREPARE AEH EAEADAD EEE ERAAADERAREEDAEREREEDEEDREH ERED
+
+WWWWWWWWWWWWW WWW
+Ree ee ee ee
+NNN eENNNNN Re NNN
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+4
+
+127
+139
+155
+182
+256
+256
+151
+151
+159
+157
+159
+139
+133
+141
+149
+139
+138
+137
+136
+137
+135
+165
+
+ 
+
+STRUCTURAL
+
+Bacoscraessas
+
+RRRRRRVRVVRSRSPRRRRRLSPRVRRRHRRKRTRKRHHTHOKRQHRRVRRRHRKERN
+BRVSRSSRVVPRRRERCTRVRRSERTP HR HBNRRRRWRTRAHLHLRLAKTRAKH
+RQQPSPPPAAQVVVQRVMN*ARRRHPRVARRRRRTHVRSRTLRRARRVRRRVVVKV’
+ 
+
+DEPTH
+
+8687.81
+8699.81
+8611.88
+8613.79
+8615.79
+8617.78
+
+8619
+8621
+
+8623.76
+8625.76
+
+8627
+8629
+8631
+
+8633.73
+8635.72
+8637.72
+8639.71
+
+9641
+
+8643.78
+8645.69
+8647.
+8649.
+8651.
+
+8653
+8655
+
+8657.
+8659.
+8661.
+8663.
+8665.
+8667.
+8669.
+8671.
+8673.
+8675.
+8677.
+8679.
+8681.
+8683.
+8685.
+8687.
+8689.
+8691.
+8693.53
+8695.
+8697.
+8699.
+8721.
+
+=
+AMROMHwWyVNOVvoe nung
+
+mw
+
+me
+
+wor
+
+eenwe
+WENA NDE Rvowa oe ann
+
+Gee ee
+
+See eee ee
+NWR OTNVYRTaRwo
+
+WWWUUHWNEONGUN DUN AO -RAONNANNN EM ONE aWWRE WNW OOe
+
+COMPUTED
+
+AZ
+
+SR Sos esteem sess ss Sees esaassesssssagas
+
+157
+159
+123
+122
+274
+
+728
+
+88
+139
+142
+138
+181
+135
+141
+
+5S
+223
+
+28
+146
+135
+169
+167
+175
+
+58
+117
+149
+158
+194
+183
+
+86
+
+87
+213
+162
+
+“159
+
+148
+165
+282
+168
+164
+16t
+163
+171
+186
+141
+146
+137
+164
+151
+152
+179
+
+RRRRRVQQRYRQRAR RRR
+
+RARRRRRRORHRRRHKLHRHHRHTHRLLHLKS
+
+QUAL
+COEFF
+
+7444
+592
+-778
+»842
+
+748
+
++333
+617
+687
+481
+~582
+698
+-589
+-58o
+595
+
+291
+
+-356
++431
++715
+741
++432
+484
+393
+
+469
+
++333
++288
+~689
+~545
+388
+
+ny
+a
+RQ
+
+SHIFT SHIFT
+H13
+
+-#.9
+
+1
+R
+n
+
+ROVOMWWWRRWRANVWVHTEO He TNO ee NOOO Re
+
+'
+Re RQRRQe- RAQQ
+
+Pbtembeg tet
+
+NN eee eR BRE Re NRE RE RRO
+
+bPouraa
+
+tras
+BNR
+Honan
+
+-3.1
+“2.4
+-2.2
+“2.4
+-2.8
+“1.4
+-1.2
+-1.3
+
+bbeet
+RRARSD
+NPT OANWEWRRMNDE NK RWWWOIDROAKHN HM aNReRaWHINRNOWOMWWA re
+
+ga.
+
+'
+R
+
+Qe QageRQsR
+
+NRRnnnnoner
+
+a
+
+t
+
+ho
+RRQ QVNAR
+NON ee
+
+4 bu
+Be RRQ
+
+QeeKKeENWUHTeWNWADVNUNWUDeWWeaey
+
+DO ENN EN BNE WWUODERNNODRONWWE | FQHAMNRDNQWWWDOUNWUUOD
+
+FN ee ee te eee ee ee ee ee
+Det tk eh pet tk at fk kt ame kk eS kk kh ek ket tet ak ak ake ee eet fee peek ek pe ee ek ee pe ee
+QWKWUYEEaEAATUATIAT AUN HOReRW Ee aWNNENNNNND
+
+NANNNNNNANNNNNNNNNN Se ee eee
+
+RRRANENHKD
+
+TOOL
+PAZ1
+
+13
+
+De ee ee ne ee
+RRQNWWUWNNNEQRRNAM
+
+eee
+PENNE
+
+18
+
+me
+me Quen
+
+TOOL
+RELB
+
+AR OSTA eRAe STAC ees seas Sse ees e sss Sees eee see cases esee
+
+$8
+$9
+59
+62
+64
+63
+6a
+$9
+$9
+s3
+59
+6a
+61
+61
+61
+62
+61
+6a
+Sg
+
+WWWWW WO
+Dee eee te ee ee
+NeENeE MA
+
+ores nw -
+
+DWDOOWOOVUOONDODDHOODDOOODNNHYVYUNYIMNANAKNNTANNGONTIHe
+Own
+
+HNO QRWUWEDRKENHMTQVANWNNWDWDOY AMMO D
+
+KEeENnwe
+
+Cem ee
+
+NWR DOVNVNR TE RWOY VRE DD
+
+RRRENN KK RQEL ERE RNNN ERE EN ENN ENE ENN eee
+
+PebEhEHhE DRS EAD EE HERRERA PARARRAREAD REAR ERREEEADEAR ERD
+Ree eee Nee
+
+G2) 0 09 0) 9 WO) Wo WW WW WW 0 0) WW WW) WW 0) WW dW Wd)
+WWWUDWN-ONUN DON TNOD=QHOYVYONANE DON QeWORQEWNUTYWOUIN OOK
+
+ae tak te kk tk ee ee me ee tek ee ee te ttt be ee et bet et tee ee te et
+
+He Rae
+
+ 
+
+RESULTS LISTING - PAGE
+"CORRECTED
+
+AZ
+
+eecses Reece tees sesesseeeescas
+
+187
+189
+123
+122
+274
+
+78
+
+ao
+133
+142
+138
+151
+135
+141
+
+Ss
+223
+
+228
+146
+135
+169
+167
+175
+
+58
+117
+149
+189
+184
+183
+
+86
+
+87
+213
+162
+159
+148
+165
+282
+168
+164
+161
+163
+171
+156
+141
+146
+137
+164
+151
+152
+179
+
+ 
+
+STRUCTURAL
+
+BRRRARRARRESE
+
+BRRRRRRRTRRARRT RATS RATES SVEAAgRge
+RSRRRRRRTRSRVVRRPPPSPVVST LSA VVATAPA THR LHR LSE HFRQKLLQRAAT
+
+RRVVRVQVQSRHRRRRVLSHRFLHRRHLRRVRAHPHRRHNRR VST RLHVRVQRVQHQRR
+ 
+
+ 
+
+mmm HmeeeHHEm HEHE eH He HE Eee Eee ee
+RESULTS LISTING - PAGE 22
+
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS DIP AZ COEFF H13 H24 C13 c24 PAZt RELB DEVN DIRN DIP AZ DIP AZ
+8706.88" 8763.49 9.6 194 #.616 -1.7 -1.3 11.7 13.1 1g 59 4.9 311 9.6 194 5.8 g
+8788.88 8785.48 16.4 166 2.644 -3.8 2.6 11.5 12.6 18 58 4.9 312 16.4 166 2.2 g
+8718.28 8787.48 13.9 165 2.722 -2.4 B.4 11.5 12.4 9 58 4.8 311 13.9 165 5.8 g
+8712.88 8789.47 13.1 165 @.621 -2.2 8.3 11.3 12.5 8 57 4.8 311 13.1 165 BB g
+8714.88 8711.46 8.8 143 2.728 -8.8 B.6 11.2 13.2 9 58 4.8 311 8.8 143 2.2 g
+8716.88 8713.46 51.4 226 ®.719 -13.1 -12.7 11.3 14.3 11 59 4.8 312 $1.4 226 8.8 g
+8718.08 8715.45 28.2 295 8.473 1.7 -7.2 11.4 14.3 12 61 4.8 311 28.2 295 2.8 g
+8720.88 8717.44 21.8 294 8.397 1.7 -7.6 11.3 14.28 12 68 4.8 312 21.8 294 £8 g
+8722.88 8719.43 55.7 162 8.428 -14.8 8.4 11.1 13.9 3 57 4.8 312 55.7 162 2.8 g
+8724.98 8721.43 $4.3 44 B.219 14.5 12.6 11.1 13.7 .§ 53 4.8 312 54.3 44 2.8 B
+8726.88 8723.42 58.7 148 B.217 -14.9 12.3 11.2 14.1 2 5g 4.8 312 58.7 148 2.8 g
+8728.88 8725.41 44.9 84 8.538 2.3 14.9 11.4 15.1 2 49 4.8 313 44.9 84 2G g
+8738.08 8727.41 41.1 182 2.394 -1.3 13.1 1n.5 18.7 1 49 4.8 312 41.1 182 2.28 a
+8732.88 8729.48 23.8 118 B.635 -1.3 5.9 11.6 18.7 359 48 4.9 311 23.8 118 Bf g
+8734.08 8731.39 13.9 185 8.61) -#.2 3.8 11.7 18.9 356 44 5.8 312 13.9 185 5.8 g
+8736.88 8733.38 6.8 181 ®@.583 -#.5 -1.3 11.7 16.1 352 4g 5.8 312 6.8 181 2.8 g
+8738.88 8735.38 8.6 163 8.346 -1.8 -8.7 11.5 16.1 348 37 5.8 311 8.6 163 2.8 g
+8748.88 8737.37 44.8 386 8.286 11.8 -13.9 11.4 16.2 347 36 5.8 311 44.8 326 2.8 g
+8742.98 8739.36 31.6 38 8.341 6.1 7.7 11.4 16.1 347 36 5.8 312 31.6- 38 2.8 g
+8744.88 8741.35 18.8 199 @.269 -t.1 -2.2 11.3 16.2 345 34 5.2 311 18.8 198 9.8 g
+
+8746.88 8743.35 9.7 183 2.457 -1.1 -1.9 11.4 16.2 341 29 4.9 312 9.7 183 8.8 g .
+
+8748.88 8745.34 8.7 182 ®.568 -#.8 -1.8 11.5 16.1 338 26 4.9 312 8.7 182 8 g -
+8758.86 8747.33 7.5 295 2.489 -8.2 “2.4 11.5 16.1 338 26 4.3 312 7.5 285 B.8 g
+8752.88 8749.32 7.6 171 8.267 -8.7 -1.2 11.4 16.1 339 27 4.9 312 7.6 171 2.8 g
+8754.09 8751.32 7.8 178 8.398 -8.8 -1.1 11.5 15.9 341 38 5.2 311 7.8 178 8.8 g
+8756.88 8753.31 9.8 163 8.687 -1.1 “8.7 11.6 15.8 345 34 5.8 311 9.2 163 8.8 g
+8758.08 8755.38 9.8 154 @.632 -1.3 “2.1 11.9 16.2 361 39 5.2 312 9.8 154 £.2 g
+8768.89 8757.29 18.2 138 B.747  -1.1 g.8 12.8 16.1 355 44 5.8 311 18.2 138 2.8 g
+8762.88 8759.29 8.6 125 @.785 -8.4 8.9 11.7 15.3 357 46 S$. 381 8.6 125 2.8 g
+8764.08 . 8761.28 18.2 181 2.682 2.3 1.8 11.5 14.5 359 47 5.8 312 18.2 181 8.8 g
+8766.98 8763.27 17.8 196 ®.41B -3.1 -2.3 11.5 14.2 1 49 5.1 312 17.8 196 a. g
+8768.08 8765.26 16.5 286 2.534 -2.9 -3.0 11.7 14.4 3 52 5.1 312 16.5 226 8.8 g
+8778.08 8767.26 18.5 284 .495 -1.6 -2.2 11.6 14.8 4 $4 5.1 318 18.5 224 8.8 gx
+8772.88 8769.25 5.2 217 2.287 -@.3 “2.8 11.2 14.5 4 S4 5.1 318 5.2 217 8.2 g
+8774.88 8771.24 12.4 61 2.377 2.1 1.9 18.9 14.1 3 $2 5.1 311 12.4 61 a.2 g
+8776.88 8773.23 3.1 188 B.4G1 2.8 -1.2 18.9 14.1 2 $2 5.1 318 3.1 188 6.2 g
+8778.68 8775.22 49.6 325 8.317) 13.7 -14.7 11.8 14.5 4 54 5.1 318 49.6 325 8.8 g
+8782.88 8777.22 3.4 38 8.712 .7 -B 22 12.8 14.5 6 $6 5.1 318 3.4 98 2.8 g
+8782.88 8779.21 2.1 186 8.691 8.5 -8.6 18.3 13.9 6 55 S.1 311 2.1 186 2.8 g
+8784.29 8781.28 2.9 188 8.528 B.6 -B.3 9.9 13.4 5 54 5.1 311 2.9 198 2.8 g
+8786.88 8783.19 5.8 88 8.4121 8.7 8.2 18.8 13.4 6 56 5.1 318 5.8 88 8.8 g
+8788.88 8785.19 61.4 182 8.281 -8.8 24. 18.3 14.2 3 59 5.1 318 61.4 182 8.8 g
+8798.89 8787.18 3.7 216 B.414 -1.4 -2.5 18.58 14.9 1g oe 5.1 318 9.7 216 8.8 a
+8792.89 8789.17 3.6 16g B.448 8.8 -8.6 18.7 15.1 93 $9 5.1 318 3.6 188 8.8 g
+8794.88 8791.16 4.9 165 2.438 -8.4 -2.7 19.8 15.1 5 56 5.1 309 4.9 165 8.8 g
+8796.88 8793.15 8.1 178 8.308 -1.1 -1.8 18.8 15.8 1 52 5.1 311 8.1 178 8.8 g
+8798.88 8795.15 7.6 162 8.737 -#.9 -8.5 12.8 14.8 357 47 §.1 318 7.6 162 2.8 g
+8820.90 8797.14 6.8 181 2.718 -B.7 -1.2 19.9 14.8 357 46 5.1 311 6.8 181 8.8 g
+ 
+
+OEPTH
+MEAS
+
+ 
+
+8882.68
+8804.88
+8896.88
+8808.20
+8818.89
+8812.99
+8814.98
+8816.09
+8818.80
+8820.89
+8822.88
+8824.99
+8826.69
+8828.89
+8838.88
+8832.88
+8834.88
+8836.92
+8838.09
+8842.08
+8842.08
+8844.00
+8846.08
+8848.89
+8850.88
+8852.08
+8854.00
+8856.88
+8858.99
+8860.88
+8862.99
+8864.88
+8866.08
+8868.88
+8878.89
+8872.88
+8874.88
+8876.89
+8878.99
+8880.89
+8882.88
+8884.98
+8886.99
+8888.08
+8898.09
+8892.08
+8894.88
+8896.88
+
+DEPTH
+
+8799.13
+8881.12
+8883.11
+8805.11
+
+8827
+88a9
+8811
+8813
+8815
+8817
+B819
+8821
+8823
+8825
+8827
+8829
+8831
+8833
+8834
+8836
+8838
+8848
+8842
+8B44
+8846
+8848
+
+8852.93
+8852.
+8854.
+8856.
+8858.
+8862.
+8862.
+8864.
+8866.
+B86.
+8872.
+8872.
+8874.
+8876.
+8878.
+8888.81
+8882.
+83884.
+8886.
+sess.
+889g.
+8892.
+
+COMPUTED
+
+DIP
+
+Bosssgensesssesccece
+
+ww
+WHOA
+
+WWUWURURAUMADDAWUONNODOWUUTRENOVE UNWIN VHRAADoORe Tae H9aeeo
+
+14,
+
+ee
+
+ee ee
+SWUWReK Des se won annna
+
+ee Bee ON He Aw
+ANNENVNRN OA
+
+QNHNaendonng7
+
+a
+
+AZ
+
+188
+247
+217
+
+63
+
+QUAL
+
+COEFF
+
+BSS OSS SSS RSPR SSSA ROSS SS PERO E SS OPS SSRIS RESET a TOSSES ReA ESAS cas eas seesassas
+
+8.542
+9.416
+#446
+2.224
+2.313
+8.396
+9.581
+8.321
+8.283
+8.312
+8.389
+2.787
+B.447
+8.394
+8.529
+@.536
+2.532
+2.698
+8.668
+2.589
+8.337
+9.557
+8.712
+8.654
+8.468
+8.481
+2.482
+B.584
+#.552
+8.145
+#.219
+2.288
+2.498
+8.544
+8.424
+3.168
+8.275
+8.534
+8.925
+2.623
+2.824
+2.737
+8.635
+%.567
+8.689
+8.568
+B.454
+2.292
+
+SHIFT SHIFT
+H13
+
+~2.7
+
+rertta
+
+RAQeEVRHRQer GEREN TN
+NOOSNNIEQeEUTYHwwQe~a
+
+at
+mR
+wo
+
+wet
+Qe
+aw
+
+-1.6
+
+bores
+QRAQe
+NW OTUNG
+
+-2.6
+
+cr.
+a
+
+eee ee
+QBQQe ewes
+
+NNWNWERENRR
+
+WN TEKH DH WWOUWWHOEONWUUNUNONN a VR RRWaWRAMN HUNK VOWRWO
+wo
+
+on
+
+wo
+
+ia
+Leet
+
+fee et te oe
+RRRRAQR
+Danenang
+
+RRKK-QQQRQANvVSERRy
+
+Det ee ee ee
+
+} ta
+
+eee
+KHRQEWUINTANONNNDE ROWODWDNWVERYN HWY VE QVONMEANDOWOWEAH
+
+ine
+
+ANGRAODHROGNWRQWHVWOWVWW Wee NIDNATOEA AHN NENROVWAR
+
+RODUDO REE EER RODURR RE Hebe Eee ee REE Ree RR eee eee
+
+ete Nk ak tak ee a kee pa Bake tak ke th tet pe bak tk ht Pk Bak pe bes kth ete pee ek ee pee fk es pe ee
+NNWWNN EWE ee PERN NWWWN AN ERE NNN NN INN PON WW WW & O1U0IUI U1 &
+CD be ee TTT 1 oe 0 0 0 0 TT on FT TT
+
+NEW RRWHRE-WNQEK Cae Ee RK RRRRQu
+
+ee ee
+
+WELL
+DIRN
+
+311
+311
+318
+318
+318
+329
+
+389
+389
+
+Wu
+=m Q
+HmRwo
+
+WWW WWW WW WOW WWW WWW WWW WWW WWW WW WD
+Pe me et ee ee we et ta fat et be tae et ca ek Se ke et ee ee tat bt bee et et ee et tt ee et
+PATER EhWWWWWWWWWERERWHWWWWNNNN ER NN ERE Ree
+
+aw
+
+ee Wee
+QeKQes er wv gan ano won nonwwoenay
+
+eee
+
+eee ee
+
+me aw
+
+Pen
+RAQEMOVWVIANNE NVANDRAWY
+
+ne
+
+WWURWVRQANMNDGRWONUNDWWUOMTRENODYURE NNW ENNREADORE NaH Dee
+
+a
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED STRUCTURAL
+
+AZ
+
+288
+173
+168
+189
+151
+146
+144
+169
+249
+
+- 268
+
+244
+177
+169
+135
+165
+161
+
+“155
+
+141
+
+$7
+156
+183
+157
+163
+169
+172
+115
+114
+197
+148
+147
+145
+138
+164
+191
+238
+137
+142
+147
+138
+139
+136
+
+136
+188
+247
+217
+
+63
+
+ 
+
+BRRSRRRARTETTRVRVVVS RQ RR RR HRRRRRRRRRHRRSRHHKLTLRL
+RRRESRERKTHRDARYTRVTPARARRVRRRATSETSRARHVNAHHORKSHRHRRBRBRRVK
+BSVVMRVRMQARRRKRARRRAQRSRRRRRRTTTTRARRVARRHRHHHSLKHHRVAARH
+ 
+
+DEPTH
+MEAS
+
+momecssasasaas
+
+8838.98
+8988.88
+8982.88
+8984.28
+8986.98
+8988.8
+8918.98
+8912.98
+8914.80
+8916.88
+8918.88
+8929.88
+8922.88
+8924.88
+8926.88
+8928.88
+8932.98
+8932.98
+8934.98
+8936.89
+8938.98
+8949.88
+8942.88
+8944.98
+8946.88
+8948.98
+8958.88
+8952.98
+8954.89
+8956.88
+8958.08
+8968.88
+8962.80
+8964.88
+8966.88
+8968.88
+8972.88
+8972.88
+8974.88
+8976.88
+8978.98
+898g.88
+8982.88
+8984.88
+8986.98
+8988.98
+8999.99
+8992.99
+
+DEPTH
+
+8894.76
+8896.75
+8898.75
+8988.
+8992.
+89g4.
+8986.
+8988.
+go1g.
+8912.
+8914.
+8916.
+8918,
+8928.
+8922.
+8924.
+8926.
+8928.
+8938.
+8932.
+8934.
+8936.
+8938.
+as4n.
+8942,
+8944,
+8946.
+8948.
+8958.
+8952.
+8954.
+8956.
+8958.
+8969.
+8962.
+8964.
+8966.
+8968.
+8978.
+8972.
+8974,
+8976.
+8978.
+8982.
+8982.
+8984.
+8986.
+8988.
+
+COMPUTED
+
+DIP
+
+51.2
+12.8
+25.8
+
+nN
+a
+N
+
+WNN -
+
+eee
+
+RNR EN eee
+HM WOU MOWONOCTE ANAND ERUANNWMYNEWUNWHYWWN DONWON DON
+
+Nee
+
+WNWDOOAREREENWWNN EH DEM NRQWNNKODERUNYH WDANANVEONEANH
+
+ren
+
+AZ
+
+61
+148
+136
+139
+242
+238
+217
+243
+161
+144
+144
+188
+186
+184
+137
+174
+164
+123
+132
+142
+133
+135
+323
+213
+177
+
+62
+
+83.
+
+138
+
+124
+128
+127
+163
+172
+168
+154
+128
+161
+167
+162
+135
+141
+199
+282
+398
+2e2
+
+98
+189
+125
+
+BRBQMRARRQRRRRRHHLKRKHVRRRKRKTRTRRRKRRFRRVANRLAVRKVRRKRRQKQK
+
+QUAL
+COEFF
+
+So See ones g eee ss s95 = Sees ses ee eos es See EE ee eA POSES eee eee Sees eee sees SSeS
+8.243
+628
+
++719
+-668
+
+671
+
+589
+-643
+- 883
+-865
++845
++477
+~513
+441
+«754
+
+839
+
+652
+528
+748
+-378
+-438
+-368
++339
+384
++219
++551
+
+573
+
++332
+393
+387
+-356
+487
+486
+«S11
++249
+227
+527
++615
++368
+232
+-578
+-552
+576
+458
+-661
+-288
+~381
++342
+
+SHIFT SHIFT
+H13
+
+18.5
+-1.2
+-2.5
+-2.3
+-1.2
+-1.1
+“1.4
+-2.3
+-8.8
+-8.6
+
+'
+g
+n
+
+va
+
+' vo
+BWORMNIVODENUOHWORK WRENN
+
+NWRRRRQ-RRWKQ-QKNHRVRRKRQSNQ
+
+tat
+fem
+PRw
+
+“8.4
+“8.4
+~8.8
+-B.4
+-1.6
+-2.7
+~2.2
+
+ba ‘
+BRaann
+ONN We
+
+”
+
+Lot
+
+t
+
+UN
+
+HNN NNO OH BRRQEWRANRENHKREREKNNE H- RERRNUNNRRQRWEYENEEHEYW
+
+MROQWWNWAN DED WHWRUTIOWOU ENDER QYNE EDN EWMONDNNNWONEOHW
+
+CALIPERS
+C13 c24
+11.1 14.2
+18.9 14.4
+18.8 13.1
+18.6 11.5
+18.5 18.8
+19.1 18.3
+9.8 18.2
+9.7 18.2
+9.8 18.3
+18.8 18.5
+9.9 18.4
+9.9 18.4
+18.2 18.8
+18.6 11.3
+18.7 11.8
+18.9 12.3
+11.2 12.5
+11.2 13.4
+11.1 14.4
+11.2 14.4
+11.3 13.6
+11.1 12.9
+12.3 12.4
+18.7 12.4
+12.8 12.8
+18.9 12.8
+18.5 12.1
+18.1 11.7
+18.2 11.7
+18.3 11.6
+19.2 31.4
+18.3 18.9
+18.3 11.6
+1g.4 13.8
+18.4 13.7
+18.6 13.3
+18.6 13.2
+18.8 14.8
+11.8 14.8
+11.1 14.4
+18.9 13.7
+18.7 13.6
+18.6 13.8
+18.7 14.8
+18.8 14.2
+19.6 14.4
+ig.4 14.6
+18.3 14.6
+
+TOOL
+PAZI
+
+Ree
+
+een en rae
+ARH NWOWEMNMNWRYVOe- OVNKWHUNW NW
+
+358
+358
+348
+351
+356
+356
+354
+351
+
+TOOL
+RELB
+
+57
+57
+61
+68
+72
+73
+72
+71
+71
+72
+69
+67
+62
+57
+53
+51
+53
+56
+$3
+59
+S7
+
+ROLRQOUUVRRVOOOVWKOUOFUODUOOUOODOTDORRRRERRmaReenre
+
+HaeaTHea Sb. aoe. Sa ap opeahbeaebaaeababhaaAe eR ARNT HMNOOMH
+
+ 
+
+y |
+nmr HHmmmOmrlUMUmErLhLlUCUameELlCU OeCUlUemeellCemeeleeee ees
+
+WELL
+DIRN
+
+314
+314
+314
+314
+313
+313
+314
+314
+314
+
+wo
+ee
+ae
+
+WWD WWW WWW WWW WWW HWW WWW WWW WWW WWW WWW WW
+De ee ee ee ee ae et et te at tt tk et tee eee gt te et
+ANAHMTADKNAHe MOAT AINIAAIIHADAAHAIAKHHVNHHHAAHO Ss
+
+ 
+
+RESULTS LISTING - PAGE
+
+CORRECTED STRUCTURAL
+
+RR
+
+WNnN
+WWWWNEDNWWON DONO
+
+me
+
+ANE Ny
+
+RRRERRERERSERERRTSRAARRARSERRTVSVPVSVss eSPVRoaggggayg
+
+Nw nee
+
+MH WOW ANDWONOURK ONE AME ONNWUA!
+WNWW ROP ERRQENVWNINE DEE NOQWNNVYODERUNWEWDARRHVRUNEANHDUNODN
+
+RRRARRVRRRKHRRRRRARRRRKRHRRSTSRRRRVRRRHAHHRHHRTHRRVHRKLY
+RQRSQRROHMHH HR RKRRVRRVVS ATRRRVRRQRRRRRRRRRVRVRAQVWARKH
+
+eee
+ 
+
+DEPTH
+MEAS
+
+8994.99
+8996.88
+8998.98
+9998.88
+9862.89
+9884.98
+9806.28
+9888.28
+9918.99
+9812.88
+9914.98
+9816.89
+9818.99
+9829.89
+9822.80
+9824.88
+9826.88
+9228.88
+9930.88
+9832.88
+9934.89
+9836.88
+9838.88
+9848.89
+9842.98
+9844.88
+9246.88
+9248.88
+9852.89
+9852.88
+9854.88
+9056.88
+9958.98
+9860.88
+9862.08
+9864.98
+9866.28
+9868 . 28
+9878.88
+9872.88
+9074.89
+9276.88
+9978.88
+9888.88
+9882.88
+9884.88
+9986.98
+9988.48
+
+DEPTH
+TvD
+
+weesressssaeseeseessscs
+
+8998.49
+8992.48
+8994.39
+8996.38
+
+-8998.38
+
+9888.37
+9882.36
+$984.35
+9986.34
+9888.34
+9819.33
+9812.32
+9814.31
+9916.31
+9218.38
+9828.29
+9922.28
+9824.27
+9826.27
+9828.26
+9839.25
+9832.24
+9934.23
+$936.23
+9938.22
+9848.21
+9842.28
+9844.20
+9846.19
+9848.18
+9852.17
+9952.16
+9954.16
+9956.15
+9958.14
+9868.13
+9862.12
+9864.12
+9866.11
+9968.18
+9879.89
+9872.88
+$874.88
+9976.87
+9878.86
+9888.95
+9882.85
+9984.84
+
+ 
+
+4
+2
+2
+1
+1
+2
+1
+1
+4
+1
+t
+
+4.
+8.
+ga.
+1.
+8.
+93.
+6.
+7.
+1.
+2.
+1.
+9.
+2.
+S.
+S.
+5.
+9.
+
+1
+5
+2
+4
+4
+6
+4
+g
+3
+4
+8
+6
+5
+9
+1
+5
+7
+ol
+2
+3
+3
+3
+g
+1
+9
+3
+8
+9
+2
+i
+3
+g
+B
+4
+“5
+7
+-6
+5
+2
+4
+8
+1
+1
+4
+8
+9
+5
+7
+
+Neen
+
+Bee eee
+
+CL OVIN Ge Ot ee ee ee
+
+WWNWWE
+NER WRE NOR WE UR RE RE HUDHe&Qangvyiw se Qn
+
+COMPUTED
+
+AZ
+
+296
+288
+2398
+179
+191
+
+227
+228
+213
+142
+
+88
+123
+126
+138
+148
+159
+138
+
+52
+158
+
+186
+138
+324
+144
+169
+353
+
+89
+12
+
+RRVVAQPRHTRARHKVRRHRTRRRVRKL TST RBRRQNHQNRAPHRRARHHLNRVARS
+
+QUAL
+COEFF
+
+seecoesesc=
+
+181
++724
++627
+-558
+488
+«219
++523
++638
++237
+286
+538
+-585
+186
++528
++421
++269
++285
+-258
+388
++637
+-629
++295
+-718
+- 483
++345
+-614
+449
++619
+«473
+481
+693
+557
+- 366
+597
++288
++286
++377
++226
+-218
+-383
++448
+-566
+254
+468
++334
+764
++752
+»815
+
+SHIFT SHIFT
+
+ 
+
+RPE RE DNUTIRRYHUIAREEK KE NNNNE RK WWE RNNRRMERRUNAYWAW
+
+marine
+
+8.
+2
+2
+1
+2
+5
+g
+g
+8
+1
+g
+1
+1
+2
+2
+4
+5
+g
+1
+1
+1
+1
+2
+
+DORK RK UND STVYENVVYVRONIOWR YHOO
+
+t aad
+RNN
+nN s
+paaud
+ARON MRT WWOR- aN WNIDUORRROMONAWREARHAW a THROM RQw
+
+UWE WRANWH KH aNTWOReWVUHnRwW
+
+—
+
+i
+Pb pete
+KH DONNOANRSEARN RANK RHQ
+
+'
+ee
+
+CALIPERS
+
+C13
+18.3. 14.7
+18.5 15.2
+18.8 15.5
+18.8 15.3
+18.9 15.1
+18.7 14.7
+18.7 14.7
+18.8 15.1
+11.8 15.6
+11.8 15.8
+11.0 15.1
+18.9 14.5
+12.8 14.8
+12.8 14.7
+18.7 14.1
+18.4 13.3
+19.2 12.5
+19.2 12.4
+18.3 12.8
+18.5 12.8
+18.6 12.7
+19.6 12.7
+12.5 12.5
+18.6 12.6
+18.9 13.1
+18.8 13.7
+18.4 14.5
+9.9 15.2
+9.6 15.8
+9.6 14.5
+9.5 14.1
+9.4 14.1
+9.6 14.2
+9.6 14.6
+9.7 14.9
+9.8 14.5
+18.2 14.3
+18.5 14.3
+18.1 13.6
+18.8 12.9
+18.20 13.8
+18.4 14.3
+18.6 15.2
+18.2 13.9
+9.9 12.7
+18.3 12.6
+1.20 12.1
+9.6 11.3
+
+TOOL
+PAZ1
+
+352
+354
+356
+356
+354
+353
+355
+359
+
+re
+
+~
+DHWWWWRA KK VWEREWNNUDWDOUWRVORORRWVUIARDOOHMNAN
+
+eee eee
+
+TOOL
+RELB
+
+Seausoseesessssegsseeseeseseass
+
+35
+38
+4g
+48
+39
+338
+4g
+44
+48
+
+aaRos
+
+mm RR RRREEERE EEE ENE ERR EEE EE eRe ORR RERRRRRRE
+
+KAKU AAIAITHAGHINTTATTMNNKHAAKTANTKNKHHNKHGKNGnn Ooo
+
+WELL
+
+Le
+
+317
+316
+316
+316
+315
+315
+315
+315
+
+ww
+Pe
+or
+
+WWWWWWWWW
+Peete eee
+Pababanoam
+
+SNE MAAKHIAKRH
+
+WWWWWWWWHUWW
+Ree ee ere eee
+
+ 
+
+ 
+
+ 
+
+Qe ey He meee ENN S
+
+NeW QE NOE WET Kee DUNDMSQQAMVVUTRQWOUTORQROENENHOTE See
+
+ee
+
+DONE Te ee eee
+
+WWNWWH
+NOU Dae HOE NTAVNUINRRVENWVDWO RE BWWWN ENO DRM aWRane reno
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+228
+213
+142
+
+88
+123
+126
+138
+148
+188
+138
+
+158
+
+Sa
+186
+138
+324
+144
+169
+353
+
+88
+
+83
+
+12
+
+ 
+
+STRUCTURAL
+
+BRQVQRQYS VRVRRVVRRR VNTR HST RAV VVRHKS FHV LST VHS SLHLY RRR
+RRRRVRVRPSIRTS RRL HKQQQVQANLNVQ QRS RERRRRRRHPRRRHRHHARRLRHRRRH
+RRRBRRVARRRARRRARARHKTARVRRKNRFRRRRRRRRRRRRKVHRVVRHRKRKRQLAA
+ 
+
+DEPTH
+MEAS
+
+musssossecoas
+
+9892.99
+9892.98
+9894.98
+9996.88
+9898.68
+9188.08
+9182.98
+9184.98
+9186.88
+9188.99
+9112.88
+9112.88
+9114.88
+9116.88
+9118.99
+9128.98
+9122.98
+9124.88
+9126.88
+9128.88
+9132.82
+9132.89
+9134.88
+9136.88
+9138.88
+9149.88
+9142.98
+9144.88
+9146.92
+9148.28
+9159.88
+9152.98
+9154.98
+9156.98
+9158.99
+9168.99
+9162.88
+9164.89
+9166.29
+9168.89
+9178.88
+9172.98
+9174.88
+9176.99
+9178.88
+9188.49
+9182.68
+9184.99
+
+DEPTH
+
+Tvo
+
+SHIFT SHIFT
+
+ww
+
+HeWRQRAHVD VON WNNNNWWWWWWEUNUOWNWORNDENYNVN NNO eww
+
+' f
+RRRQe- QQQRQAQTPRQL
+l '
+
+ee eee
+
+QRWOODOMDMHDNOVGCYDDODDDODDONDOMDMDODDNOUYOWKOWANW QRARen
+
+NN ODEN VON DUMNOMAMNOMKGTTTOOHA NOOO ANE WOW AU NW Oe ROME NHK
+
+(
+ve
+RAN  RRAUHMR- BRAVQQ
+
+AWW NWN WORWYEN RK ATONE TOD Oe RaW RP NE ONNN WWE OOUION EO
+
+a
+apes
+
+NEN WDE DTN V DENNOU GANTDRHWWNN WANN Oe ORNRE KE NEVANRNOWNDWEwW
+
+eee
+
+nye
+NOQNQOAQHASODDVOHDaWRWDONWWRUANE WWIMNWEEMEAYHWOR ENR
+2
+'
+
+WDWQMONQRWONWUHUUANENTDAIAH SARQNIHKANWWSEANRWNe Oe eye
+
+BPNNWe ee
+
+RR QRORQRN-RVRRRHRRRRQWWEE RQ eee NnHQee
+
+oe eee
+i
+H“RSQ- RRQ WNVHTRRQV - RDRRRRHQQEAQNRQa
+
+WOWWDDODDDUONONDDDDODDOHHOANDADDMOUMDMNWL-HHOHYULYUNUWUWD
+
+TOOL
+RELB
+
+mamesesaesessssseasas
+
+64
+62
+61
+61
+61
+61
+6)
+62
+63
+62
+62
+61
+62
+
+ 
+
+w
+
+ee
+
+eee
+
+NN
+NOHRQNQOHYHSVDHYNGOER VR WDONWWRUMDHEWWIHWEARNENHWORAWHU
+
+.
+a da
+
+©9 © 09 OD OD OD G9 0 OD OD 09 GD OO 0D OD 10 0 10 10 0 DR Rr re re DR
+
+PhaaRHaDAR EEE SEERA DSSS ASENNANTUNMMNNAHITANKNMHAMOHoOMoo
+
+WW WW WOW WW WWW WWW WWW WWW WWW WWW WW WWW WW 0 WW 0 0
+-
+
+NENWOEUVMN YOR THUNIVUNTNONWWYN WYN UE OO  ORNRE EN aVRNRNOWNWAW
+
+ke ek tke eee eee ee eet te bee te ee et et et ee eet tet et te ee ee tt
+NNN DAN ADAAAHNAHRAAAKADHHHDAHMIAHKHUIAHAARAHMNKHHAAHOMO ROMS & UI
+
+ 
+
+RESULTS LISTING - PAGE
+
+CORRECTED
+
+AZ
+
+99
+118
+297
+185
+185
+184
+195
+182
+139
+119
+142
+
+54
+
+Pee Ree tee
+WHEDON Wwe ee
+ONRHWNOND
+
+ 
+
+STRUCTURAL
+
+BRRVRQRRVRRRRRRATRVQRARKRRRRLRRRVRRKRRAVVRRRRKTHRVRHHKRRRVNA
+RRVRSVAODARSRRKVRLSRARRRVRVRVRRQVNRRRVRAHAVRVRHKHKRKLQNVSHHTVAyny
+RRQVRRARARRVRRAQAKRQLRRVSRRARRRRKRRRVRRVBAVQRKRLNVNHHKRLQHQNS
+ 
+
+DEPTH
+MEAS
+
+9186.88
+9188.60
+9198.88
+9192.88
+9194.88
+9196.88
+9198.88
+9288.88
+9282.88
+9204.98
+9286.08
+9268.28
+9218.88
+9212.88
+9214.88
+9216.88
+9218.88
+9229.29
+9222.88
+9224.88
+9226.28
+9228.08
+9238.88
+9232.82
+9234.88
+9236.89
+9238.88
+9248.88
+9242.08
+9244.88
+9246.08
+9248.98
+9258.08
+9252.88
+9254.28
+9256.88
+9258.98
+9268.28
+9262.08
+9264.08
+9266.88
+9268.88
+9272.88
+9272.88
+9274.88
+9276.88
+9278.28
+9288.88
+
+DEPTH
+
+9181
+
+9183.67
+9185.66
+9187.65
+9189.65
+
+9191
+
+9193.63
+9195.63
+9197.62.
+9199.61
+
+9281
+
+9283.68
+9205.59
+9287.58
+
+9289
+9211
+9213
+9215
+9217
+9219
+9221
+9223
+9225
+9227
+9229
+9231
+
+9233
+
+9235
+9237
+9239
+9241
+
+9243.45
+9245.44
+
+9247
+9249
+9251
+9253
+9255
+9257
+
+9259.
+$261.
+9263.
+9265.
+9267.
+9269.
+9271.
+9273.
+9275.
+
+an
+
+-
+
+n
+NATGHK aWRUADONTDOHOHAH
+
+Ne
+
+~
+NN RQWR ON EWETNWNWAHDUDOYVNNUNDOUNHOM
+
+an
+
+BNW WE aE DIHNDOHODYWANAKDEOMNWNVNRWAVNK RANT ERONEWHNRS
+
+COMPUTED
+
+AZ
+
+155
+114
+359
+348
+125
+134
+128
+132
+134
+112
+189
+152
+145
+119
+
+36
+129
+135
+165
+127
+129
+128
+
+RRSRRRAHRTRSPQRARRTRRRRRRL RHP HH RLRHHRVRRSRR
+
+ 
+
+mr mmeeHmReeHReEeHEmRemReewehlhlUmDlUlUlCUeellCee eee eee lel
+
+ren tn a te tie
+
+verano tee epee tk a sa
+
+QUAL
+COEFF
+
+Beesrac cre sess eee aseseeesenssssasss
+
+-616
+571
+«387
+«334
+684
+-632
+639
+736
+718
+-717
+666
+788
+641
+~724
++848
+-491
+645
++635
+885
++653
+«753
+~88t
+~674
+-691
+-616
+
+ 
+
+RESULTS LISTING - PAGE 27
+
+CORRECTED STRUCTURAL
+
+ 
+
+Ragmessessssssssoesessseass
+
+ 
+
+_ '
+et
+Hoe
+SH RQRH WON ERT NRVEMTOERRONUY Re Dae NTUOH OH NNODRUHM aha
+w
+n
+an
+
+-
+
+WWW W
+eee
+NANN
+
+RQRRRAQQQNVN SSH
+
+6.
+6
+8
+6
+8.
+6
+2
+3
+8.
+6
+5
+4
+3.
+4,
+1.
+
+ee ee
+
+teu
+eee
+Now N
+
+RRAANRRARMRRATRRRKSTDR
+
+eo
+RRRARORK - RBRRRARRARRRVARARKHKQKTR
+mee
+
+I
+'
+RRR ENWOUN HON RRA HK WOU KRU OUDUH HK RUNN OR RRRERROUERE
+RRETRRRPAVARLsS OSS RPA Rega g’aaaggagQgaSogaagaavsaan
+
+RRARARHK “-QAQVQVBRQQRQV RV HH ARHHVQV- HHLR
+
+RAEUNNENN SWE ENN RVSVRREE RM RUTIQEUMN RROWVENESNN ESV N BOT
+
+4
+
+GOOGEE OWN RNUNWWN WO WON RN OO RDN OO & RENN OOO WO Oe we
+
+SNWH UE SE DAH DAIHAHAUWHANHAKNHTNTWNYRWYNHYN RE RANUTERUONAWHRS
+
+_
+
+Ns RRRRHQUVUKYKVRRHOUOOWVUUUUUVYH HU RRVVOVIODODOON WYN
+
+eee
+WUDVDORRQNWWUOOROHNTDKVUAMDUNNDNVMDNDDANDMDONMNMNDOROOMWKUMWNADOWI
+
+te
+-
+a
+
+NN QWRTVROCEUNWWHYVOODYNNUMHODYARMANDUH
+
+AMOUUMHUVAMN aaa aUUNMN aa oeaeaEe Pee oRAERUUA Dea oa Ree e REE EHR ED
+RRRVVRRRRRPQRKLARWRHRRRRRRRKRRRRERKRVRRHPRRHHRQNQNHRVR
+RRRRRQRSRVRARPTVRVHRHRRLRRRARRHKVRVRRRRSRQQVRAARHHRVKRRRRHQVA
+
+WW WW WWW WWW WWW WWW WWW WWW WWW WW 0 WWW 0
+ee ee ee ee te ee ee ee ee ee ett tt at et ee et et te et
+PaAUGMAHIWNAKHMAHVAAAHAHHAHAMHAHRHAHUIHA WN WS
+
+We ek ee ee ee ee ee
+ 
+
+ 
+
+ 
+
+ 
+
+ee ee ee ee eS
+- mie ed ~: * 2 eee te
+RESULTS LISTING ~- PAGE 28
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS Tvo DIP AZ COEFF H13 H24 Cis c24 PAZL RELB DEVN DIRN P AZ DIP AZ
+See ssc Sa se asec sae RS SSeS SSH HSER SS SSO ROS SSeS ERS SS RRS ESTES SERRA EE SSS Sees SESSA eos Bsoneeseaenaessesesss
+
+9282.88 9277.32 7.6 137 8.921 -#.2 g.5 9.3 18.6 27 73 5.2 314 7.6 137 8.8 w
+9284.88 9279.31 6.9 119 2.864 8.2 g.5 3.8 11.8 24 72 5.2 314 6.9 119 9.8 g
+9286.88 $281.31 8.1 132 8.864 -8.2 B.7 9.3 11.8 22 68 S.1 314 8.1 132 B.8 g
+9288.28 9283.38 1.8 87 8.925 a5 -2.8 9.3 18.9 21 66 S.1 315 1.8 87 o.8 g
+9298.99 9285.29 1.6 123 %.918 8.3 “6.7 9.6 18.9 21 66 5.1 315 1.6 123 £8 g
+9292.08 9287.28 18.1 55 #.845 3.4 1.3 9.4 11.2. 21 67 5.1 314 18.1 55 2.8 g
+9294.08 9289.27 28.8 51 8.768 4.1 1.5 9.4 11.9 21 66 S.2 315 28.8 $1 8.8 g
+9296.88 9291.27 12.5 148 8.387 -8.8 1.7 18.8 13.6 21 67 5.2 314 12.5 149 8.8 g
+9298.98 9293.26 9.9 145 8.672 -8.7 B.9 9.5 12.5 22 67 5.2 315 9.9 145 2.8 g
+9388.88 9295.25 7.5 137 8.563 -8.2 g.4 8.9 18.9 22° 67 5.2 315 7.5 137 8.8 g
+9382.88 9297.24 11.5 126 2.988 -8.2 1.3 8.8 18.2 21 67 §.3 314 11.5 126 B.8 g
+9304.88 9239.23 13.4 117 8.859 Bi 2.1 39.1 12.1 228 66 5.3 314 13.4 117 3.8 g
+9386.88 9381.22 6.9 122 8.424 B41 g.5 9.3 13.7 28 65 S.3 315 6.9 122 5.8 g
+9388.89 9393.22 6.4 il 8.388 B14 B.4 9.8 12.8 22 67 §.2 315 6.4 11t 8.8 g
+9318.82 9385.21 7.8 112 2.497 B.4 H.4 8.7 9.9 24 78 5.2 314 7.8 112 8.8 g
+9312.88 9387.28 6.6 1193 8.726 B.2 B.3 8.5 9.1 24 78 5.3 314 6.6 119 2.08 g
+9314.88 9369.19 6.6 125 8.559 B.1 8.3 8.5 9.2 22 68 5.3 314 - 6.6 125 2.8 g
+9316.08 9311.18 8.7 135 8.685 -8.3 8.6 8.6 9.6 28 65 5.3 315 8.7 135 2.8 g
+9318.08 9313.17 11.2 126 #.652 -8.2 1.3 8.9 18.2 18 64 5.2 314 11.2 126 Be a
+9328.98 9315.17 8.4 128 8.889 -8.1 B.7 8.9 9.9 is 64 5.2 314 8.4 128 2.2 g
+
+9322.98 9317.16 18.3 138 8.819 -8.5 g.8 8.7 9.2 18 64 5.2 314 12.3 138 8.8 g a
+
+9324.88 $319.15 18.8 148 B.711 -8.6 8.8 8.7 9.8 19 66 5.3 313 18.8 14% 2.8 a ~
+9326.88 9321.14 22.7 83 2.299 2.4 3.2 8.7 9.1 2g 67 $.3 313 22.7 83 2.8 g
+9328.88 - 9323.13 18.5 111 8.297 B.4 2.7 8.6 9.4 21 67 5.3 314 18.5 111 8.8 g
+9338.88 9325.12 9.5 112 8.692 B.3 8.9 8.5 9.6 22 68 5.2 314 9.5 112 2.2 g
+9332.88 9327.11 9.1 111 8.661 B.4 8.8 8.5 9.1 23 69 5.2 314 9.1 1lt 9.8 &
+9334.88 9329.11 11.8 121 8.561 9.1 tel 8.4 8.8 25 71 5.2 314 11.8 121 9.8 g
+9336.88 9331.18 9.6 122 #.688 G.1 8.8 8.4 8.6 27 73 5.3 314 9.6 122 8.8 g
+9338.88 9333.89 5.7 112 @.887 a.4 B.1 8.5 8.6 293 76 5.3 313 5.7 112 2 g
+9348.88 9335.98 4.3 135 g.819 a. -8.2 8.5 8.6 31 77 5.3 314 4.3 135° 8.8 g
+9342.88 9337.87 8.1 132 2.758 -8.1 g.5 8.5 8.6 31 77 5.2 314 8.1 132 8.8 &
+9344.88 9339.96 7.6 187 8.757 9.5 B.4 8.5 8.7 32 77 §.2 313 7.6 187 2.8 g
+9346.88 9341.86 7.4 183 8.661 2.6 G.4 8.6 3.1 28 75 5.2 313 7.4 183 2.8 g
+9348.88 9343.85 43.5 311 #.371 3.8 -12.3 8.6 9.4 27 73 5.2 314 43.5 311 5.8 g
+9358.08 9345.84 9.8 134 2.534 -8.2 %.7 8.7 9.5 25 71 5.2 314 9.8 134 3.8 g
+3352.08 9347.83 8.1 131 %.882 -#.1 8.6 8.7 9.4 23 78 5.2 313 8.1 131 2.8 g
+9354.88 9349.82 9.2 129 %.759 -B.1 8.8 8.8 9.7 24 78 5.1 314 9.2 129 8.68 g
+9356.88 9351.81 5.9 113 2.723 8.3 H.2 8.8 9.7 26 72 5.2 314 5.9 113 £2.28 g
+9358.89 9353.81 6.8 112 2.982 G4 G.2 8.7 9.1 27 74 5.2 313 6.8 112. 6.8 g
+9368.98 9355.98 9.1 149 9.694 -8.6 g.S 8.6 9.8 26 73 5.2 313 9.1 149 a@.2 g
+9362.69 9356.99 7.7 144 8.834 -8.4 H.4 8.8 9.7 24 71 5.2 313 7.7 144 2.2 a
+9364.98 9358.98 11.3 1398 8.5899 -8.3 1.2 8.8 9.9 24 71 5.2 313 11.3 132 SB a
+9366 .@8 9369.97 4.4 131 9.568 | 8.1 -8.2 8.8 9.8 24 71 §.2 313 4.4 131 8.8 g
+9368.28 9362.97 6.5 136 2.821 -G.1 g.2 8.9 9.9 26 72 5.2 314 6.5 136 8.8 g
+9378.88 9364.96 7.7 134 B.946 -B.2 g.5 8.7 9.5 26 73 §.3 313 7.7 134 2.8 g
+9372.88 9366.95 7.9 125 8.812 2.8 8.5 8.6 9.1 24 72 §.3 312 7.9 125 2.8 g
+9374.88 9368.94 7.2 121 8.838 Bui B.4 8.7 9.3 23 78 5.2 313 7.2 121 8.8 g
+9376.98 9378.93 5.5 148 2.688 -H.1 8.8 8.7 9.4 23 78 §.2 313 5.5 148 S.8 ~o
+
+ 
+
+ 
+ 
+
+DEPTH
+MEAS
+
+9378.98
+9388.88
+9382.88
+9384.99
+9386.88
+9388.88
+9399.88
+9392.80
+9394.89
+9396.88
+9398.2
+9408.89
+9482.98
+9404.98
+9486.98
+9428.88
+9412.88
+9412.88
+9414.89
+9416.89
+9418.89
+9428.88
+9422.88
+9424.88
+9426.99
+9428.98
+9438.89
+9432.88
+9434.88
+9436.80
+9438.88
+9449.88
+9442.08
+9444.09
+9446.88
+9448.69
+9458.88
+9452.08
+9454.99
+9456.88
+9458.89
+9462.98
+9462.89
+9464.88
+9466.98
+9468.28
+9478.28
+9472.82
+
+DEPTH
+TVD
+
+92
+92
+31
+98
+89
+88
+87
+96
+86
+85
+84
+83
+82
+8t
+88
+79
+79
+78
+77
+76
+76
+74
+73
+72
+71
+78
+69
+68
+68
+67
+66
+65
+64
+63
+62
+61
+6e
+59
+58
+58
+57
+56
+55
+S4
+53
+52
+51
+Se
+
+VN aan
+TDENNAGHN VAD OMWWRNWUDEDDORADOWWNETANITINRE HUNAN ae |ow
+
+RKWNUAN ee
+
+-
+
+“
+
+NNEwW
+ANN HK ON DWOUOMNTANNWUONDYOR NA DERE OADM EHYVRONTE NYO
+
+COMPUTED
+
+AZ
+
+193
+133
+134
+134
+125
+179
+129
+114
+11g
+
+49
+211
+283
+121
+
+81
+
+213
+223
+149
+137
+129
+
+RRRQRSPRRRVTARRRRRRRRVARRT TH VRRHRLR HRV SVR A HALT RV VLQNAKQVSNQ
+
+QUAL
+COEFF
+
+BOSS assesses sss ase eS SAS Se SSS Bee eee EES ESAS EE BERENS SSeS e Ss Sees ese ssssson
+
+785
+-811
+-898
+857
+~845
+
+459
+435
+
+797
++743
++182
+-421 -
+-488 -
+-627
++619
+427
+861
+822
++629
++631
+-275
+477
++483
+527
++6728
+778
+724
+717
+-684
++281
++868
+789
+~635
+932
++926
+897
++932
+869
++935
+961
+929
+868
++238
++326
+381
++224
+-678
++737
+718
+
+SHIFT SHIFT
+H13
+
+aR
+R
+
+'
+RRS
+
+Le
+
+tlm
+ROVNNNENK-RNNR-HVERRRR
+
+1
+
+DUNN RNRNENONOE TUM WwWRNanne
+
+'
+RQ
+
+ea
+RQ
+sO
+
+V
+Har
+“NPG
+
+“8.1
+~8.7
+“8.2
+-B.1
+
+5.8
+~B.4
+
+-@.5
+-8.4
+
+8.8
+-6.3
+18.7
+-3.9
+~3.6
+-B.4
+-8.1
+
+2.8
+
+1
+g
+w
+
+me
+
+DOHNDDOMDDODAHSGDOHDGODDODOKDDUVOODMDOMDNDDDOONMONVRRWUU ODDO OOM
+eee ee ee
+
+PWDWWNHY HRA WUMQSQRBQgag
+
+REeNWV aD DNATA K-QunynAnnne ODSRvVRQeVDeUNAy TON vaWUH
+”
+
+vb
+
+RARRNK -MRRRRRVRRVVNH QW QQQN
+—
+
+WWKOWUKHWULRVUYVWUUUUWUUORNNRVUWOY WW DRWVREENWNNNRWYWUWUW
+
+NN NN GN N DO DNNDNOAMNMON SOO RVINNNN OOD HR aT OW EK RNEUMAMNMOw
+NN Ne ee eee eee ee ee eee eee
+
+UW WO MDWVDDYWHUNHDWVOINHMMRIANA
+
+NNVANAN
+NOR haw
+
+NNW
+aNQR
+
+DAMN ODYVOE OWHNRWUNNRDNNTANDEWWWN DUD EU RK eM ONT aWaAN
+
+TOOL
+RELB
+
+72
+72
+71
+78
+68
+66
+65
+65
+64
+63
+62
+62
+63
+65
+66
+67
+66
+64
+63
+63
+65
+66
+67
+67
+66
+66
+
+TaN NADNVODDAAHWUHVWODaDVYRAMDOCWHWMTRUTRWVUON RE QNUOAH ae Row
+
+ON TH NNO
+
+-
+
+HKHHOMSSSUITUAKHAT ahh eae NTTNNaPe abe eAWWWWWWWh
+
+NNW
+
+WO WW 00 WWW 0 0 WW WW WW WW 00 WW WWW WWW WWW WW WWW WW
+UDI VI DWOWVOGTUANNWUN WA @
+
+OF. 1 0 0 9 3 Tt) TT TT TT 009 TT to 0 ot
+Te ee ee ee ee ee ee ee ee ee ee et et et tat et eet pe ee tt ee tt
+NNNNNWVUNNNENNNNANNNNNNANN NNN NWONNNNANWWNNNNWNNN WWD
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+A
+
+ 
+
+ 
+
+193
+133
+134
+134
+125
+179
+129
+114
+11g
+49
+21
+223
+121
+81
+83
+78
+67
+58
+93
+a3
+15
+161
+233
+225
+146
+154
+149
+147
+245
+Mi
+79
+175
+159
+138
+137
+133
+141
+135
+139
+135
+125
+241
+22
+213
+223
+149
+137
+129
+
+ 
+
+STRUCTURAL
+
+weeesssssees
+
+RR RERARSRRTTRAARRARRARTRTETSSAATRELTS SOE RAaagarse
+
+RRRRRRRRRRRVRRRVRRASTLHRRQPRR RTL RV FFSEKSTRKVKVNRARRHRARRKRTU
+RBBORQQRRVRNRRRQRRRKRHRARAVSVRFTRR RR RKHKHKKAQRFLRHHHVRVLKK
+ 
+
+DEPTH
+TVD
+
+9468.49
+9472.48
+9472.47
+9474.46
+9476.46
+9478.45
+9489.44
+9482.43
+9484.42
+9486.41
+
+9488.48.
+
+9498.39
+9492.38
+9494.37
+9496.36
+9498.35
+9588.34
+9522.33
+9584.32
+9586.31
+9588.38
+9518.29
+9512.28
+9514.27
+9516.26
+9518.25
+9529.25
+9522.24
+9524.23
+9526.22
+9928.21
+9538.2¢
+9532.19
+9534.18
+9536.17
+9538.16
+9548.16
+9542.14
+9544.13
+9546.12
+9548.11
+9558.18
+9552.99
+9554.88
+9556.88
+9558.87
+9562.86
+9562.95
+
+QW OLUT OV eee
+NQMOKYWNOTHNADWRMTEHMeMyOeWUMONQRWVWe We NWR NUNN Yee &
+
+eee be
+WHAMDUINWUWDNNOWUMAVNAUE eS MOVNMNEHRNOMUHARAN eH DWN Rays
+
+COMPUTED
+
+AZ
+
+126
+146
+159
+195
+
+52
+245
+237
+182
+
+4g
+176
+188
+191
+
+38
+
+69
+
+23
+138
+347
+123
+121
+157
+129
+141
+158
+152
+148
+115
+128
+123
+186
+187
+147
+169
+195
+
+87
+134
+148
+133
+128
+142
+146
+136
+158
+i739
+14g
+142
+152
+145
+
+79
+
+RBVRRRHQQHRRRRRRRRRHRRRNRRRRHRRTHRRRRKHLKHKHFKKRNQNQNARRVRHH
+
+QUAL
+COEFF
+
+Seo R SSS soe esesssss esses ewes sess esses
+
++828
+723
++542
++389
++634
+569
+-355
+~257
++238
+
+114
+
++158
+- 485
+491
++393
+.279
+525
++437
++423
+-353
+657
++738
+859
+938
+
+642
+
+786
+653
+777
+821
+343
+686
+988
+818
++343
+-562
+»68t
+627
+-653
+-568
++484
+2217
+~484
+-576
+-685
+379
+-597
+585
+-519
++362
+
+SHIFT
+H13
+
+“8.4
+“B.4
+-8.5
+-2.5
+
+nN
+_
+
+Leet
+
+t= =
+
+KH RRAQReK-QnQawee
+AeN&QnanReaown~aw
+
+yur
+RRRag
+PaNWN
+
+'
+BRRRQRVRRQRSRHPRAQR -SPRRVSLRA
+
+DNR ae KE KE RVQwnRy now anew
+
+eee
+
+'
+nN
+MAWRRNRVEWNONARRVNAUNDINNWEUNMNASL MUON ODOVE WU ARWURON HO
+
+I tou
+RSBRQyaman
+
+_
+
+tt t
+RRRRRRRRRQRennn
+TDAMAKC STATIN NO S&TIHOHVIDVDOVHAHHYVYVUER RAN OQe Days
+
+-
+
+ata
+HRRRKQQBRRVQR
+ARQ ON aWROVNRE ODWRE ERR ANRWNWE NH Re UNOOeR wagdeneeas
+
+wee
+WWRBRARUVUUWOVQROVOUVU ONO UDDDDOVUUNOUONUO YW DDMMHUYKYUURREWY
+
+DODD NODOGOODODDONDHONMHODDDDDODMOODODOMHOODMDOMONDUWDNOMOMMODD
+
+TOOL
+RELB
+
+Beste eess=seceanesssssssss=ssKs
+
+71
+71
+71
+72
+74
+75
+73
+
+72°
+
+72
+72
+72
+78
+69
+68
+68
+69
+71
+7t
+71
+72
+72
+
+AMNHVHMMNKHKMNTGAIATHHOKTKHAIHKNATAAGTITTHHHKGKAHnnnoM oT
+AAAHMNTUAGHAKHAHAAHAAGNMMNAHMTMAMAMUAADARAANNYVHARAHAARAAAAMH
+
+WELL
+DIRN
+
+312
+312
+
+WW WW OW 63 0) WW WO WW WWW WWW OW OW WWW WWW WW WWW WWW 0 WD
+Ee ee ee ee ee ee ee ee eee ee ee ee ee ee ee tt tt ee
+WNNNWWWWWWWUYNNWONNNNNNWNHNWNWANNNWNHNNNANNN NH
+
+WOO NDe eee
+
+NVQMDME NWN OHUHDWRIEHENNVEWYNHRONQWYVEWENWRTUNUNW RR ee
+
+eee ae
+
+WAHNHDUINWVUOVYOUUONRVOMEaATDUMNEHARMTIOMMAHSQOINA-AWhHYE RNY
+
+ 
+
+RESULTS LISTING ~- PAGE
+
+CORRECTED STRUCTURAL
+
+AZ
+
+seaesceneessesess
+
+138
+347
+123
+121
+157
+329
+141
+159
+152
+148
+115
+128
+123
+186
+187
+147
+163
+195
+
+134
+142
+133
+128
+142
+146
+136
+158
+179
+149
+142
+152
+145
+
+73
+
+ 
+
+RQ
+&
+
+BSPQQOQQg es VA QQAggg_geRRQqeRRaeagggaggagagsgasgye
+RERVRVTSVSSLVSILRRRRRSVVVHVSVPVSTPV SST SVT STLKHHRFRRLA
+
+RQRQSRMARKRARVRTRWRPBRRVRRRRVRSTRRKSHPVRRRRV®RLNVTRKBRKRRKKDVDR
+ 
+
+DEPTH
+MEAS
+
+9578.99
+9572.99
+9574.98
+9576.89
+3578.89
+3588.88
+9582.00
+9584.99
+9586.99
+9588.99
+9538.99
+9592.88
+9594.89
+9596.82
+9598.80
+9692.98
+9682.88
+9624.08
+9686.02
+9688.08
+9612.88
+9612.99
+9614.98
+9616.98
+9618.88
+9628.88
+9622.88
+9624.08
+9626.88
+9628.88
+9632.88
+9632.89
+9634.88
+9636.88
+9638.08
+9642.88
+9642.89
+9644.99
+9646.88
+9648.89
+9658.99
+9652.89
+9654.88
+9656.88
+9658.88
+9662.89
+9662.98
+9664.88
+
+DEPTH
+TvO
+
+9564.84
+9566.83
+9568.82
+9572.81
+
+9572.88
+9573.99
+9575.98
+9577.97
+9579.96
+9581.95
+9583.94
+9585.93
+9587.92
+9589.91
+9591.98
+9593.89
+9595.88
+9597.87
+9599.86
+9681.85
+9683.84
+9695.83
+9687.83
+9699.82
+9611.88
+9613.79
+9615.79
+9617.78
+9619.77
+9621.75
+9623.75
+9625.74
+9627.72
+9629.71
+
+9631.71
+
+9633.69
+9635.68
+9637.67
+9639.66
+9641.65
+9643.64
+9645.63
+9647.62
+9649.61
+
+9651.60
+9653.59
+9655.58
+9657.57
+
+wm N
+
+or ew me
+
+ee eee Ne
+
+HH RROEENWROAN CU AUN ENON OER UON VE DTN OWE QM RW OWEN OO
+
+NNW
+WNNAHNAHAELW=-WOUATHUAHTIDDIWOOR- - MOOUPADAHHVHOAUNMHOVGUTWVARaA
+
+COMPUTED
+
+AZ
+
+39
+132
+163
+161
+137
+276
+246
+239
+
+98
+
+77
+113
+154
+168
+179
+
+19
+133
+142
+148
+194
+177
+167
+156
+155
+159
+175
+174
+176
+219
+159
+168
+176
+118
+215
+281
+147
+157
+144
+135
+288
+113
+118
+193
+224
+282
+2282
+213
+211
+197
+
+QUAL
+
+COEFF
+
+SRS SQ soe SS sass sss see SSAA SAAS EEA CABS S eee AAAS e ss esas SSS Ee aseesssagG
+
+8.366
+8.672
+2.435
+2.587
+2.645
+8.483
+8.346
+@.416
+8.656
+8.627
+8.693
+2.537
+2.848
+2.619
+@.311
+8.185
+8.682
+8.784
+8.589
+2.639
+2.813
+8.888
+B.658
+B.625
+£.589
+2.738
+2.759
+2.784
+8.439
+8.566
+8.633
+8.627
+@.656
+#.827
+2.868
+2.854
+8.836
+2.951
+B.833
+2.418
+8.135
+8.431
+8.655
+8.493
+#512
+B.754
+#824
+8.926
+
+SHIFT SHIFT
+
+Reessascasses
+
+1
+eR
+
+-N
+
+ps w4
+NON WOW Qww
+( pas
+WWWWWWHW
+ee ne ee ee
+QWWHW WWW
+
+1
+
+NN DDVWNDOODVODOADODODODDMDOYNYNYYSNYNNNNN OOD MUNAMAAAH
+
+tems
+RQNERQQe eee
+
+wn
+
+1
+on
+
+eee
+WNNANKHE WH OONAUBANADVDRe ee NDONARAMNQVVAVHOVUUTWN ORs
+
+WWKWHHWWWWWWWWW
+Pee eee et ee ee
+PPM abana haan
+
+~RARWNRRARRQQRAWRRARVRANYW- VRQ
+
+Ree RQ RWwQQRaQarngaesy
+
+14
+t
+
+WWWW WW
+eee eee
+moon
+
+It
+NYVRRRATUBRWNNWNNDRQ
+DUAADAAHAAVSAHNAKDAAHATUIAAAIDADAVINANDOAVNNNOUONNOTe eNO
+nan
+
+RRR ROR ET QE HK RQNE NEN RH HOE RKO OR WOOD RANUEDDAAOOH RD
+
+ee ee eee ee
+
+WWWWWWWHAWW
+Uaaequqgggaa4
+
+ww
+eee
+own
+
+W=NDWOWDERUH-NNWOREN ENN ARN RRWEWDE KH VUOWUQWOHAWIH ONAN AN
+
+pane
+1
+ee
+
+DNIGOOODDOHGHTDODDDDHOHHOHDDDDODODDDHOHDOMDDDNDDBNONDOONMMOD
+WWLHHDWUDNYOVUDOWUUW ROOD NU DWUUDUMDNDNUUUWLYRWUURWAOMDDOMMAMW
+9.00 OT TT Tt 0 0) 1 TT 1 TT 01 TT TT 1 Tt) TT TT
+RPRQWOKKNWRANVOTEUVNaNON ODS RQWUINNE DUINOWO Te QYVORWHWE NN OO
+
+QenNe—- QARRAHRRRAVNA
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+Bocemessesnessees
+
+39
+132
+169
+161
+137
+276
+246
+239
+
+98
+
+77
+113
+154
+168
+179
+
+19
+133
+142
+149
+194
+177
+167
+156
+155
+159
+175
+174
+176
+219
+159
+168
+176
+118
+215
+281
+147
+157
+144
+135
+288
+113
+118
+193
+224
+282
+282
+213
+211
+197
+
+ 
+
+STRUCTURAL
+
+BRQRRANRARRRHRHRKTLRHQHKHRARRRRRRRRVRRVRVBRRHRQRVRLLVRRS
+MRBSBRRFQRQSQQRSQRKHKRRRQVRQVRVARSARRRABRRVVRRRRERRRRQVHN
+RBRSRRAVARRRRRPRAR TRA RTRHRQRHHPRSERHHRRHRQRRSRSVQRAPLVLE
+ 
+
+DEPTH
+MEAS
+
+9666.08
+9668.08
+9678.88
+9672.88
+9674.98
+9676.99
+9678.09
+9688.09
+9682.86
+9684.88
+9686.98
+9688.89
+9699.88
+9692.98
+9694.88
+9696.88
+9698.98
+9788.88
+9782.88
+9784.88
+9786.88
+9788.88
+‘9718.88
+9712.89
+9714.08
+9716.88
+9718.88
+9728.08
+9722.68
+9724.88
+9726.88
+9728.89
+9738.88
+9732.88
+9734.82
+9736.88
+9738.98
+9748.88
+9742.88
+9744.88
+9746.88
+9748.88
+3758.88
+9752.98
+9754.88
+9756.08
+9758.08
+9762.88
+
+DEPTH
+
+9659.56
+9661.
+9663.
+9665.
+9667.
+9669.
+9671.
+
+9673
+
+9675.
+3677.
+96739.
+9681.
+9683.
+9685.
+9687.
+9689,
+9691.
+3693.
+9695,
+9697,
+9699.36
+
+9781
+9783
+9795
+9787
+9789
+
+g7tt.
+9713.
+39715.
+9717.
+9719.
+
+9721
+
+$723.
+9725.23
+9727.22
+9729.21
+
+9731
+
+9733.18
+
+9735
+9737
+
+9739.
+9741.
+9743.
+9745.
+9747.
+9749.
+
+9751
+
+9753.88
+
+eee an nN
+
+NOVO REND aW ye
+
+eon
+
+wet
+
+ReNwEn
+DBMAOMHAOROKAVNOE TAIN TD  DRUTHADEENEROEVRENOEEOWNAREROAUNEN
+
+COMPUTED
+
+AZ
+
+1728
+166
+311
+183
+183
+186
+117
+385
+382
+147
+148
+172
+191
+116
+171
+248
+188
+261
+284
+161
+284
+224
+181
+
+53
+
+77
+156
+188
+191
+191
+122
+
+135
+141
+134
+131
+172
+162
+132
+134
+174
+177
+162
+177
+174
+167
+145
+183
+164
+
+RRRVVRSRQRVRK MQ RK SRRKRKLRRKHQSRHRHMNRSRHHKRKRRKLRKHRVOVHSAN
+
+QUAL
+COEFF
+
+BOGGS SS cee SMA SSSR SRS AeA eee eNOS SSS EEA SS SONA eee SES EE SSeS SS esas Asesassessssesassos
+
+«817
+«673
+365
+557
+614
++553
+72
++286
+788
+»828
+
+755
+
+«398
+
+338
+
++245
+332
+-226
+227
++312
++284
+-451
+469
+694
+«663
+
+815
+
+-958
+811
++836
++B11
+788
+-499
+258
+559
+595
+558
++399
++324
++239
+$79
++639
+-641
+381
+-192
+«383
+«476
++486
+419
++634
++637
+
+SHIFT SHIFT
+H13
+
+UOHRDHONKDeTOVNOUMeO~w
+
+WRRKRAQNRRQQe- ASE
+
+1
+
+I
+RRQ QQ Qo
+PaWANWEaN THE AL
+
+rie
+TRE
+woe
+
+-B.1
+~8.1
+-3.4
+-2.8
+~1.1
+-2.9
+-2.7
+-2.5
+-3.8
+-3.4
+“3.4
+
+!
+New
+
+1
+NW RRR RRIRK HK RHQ BRRHe- BAN VRGWONHASSSSS
+
+H24
+
+“8.5
+“8.1
+
+”
+
+aad
+DHODWRWaAN Se MNVaNODURVOURWEWRENQUNOOWEAUOW
+
+NNN NNO OOD RWWYNNMMMUDYYNAKNHDHHAMUMMMNINHNMMHAAHHTOKH OS Bul
+
+et ee
+DWN OODWOWVANQMI OV MUNAHVODHKAODMNT WWWHRNTHOS
+
+AN HOOHBUVVRRROWKHKDUNUKUHUUUWUWURRREREWHULS
+
+eee
+
+HDOONODAGHDTDHOWOADHODDONOODDDDNDHDADHDDODDDMDOHODOMOMMHODNMDMONMW
+
+TOOL
+RELB
+
+72
+71
+71
+69
+69
+78
+78
+78
+71
+72
+71
+71
+71
+71
+72
+72
+72
+71
+
+N
+
+Qe ee NIH aN eS
+
+pee ee
+
+reNnaggean
+
+—
+DH-WOWUOANNNRNMNWGRRQRWE-NVUDONN Ta aNUH 0
+
+WOT HDHDODDOHADDDOUUNHDDDDODHDODMNDDDONDMMDMOYUNDMMOOW A!
+arene
+
+—
+
+-
+
+AMAMHTMNKHKHKCGHHAAIATMHTAKTTGAHMHGAHTTIMTHKnAT NNT oyu ool
+WW WO) 69) 2 2 0 WWW WW WOW WWW WWW WW WW WW WWW WWW LWW WW WW
+ee ke tae ek ee ke ee ee tk et ee te ee ee eee et et tet tet et bee tee eee
+AMAATTIMAHANHAMANATKHKHAIHAAGMKAHTUKHAMnNGE OTM Heaneaqnonnaaaon
+DBNUWODHORVAN DE HUNT De MAVDE NERO ENR NUE HE OWNARSeRWauan
+
+NWWR ree eN
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+178
+166
+311
+183
+189
+186
+117
+305
+302
+147
+148
+172
+151
+116
+171
+248
+188
+261
+284
+161
+204
+224
+161
+
+53
+
+77
+156
+188
+191
+191
+122
+
+96
+135
+141
+134
+131
+172
+162
+132
+134
+174
+177
+162
+177
+
+“174
+
+167
+145
+153
+164
+
+ 
+
+STRUCTURAL
+
+Beeasasesssssesa
+
+eS
+9
+
+REVRRRTRRVRRRRRAQHRARRBABRRHRRVRRHTVSLROOARHHRRARRVHRRKA
+
+RQRRRVWARHRRTQRRRRSRHHRRRRSTVTAHHKRRKRKRS HHL HTRHVRRHRHVHHVVE
+RRBQQBQQVURQSQSQRQRQRVRRRRQQRQPRSTSRVRRVESVRHHVQHHR HOR HRRAS
+ 
+
+ 
+
+ 
+
+ 
+
+am HmRH Se eH eH eH He EE HH ss
+RESULTS LISTING - PAGE 33
+DEPTH DEPTH COMPUTED QUAL SHIFT SHIFT CALIPERS TOOL TOOL WELL WELL CORRECTED STRUCTURAL
+MEAS TvD DIP AZ COEFF 13 H24 c13 C24 PAZ1 RELB ODEVN DIRN DIP AZ DIP AZ
+Baocessessecessessossessessessamosssasslssessssoc sees sense sss eemacasssnenes sees s sense caeunesaeeaerssaccaccaueeaeeneuccan
+9762.98 9755.97 19.3 168 8.553 -2.4 1.4 8.7 8.8 29 75 5.9 314 19.3 168 o.9 a
+9764.98 9757.96 18.1 129 6.691 of 2.8 8.6 8.8 30 75 5.8 315 18.1 129 o.g a
+9766.98 9759.85 11.5 131 8.698 -@.1 1.1 8.5 8.8 30 74 5.8 316 11.5 131 o.@ g
+9768.98 9761.84 8.9 178 «8.473 -1.8 ae 8.5 8.9 28 73 5.8 315 8.9 179 o.8 a
+9778.88 9763.83 8.2 147 9.549 -9.4 2.3 8.5 9.8 26 71 5.8 315 8.2 147 2.8 a
+9772.88 9765.82 6.6 154 8.399 -@.4 -9.1 8.5 9.2 26 71 5.8 315 6.6 154 9.8 a
+9774.88 9767.91 12.8 128 «9.388 9.8 1.2 8.5 9.1 30 74 5.8 316 12.8 128 @.8 a
+9776.08 9769.98 9.6 283 «9.356 -@.4 -2.8 8.5 9.8 34 78 5.8 316 9.6 283 98.8 g
+9778.08 9778.99 7.8 276 «68.566 -8.5 ~-2.3 8.5 8.8 36 aa 5.8 316 7.8 276 2.8 a
+9788.88 © 9772.98 4.5 166 2.848 -8.4 -B.4 8.5 8.6 38 82 5.9 316 4.5 166 .9.8 a
+9782.88 9774.97 6.9 178.841 -8.7 -B.1 8.5 8.6 ° 37 82 5.8 315 6.9 178 o.8 g
+9784.88 9776.96 4.2 139 «9.596 8.8 -8.3 8.5 8.5 35 79 5.8 316 4.2 139 9.8 a
+9786.88 9778.95 8.5 341 9.586 1.3 -2.2 B.5 8.5 31 75 5.8 316 8.5 341 28.8 g
+9788.88 9789.94 18.5 164 9.768 -1.9 2.3 8.5 8.5 28 72 5.9 316 19.5 164 g.f a
+9798.98 9782.93 16.8 215 9.784 -2.7 ~1.6 8.5 8.8 24 68 5.8 316 16.8 215 g.8 g
+9792.98 9784.92 16.9 289 6.862 -2.7 1.6 8.9 18.28 29 64 5.8 316 16.9 299 o.8 g
+9794.88 9786.91 14.5 267 «8.333 -8.6  -4.3 9.8 11.8 19 62 5.8 317 14.5 267 @.8 g
+9796.98 9788.98 3.1 164 8.727 BB -B.7 @.8 18.7 28 63 5.7 317 °°3.1 164 g.8 g
+9798.98 3799.89 2.5 167 8.566 9.1 -8.8 8.7 18.8 20 64 5.7 316 2.5 167 o.2 g
+9809.98 9792.88 6.1 138 8.287 -2.1 B.1 8.7 9.5 21 64 5.7 317 6.1 138 #.6 a
+9802.88 9794.87 43.3 198 9.281 -9.8 -B.2 8.6 9.3 23 66 5.7 317 43.3 198 g.¢ o
+9824.88 9796.86 44.1 30 «8.293 18.7 o.8 8.5 9.5 25 69 5.7 316 44.1 388.8 a
+9896.88 9798.85 4.2 121 9.531 68.3 -@.2 8.7 9.7 28 72 5.7 316 4.2 121 8.2 g ‘
+9898.90 9898.84 5.2 147. 8.737 -B.1 -8.2 8.8 9.5 31 74 5.7 317 5.2 147) Oe a f
+9818.99 9802.83 5.9 171 «8.721 -9.5 = -8.3 8.7 9.1 32 76 5.8 316 5.9 171 8.8 a
+9812.99 9894.82 12.7 134 9.514 -8.2 1.4 8.8 3.6 33 77 5.8 316 12.7 134 6.8 a
+9814.98 9896.81 13.8 133.685 -8.1 1.5 9.1 18.2 34 78 5.8 316 13.8 133 g.8 a
+9816.88 9898.82 6.2 144 8.589 -2.2 8.8 9.2 18.1 35 79 5.7 316 6.2 144 2.8 a
+9818.90 9818.79 8.9 129° 9.626 @.1 8.7 9.1 9.8 37 8a 5.7 317 8.9 129 o.8 a
+9828.00 9812.78 12.3 95 8.672 1.4 #.9 8.8 9.3 38 82 5.7 316 12.3 95 Oe a
+9822.08 9814.77 14.4 93 8.856 1.7 1.2 8.7 8.8 38 81 5.7 317 14.4 93 9.8 a
+9824.98 9816.76 14.3 157. @.413 -1.1 1.2 8.6 8.7 37 80 5.8 317 14.3 187 go a
+9826.98 9818.75 12.7 151 9.399 -#.8 1.1 8.6 8.8 35 78 5.8 317 12.7 151 &.8 a
+9828.08 9828.74 5.5 136 8.759 o.2 2.8 8.6 a.8 32 76 5.8 316 5.5 136 8.8 a
+9838.88 9822.73 5.8 137. 9.298 «8.8 2.8 8.6 8.8 30 73 5.8 317 5.8 137 g.8 w
+9832.88 9824.71 4.9 143° 8.543 9.8 -B.2 8.6 8.8 27 71 5.8 316 4.9 143 g.8 a
+9834.89 9826.71 6.3 139° -@.842  -@.1 g.1 9.1 9.6 26 78 5.8 316 6.3 139 B.2 a
+9836.98 9828.69 12.6 62 8.688 2.4 g.4 9.3 3.9 27 78 5.8 317 12.6 62 8.8 a
+9838.98 9839.68 3.9 158 6.471 8.8 -.4 8.8 9.4 27 78 5.8 317 3.9 150 @.9 a
+9848.88 9832.67 6.9 178 6.428 -8.7 -8.4 8.6 8.8 26 63 5.7 317 6.9 178 9.8 2
+9842.98 9834.66 8.6 145 8.781 -9.4 a.4 8.6 8.9 25 68 5.7 317 8.6 145 8.8 g
+9844.88 9836.55 9.8 146 «9.851 -#.5 2.6 8.5 8.8 25 68 5.7 317 9.8 146 8.8 g
+9846.08 9838.64 47.8 121 8.215 -8.6 9.2 8.4 8.7 25 68 5.8 317 47.8 121 O.8 g
+9848.08 9849.63 9.8 153 6.471 -8.7 g.4 8.5 8.7 25 68 5.8 317 9.8 153 8.8 a
+9858.88 9842.62 6.6 135 «68.749 Oe 2.2 8.5 9.8 24 67 5.8 317 6.6 135 o.9 a
+9852.98 9844.61 7.3 126 9.898 9.1 a.4 8.5 9.2 22 65 5.8 317 7.3 126 @.8 g
+9854.80 9846.68 8.1 123. 9.881 8.2 a.5 8.6 9.1 22 64 5.8 318 8.1 123 #.8 g
+9856.88 9848.59 6.8 123. 8.782 8.3 @.1 8.7 9.8 23 66 5.8 317 6.8 123 8.8 g
+
+ 
+ 
+
+DEPTH
+TVD
+
+seme secosesmascsesses
+
+9858.58
+9852.57
+9854.56
+9856.55
+9858.54
+9869.53
+9862.52
+9864.51
+9866.59
+9868.49
+9878.48
+9872.47
+9874.46
+9876.45
+9878.44
+9888.43
+9882.42
+9884.41
+9886.49
+9888.39
+9899.38
+9892.38
+9894.37
+9896.36
+9898.34
+9988.33
+9982.33
+9984.32
+9986.31
+9998.32
+9918.29
+9912.28
+9914.27
+9916.26
+9918.25
+9928.24
+9922.23
+9924.22
+9926.21
+9928.28
+9938.19
+9932.18
+9934.17
+9936.16
+9938.15
+9948.14
+9942.14
+9944.13
+
+_
+
+ng
+
+DAUNKHMDaEVNOeAHOQNDMaWWNWR QOHVMIInUIVIvV es OMe MOWWEROTDUAMH IH
+
+or
+
+p
+
+WAN De VOMAN Ha HON WORRQOWNDHNWONE NG QNWN DRE NTE TUM R OWE
+
+COMPUTED
+
+AZ
+
+124
+136
+137
+123
+114
+154
+
+as
+
+97
+125
+228
+232
+354
+359
+384
+335
+247
+233
+143
+1392
+138
+129
+123
+159
+159
+182
+184
+121
+
+97
+181
+172
+172
+334
+
+92
+
+77
+248
+
+45
+347
+
+88
+
+82
+
+59
+141
+133
+133
+142
+156
+145
+135
+
+RRRRARRRRKKRRRRKRRRKRRRKRRRRRNVRRRHRMRARRRTRHRRRKQRHRQVRVLKQNQ
+
+QUAL
+COEFF
+
+BESS SSSA S AS SRSA ER EER EROS SS SESS S EER SHANA ESAs Sasa sss ass
+
+-721
+-686
+-736
+-698
+~817
+»655
+7715
+- 983
+892
++273
+524
++931
+-819
+383
+555
+
+695
+
+798
++719
+«945
++868
+»882
+«778
++797
++817
+814
+-848
+784
+-679
+. 895
+-779
+~ 66H
+-538
+~525
++639
+387
+499
+S41
+~572
+~422
+-328
+272
+667
++765
+-826
++922
+-637
+754
+-815
+
+SHIFT SHIFT
+
+t
+aR
+~
+
+NNN WW DW OADYR ENE NEE RO MUMNTOMRAVRWNWWUWNE ORWDONEEDNEEANN
+
+ere
+PaRNWERenaw
+7
+
+FPRABHRRQRRR
+
+'
+’
+
+U
+=
+-
+
+ANKE KVVNRQDRNNEVNE KE DINKHUTIUMMNHWNQRQRKDANDONMWWUOWNa We
+ee
+
+'
+DWDNOVDOGCODDDMDODDADOONODWWDOOUDYUYWQRUDODRH- QNWHHDMOMDUMUWUHDMAD
+ad
+
+tm
+Peri
+
+POUNN
+
+WHOS
+
+'
+_
+nN
+
+'
+RQ
+nN
+
+va
+brad
+
+ed
+Fe ee et tee et te et te
+
+WWNNDN ETN QW NOH DOWERVNEWNQREAL
+
+KDHOVEQAKIATKTTMTIHe&ONWEWWNNNYOVNUONWOYINE N WYNN OQQWT A
+
+4
+wad
+RRARRQRRRHRH-- HVFRHARRSR -Q- HRRQHAVRSN
+
+eee
+OOD NH WODMDWWOU RN QE NHQeNNYH HK NQWKDUNENUOUAMDORRUWUUWOWW
+
+RRRRREN-QVNNN REeVRRVSERRRRRPRRVRHVQNVWVR “NVQ “VRRHRHVVV|
+
+va
+RR
+= wD
+
+TOOL
+PAZ1
+
+25
+27
+27
+26
+25
+26
+27
+29
+38
+29
+28
+28
+27
+25
+24
+23
+21
+18
+17
+17
+17
+
+ACHATIMAIAAMOKHKHGTIGHTIAAN AMONG on
+PRAMMNATIAGHAAHBHBAAAKHAHNYNDVYONVORHOW NN YY YN OODOODVWUIYND
+
+ 
+
+WELL
+DIRN
+
+317
+317
+317
+317
+317
+
+wo
+ee
+“IN
+
+DOWWWWWWWWWWWWWWWWWW WWW WW WWW WWW WWW WWW WWW
+ee ee ee ee pt ttt gan tee ee ba ae et eee ee be te eet et te tt
+APTN TA ODE MOIAHAHDHHWYYRHUHONNIHNAD SNS NS
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED STRUCTURAL
+
+ 
+
+_
+
+Nog
+
+wo
+
+=
+DNV ODEVO-DUDRNDTHEWWNWRHQHHMUYIIITINN EDO MOWW SOTA NH
+
+RRRQQQRQRHRARRRRRRMKRQNMRRRPBRKHRRSRRHKHRKRHRRRRMTHRRAVOKRR
+WRRRBARRRARRRRARSRKRKRRNRKRRRRRKVRRVRRRERQRRRSRRTVTHHRRVRRRRKANQ
+RRQRRQRRDTSARRVRRLARQARVRRVABARHRVRHRRKRRKRHRAQRHRKHRTRAHRRRAHRVQRRKRL
+
+WAN DH NOAN Ha HON WURRROWDHMWONE NUE RVWON DREN ANTI ROWe
+ 
+
+DEPTH
+MEAS
+
+9954.
+88
+88
+9968.
+
+9956
+9958
+
+9962
+9964
+9966
+9968
+9979
+
+9976
+9978
+
+Roneosasee resets ssseeseeess
+
+ao
+
+BE
+
+- 88
+OE
+- 88
+88
+88
+9972.
+9974.
+88
+88
+9982.
+9982.
+9984.
+9986.
+9988.
+9998,
+9992.
+9994.
+9996.
+9998.
+18888.
+18882.
+18984.
+18086.
+18888.
+18818.
+18812.
+19814.
+18916.
+19918.
+10f29.
+18822.
+18024,
+18026.
+1LAN28 .
+18838.
+10832.
+isg24,
+
+28
+Be
+
+BB
+
+ 
+
+ee
+
+— Ow nN —— ne
+KWH RNTDVRUONNE N= BH TMROTANNWUNWUOUOVOVONVUe Annas
+
+ 
+
+TEE W OWN AMEWUDMRVOH DIAG e - DeONMNUTYROWH RIN VOOM
+
+AO ae
+
+COMPUTED
+
+ 
+
+A
+
+12a
+124
+165
+162
+137
+
+17
+177
+161
+161
+186
+121
+146
+158
+181
+169
+14g
+156
+176
+
+48
+
+79
+169
+158
+182
+159
+147
+148
+289
+254
+141
+
+27
+158
+143
+
+121
+172
+132
+188
+316
+195
+238
+
+30
+73
+
+SHIFT SHIFT
+
+ 
+
+ 
+
+bre
+HWW RNUNDEONNE NE RE NRVUUNNNWONWTODYONHVRENHADO
+
+QaNH- TE OQRe Hvar Ne HAYNRQEN
+Rvvwww 9
+
+BWOQNWVTIWNAHHWNDE aWENUOHBRNHARQWUNNHANH Oe WHE Ae
+
+mt
+RAH ee RES RRREQQVE HK RRRHOR’
+
+1
+LAW UD QRMAANHIN&SDHAHAMEBROHMNAHUAHTaUAAHOUAAD
+oe
+W QR
+— eee
+
+isd
+ee
+
+Pitted
+ANNAN ODOOQNHROWUNMOBMODMDWOK-$NANUWUHWWW
+ene
+
+AMR aATIe Se TUUNUTINNa ae eee ahah enuNan
+
+ta
+nN
+“RW IN DAW DRWOOYHNYDYUNDA -DeRONMHVROWHE Qunwwonw
+
+wow
+
+1
+ee
+
+.
+
+LW ADT N SH BW RUE OMA HAYVNWNWOHDHOKNWTPaA ROR EaOANaH Oa
+
+t
+=
+
+PFQRRRVWRRRRRRRRHRATNHHRRRTVRNOKKSSRHKEHKHRMNQRVH
+Aww ais
+
+'
+RRR RRRRHRRRHHTRRRA QUBRVRAPRQH GORY“ BRAY
+
+-
+“UW ee RARN
+
+AAGHAAGOGOODVDDVIONDOODODDDDO WOOD MDMDMDODOMOMMHNMDNDAOD
+30. G1 G7 G1 OF G1 OT 0 oF OOF) G1 Tt OT To 0 F000 0) To 0 oT oo To on
+68 WI WW WD OW WW WW WW WW WWW WW 0 WW WW WW) WWW WWW 03
+Fe ee ee ee ee eee tee eee ee ee ee eee tt et tt
+ADNAUAAIAHKHDATTHANMNMNMAMNAAHMHMTME MUAHHH MAHHNTMHHMTMKNH
+
+Hanae
+
+ 
+
+RESULTS LISTING - PAGE
+CORRECTED
+
+AZ
+
+128
+124
+165
+162
+137
+
+17
+177
+161
+161
+186
+121
+146
+158
+181
+169
+149
+156
+176
+
+4g
+
+79
+169
+189
+182
+159
+147
+148
+289
+254
+141
+
+27
+152
+143
+
+191
+172
+132
+188
+318
+195
+238
+
+73
+
+ 
+
+STRUCTURAL
+
+BRRRRAIRRARRAARHARRRARAHRRARSLAHRHAHQAgRggrgyg
+QRRQRRAHRARRHRRRRQRSTPRASRRPRRMRHTRVRVRRRRRVVR
+TR QNRVNQRHNRRRRRRAVRHRHMRRRTRRRRRRQ RNHHNRRRQROQVQRNQ
+
